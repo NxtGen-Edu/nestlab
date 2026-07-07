@@ -1,0 +1,406 @@
+﻿PO_ID,Supplier_Name,Supplier_Region,Product_Category,Order_Date,Quantity_Ordered,Unit_Cost_INR,Lead_Time_Days,Defect_Rate_Pct,On_Time_Delivery
+PO1228,GlobalSupply Co ,East ,Components,2024/01/13,570,₹474,15.0,,No
+PO1098,TamilCast ,West ,Raw Material,17-04-2024,1084,₹345,15.0,3.01,No
+PO1080,NovaPack,South ,Raw Material,2024/12/22,1492,₹385,17.0,1.59,Yes
+PO1373,BharatParts,East,Raw Material,2024/08/12,1635,₹352,11.0,0.0,Yes
+PO1388,NovaPack,EAST,Components,01-02-2024,1730,₹40,16.0,1.98,No
+PO1026,globalsupply co,West,Components,2024/06/19,259,₹629,,3.08,Yes
+PO1391,ACME LTD,South ,Packaging,29 Jun 2024,725,₹385,13.0,1.35,Yes
+PO1335,novapack,East,Raw Material,01-03-2024,111,₹576,14.0,0.41,Yes
+PO1283,GlobalSupply Co,West ,Components,04 Sep 2024,268,₹890,10.0,,Yes
+PO1188,BharatParts ,WEST,Raw Material,13-09-2024,1787,₹450,10.0,0.64,Yes
+PO1056,GlobalSupply Co,north,Raw Material,06-11-2024,482,₹456,16.0,0.0,Yes
+PO1089,NovaPack,EAST,Packaging,2024/03/21,1262,₹570,10.0,2.73,No
+PO1060,NovaPack,EAST,Consumables,2024/05/06,568,₹521,9.0,0.3,No
+PO1242,acme ltd,west,Packaging,01-01-2024,1872,₹360,4.0,2.99,Yes
+PO1398,bharatparts,South ,Consumables,29-11-2024,1698,₹376,16.0,1.73,Yes
+PO1294,GlobalSupply Co ,NORTH,Packaging,22-09-2024,849,₹334,17.0,3.02,No
+PO1120,GlobalSupply Co,South,Consumables,19-05-2024,273,₹300,13.0,1.54,Yes
+PO1372,GlobalSupply Co ,NORTH,Packaging,17-06-2024,1481,₹90,13.0,0.29,Yes
+PO1139,GlobalSupply Co,NORTH,Components,2024/08/10,845,₹256,10.0,2.2,Yes
+PO1207,NovaPack,EAST,Components,16-08-2024,1754,₹376,13.0,2.88,No
+PO1052,BharatParts ,South,Consumables,22-01-2024,194,₹241,,3.87,No
+PO1162,GlobalSupply Co,SOUTH,Consumables,2024/08/16,734,₹660,16.0,2.11,Yes
+PO1094,NovaPack,South,Components,18 May 2024,1905,₹325,12.0,4.64,No
+PO1396,Acme Ltd,West,Components,22 Jul 2024,1335,₹892,,2.93,Yes
+PO1030,globalsupply co,NORTH,Raw Material,10 Mar 2024,1651,₹298,5.0,2.4,Yes
+PO1264,NovaPack ,east,Consumables,2024/02/09,1711,₹355,13.0,3.54,No
+PO1332,BharatParts,west,Consumables,12-11-2024,1869,₹558,19.0,3.59,Yes
+PO1118,BharatParts,south,Packaging,2024/12/01,925,₹40,22.0,2.25,No
+PO1277,TamilCast,North,Raw Material,18-06-2024,818,₹548,20.0,0.49,No
+PO1145,novapack,North,Raw Material,19 Jan 2024,1995,₹658,21.0,2.73,No
+PO1232,Acme Ltd,South,Components,2024/03/04,383,₹375,11.0,1.95,Yes
+PO1014,TAMILCAST,North,Consumables,2024/01/21,194,₹452,12.0,2.29,Yes
+PO1174,TAMILCAST,north,Raw Material,2024/08/28,1780,₹502,7.0,3.71,Yes
+PO1255,Acme Ltd,east,Consumables,04-03-2024,177,₹384,7.0,3.71,No
+PO1390,TAMILCAST,North,Packaging,19-02-2024,1484,₹236,10.0,2.8,No
+PO1227,GlobalSupply Co,SOUTH,Packaging,07-01-2024,1809,₹472,11.0,2.23,Yes
+PO1051,Acme Ltd,West ,Consumables,27-07-2024,852,₹709,60.0,2.58,No
+PO1271,acme ltd,East,Raw Material,09 Sep 2024,1411,₹625,14.0,,No
+PO1147,BHARATPARTS,EAST,Raw Material,2024/12/03,1416,₹545,14.0,1.55,No
+PO1165,NOVAPACK,NORTH,Components,2024/12/12,84,₹556,21.0,4.15,No
+PO1380,Acme Ltd,west,Components,2024/04/20,628,₹483,4.0,2.6,Yes
+PO1252,acme ltd,North ,Components,18-01-2024,149,₹524,14.0,4.7,No
+PO1065,bharatparts,West,Components,2024/08/22,122,₹289,,4.45,No
+PO1129,tamilcast,west,Components,24-10-2024,716,₹174,7.0,2.87,No
+PO1111,TamilCast,East,Raw Material,19-01-2024,728,₹621,2.0,0.65,Yes
+PO1369,TAMILCAST,South,Consumables,2024/01/12,1970,₹451,20.0,1.06,No
+PO1090,GlobalSupply Co,West,Raw Material,06 Jan 2024,505,₹273,17.0,6.8,No
+PO1109,TAMILCAST,north,Raw Material,14 May 2024,1712,₹445,11.0,1.99,Yes
+PO1028,GLOBALSUPPLY CO,North,Consumables,2024/12/02,350,₹635,19.0,,No
+PO1041,tamilcast,SOUTH,Components,30-12-2024,1565,₹346,10.0,2.05,Yes
+PO1003,GLOBALSUPPLY CO,west,Consumables,13 Mar 2024,1534,₹693,7.0,2.48,No
+PO1022,Acme Ltd ,West ,Raw Material,2024/11/21,1924,₹542,11.0,2.19,Yes
+PO1374,NovaPack,West ,Raw Material,2024/10/20,339,₹453,19.0,1.82,No
+PO1235,TamilCast,East,Components,17 May 2024,248,₹511,15.0,0.0,Yes
+PO1187,BharatParts ,NORTH,Packaging,2024/02/05,684,₹854,9.0,6.58,No
+PO1220,ACME LTD,south,Raw Material,2024/07/15,1902,₹607,9.0,0.0,Yes
+PO1337,BHARATPARTS,SOUTH,Packaging,13-06-2024,265,₹307,,2.77,Yes
+PO1057,Acme Ltd,East,Raw Material,2024/07/31,1133,₹429,9.0,,No
+PO1342,TamilCast,East ,Consumables,20-08-2024,223,₹243,16.0,3.49,No
+PO1289,GlobalSupply Co,West,Raw Material,2024/08/08,1040,₹530,14.0,0.0,Yes
+PO1334,GLOBALSUPPLY CO,North ,Components,2024/03/15,1642,₹252,11.0,3.61,No
+PO1245,Acme Ltd ,SOUTH,Raw Material,03-05-2024,119,₹266,8.0,1.67,Yes
+PO1115,globalsupply co,North,Packaging,11-03-2024,632,₹502,13.0,3.65,No
+PO1157,globalsupply co,WEST,Components,2024/10/26,312,₹524,4.0,1.55,Yes
+PO1101,Acme Ltd,east,Raw Material,2024/06/11,832,₹269,19.0,0.0,Yes
+PO1356,acme ltd,East,Raw Material,2024/12/07,1798,₹769,18.0,1.45,No
+PO1308,BharatParts ,South,Consumables,15-05-2024,1733,₹344,,5.07,Yes
+PO1295,GLOBALSUPPLY CO,SOUTH,Raw Material,06-02-2024,891,₹439,12.0,2.78,Yes
+PO1114,GlobalSupply Co ,west,Components,17-05-2024,1809,₹253,12.0,1.35,Yes
+PO1273,NOVAPACK,North,Components,2024/01/10,453,₹468,19.0,0.0,No
+PO1170,acme ltd,west,Packaging,2024/11/04,1767,₹488,8.0,1.8,Yes
+PO1292,NOVAPACK,West ,Consumables,2024/06/22,107,₹368,8.0,5.04,No
+PO1239,TAMILCAST,WEST,Consumables,05-07-2024,1912,₹518,,4.23,No
+PO1303,novapack,North,Raw Material,2024/07/22,678,₹163,2.0,0.35,Yes
+PO1236,TamilCast,north,Consumables,2024/04/30,882,₹571,13.0,3.36,No
+PO1340,TAMILCAST,West,Consumables,2024/11/07,977,₹718,12.0,1.1,Yes
+PO1132,Acme Ltd ,North ,Packaging,2024/11/01,878,₹423,15.0,2.75,No
+PO1059,TamilCast,NORTH,Consumables,01-08-2024,1614,₹40,15.0,4.44,No
+PO1138,BharatParts,East ,Packaging,2024/12/03,1561,₹463,2.0,,No
+PO1074,tamilcast,east,Components,10 Oct 2024,1537,₹474,17.0,0.0,Yes
+PO1079,tamilcast,North ,Components,11 Jul 2024,1737,₹624,4.0,1.25,Yes
+PO1150,novapack,West,Raw Material,24-08-2024,167,₹393,8.0,4.39,No
+PO1256,tamilcast,west,Packaging,12-08-2024,1969,₹58,16.0,4.05,No
+PO1081,GlobalSupply Co,WEST,Consumables,2024/11/14,1491,₹362,20.0,4.79,No
+PO1050,TamilCast,West,Consumables,2024/11/01,521,₹363,12.0,3.54,No
+PO1248,TamilCast,West ,Components,20 Feb 2024,1491,₹389,17.0,3.37,No
+PO1154,GlobalSupply Co ,West ,Consumables,2024/08/22,478,₹420,13.0,4.53,No
+PO1344,NovaPack ,WEST,Packaging,11-10-2024,499,₹468,4.0,4.64,No
+PO1193,BharatParts,West ,Packaging,23-02-2024,1497,₹430,16.0,0.6,Yes
+PO1314,BharatParts ,West,Raw Material,2024/10/19,531,₹470,16.0,0.0,Yes
+PO1053,globalsupply co,North,Raw Material,18-01-2024,1597,₹69,60.0,4.62,No
+PO1357,NOVAPACK,South ,Consumables,2024/12/10,1557,₹432,11.0,0.67,Yes
+PO1141,BHARATPARTS,North ,Packaging,16 Dec 2024,316,₹521,16.0,0.0,Yes
+PO1364,acme ltd,South,Components,09-07-2024,1136,₹420,22.0,0.07,Yes
+PO1353,globalsupply co,WEST,Consumables,02 Feb 2024,1257,₹408,11.0,4.53,No
+PO1148,NovaPack ,east,Consumables,2024/12/06,1482,₹695,5.0,3.59,No
+PO1278,acme ltd,east,Packaging,2024/11/14,499,₹278,10.0,1.81,No
+PO1194,novapack,SOUTH,Components,08-01-2024,470,₹444,10.0,0.61,Yes
+PO1066,NOVAPACK,NORTH,Consumables,14-04-2024,157,₹391,12.0,0.0,Yes
+PO1173,TamilCast,NORTH,Packaging,09 Dec 2024,869,₹666,9.0,0.14,Yes
+PO1316,TAMILCAST,East,Consumables,05-12-2024,991,₹198,16.0,0.59,No
+PO1367,BharatParts,South,Packaging,2024/10/02,1226,₹457,,0.41,Yes
+PO1387,novapack,East,Components,09-10-2024,202,₹715,16.0,0.34,No
+PO1084,TamilCast,South,Consumables,2024/04/30,794,₹500,8.0,2.07,Yes
+PO1362,BHARATPARTS,WEST,Consumables,01-11-2024,534,₹327,17.0,0.95,Yes
+PO1333,NovaPack,West,Consumables,02 May 2024,417,₹544,14.0,,Yes
+PO1099,ACME LTD,South,Components,2024/05/03,107,₹442,15.0,1.24,Yes
+PO1032,ACME LTD,West,Packaging,2024/01/22,1942,₹512,14.0,4.78,No
+PO1231,novapack,South ,Raw Material,01-08-2024,411,₹319,10.0,3.3,Yes
+PO1015,TamilCast,East,Consumables,09-09-2024,272,₹495,5.0,0.0,Yes
+PO1259,globalsupply co,south,Packaging,17-04-2024,1056,₹638,16.0,2.09,Yes
+PO1330,GlobalSupply Co ,East ,Packaging,07-08-2024,225,₹653,9.0,1.5,Yes
+PO1202,GlobalSupply Co,EAST,Components,25-05-2024,634,₹490,14.0,0.17,Yes
+PO1086,Acme Ltd,South,Raw Material,25 May 2024,1820,₹511,16.0,3.2,Yes
+PO1037,NOVAPACK,West,Raw Material,2024/06/08,291,₹226,8.0,2.85,Yes
+PO1002,tamilcast,SOUTH,Components,05-02-2024,1970,₹496,11.0,3.11,Yes
+PO1062,BharatParts ,East,Raw Material,14-08-2024,916,₹247,6.0,2.76,No
+PO1287,GlobalSupply Co,East ,Consumables,07-07-2024,52,₹524,12.0,4.38,No
+PO1269,GlobalSupply Co,North,Raw Material,14-04-2024,168,₹572,18.0,0.88,No
+PO1319,TAMILCAST,East ,Packaging,04-12-2024,948,₹400,13.0,3.48,No
+PO1240,Acme Ltd,EAST,Components,25-04-2024,1570,₹228,10.0,0.0,Yes
+PO1155,TamilCast ,East ,Components,18-03-2024,1018,₹789,17.0,2.68,No
+PO1073,acme ltd,South,Raw Material,09 Aug 2024,1366,₹433,9.0,3.67,Yes
+PO1328,Acme Ltd,South,Components,08 May 2024,90,₹625,,1.69,Yes
+PO1104,TamilCast ,south,Packaging,14-01-2024,1240,₹109,9.0,2.09,Yes
+PO1306,BharatParts,North,Raw Material,2024/06/22,1832,₹687,22.0,3.81,No
+PO1377,TamilCast,North,Raw Material,31-08-2024,1608,₹381,8.0,0.86,Yes
+PO1241,GlobalSupply Co ,West,Consumables,2024/07/04,1049,₹710,23.0,0.0,No
+PO1016,globalsupply co,West,Raw Material,04-11-2024,1038,₹458,10.0,0.0,Yes
+PO1164,GlobalSupply Co ,west,Consumables,09-10-2024,1131,₹506,14.0,1.57,Yes
+PO1088,TamilCast,West ,Raw Material,07-03-2024,248,₹101,21.0,3.85,No
+PO1212,TamilCast,WEST,Raw Material,17-12-2024,538,₹491,10.0,0.0,Yes
+PO1102,novapack,west,Raw Material,01-11-2024,1414,₹580,10.0,2.74,Yes
+PO1163,globalsupply co,NORTH,Raw Material,06-09-2024,443,₹747,13.0,0.0,Yes
+PO1070,TamilCast,East,Packaging,11 Dec 2024,769,₹793,18.0,0.0,No
+PO1133,GLOBALSUPPLY CO,south,Components,08-10-2024,1624,₹736,16.0,0.0,Yes
+PO1298,BharatParts,North ,Raw Material,30-01-2024,961,₹710,5.0,1.83,Yes
+PO1399,BharatParts ,south,Components,25-11-2024,1430,₹385,,3.93,Yes
+PO1140,NOVAPACK,EAST,Components,2024/11/24,1091,₹315,6.0,1.45,Yes
+PO1266,GlobalSupply Co,east,Consumables,03-10-2024,1289,₹628,10.0,2.9,No
+PO1018,NovaPack ,south,Components,2024/04/05,1627,₹255,15.0,0.73,Yes
+PO1385,Acme Ltd ,East,Packaging,2024/06/28,669,₹470,9.0,0.66,Yes
+PO1020,globalsupply co,West,Raw Material,2024/01/22,1316,₹316,20.0,0.0,Yes
+PO1055,acme ltd,east,Consumables,2024/05/27,215,₹455,15.0,4.54,No
+PO1204,GlobalSupply Co,WEST,Raw Material,21 Oct 2024,395,₹270,12.0,4.52,No
+PO1393,GlobalSupply Co,west,Components,2024/03/13,87,₹179,6.0,2.07,Yes
+PO1288,GlobalSupply Co,South,Components,04 Sep 2024,266,₹471,21.0,3.21,No
+PO1244,TamilCast,west,Components,08-07-2024,322,₹262,19.0,2.81,No
+PO1351,ACME LTD,north,Components,2024/11/29,1714,₹451,2.0,4.35,No
+PO1159,tamilcast,West ,Packaging,30-06-2024,762,₹464,16.0,2.57,No
+PO1216,acme ltd,North ,Packaging,2024/12/11,1288,₹197,18.0,4.5,No
+PO1097,TamilCast ,South,Raw Material,03 Aug 2024,1370,₹377,15.0,2.5,Yes
+PO1321,ACME LTD,West,Raw Material,10-01-2024,1437,₹452,12.0,1.09,Yes
+PO1122,TAMILCAST,North,Packaging,25-12-2024,1121,₹376,10.0,0.01,Yes
+PO1113,GlobalSupply Co,West,Consumables,22-02-2024,1714,₹239,,4.71,No
+PO1365,GLOBALSUPPLY CO,West,Raw Material,15-06-2024,936,₹682,7.0,5.39,No
+PO1265,GLOBALSUPPLY CO,East ,Packaging,22-08-2024,267,₹450,12.0,2.66,No
+PO1108,GLOBALSUPPLY CO,South,Packaging,06-04-2024,859,₹431,14.0,1.19,Yes
+PO1177,Acme Ltd ,East,Components,13-07-2024,1516,₹40,8.0,3.06,No
+PO1094,NovaPack,South,Components,18 May 2024,1905,₹325,12.0,4.64,No
+PO1237,GLOBALSUPPLY CO,SOUTH,Raw Material,05-01-2024,1323,₹383,15.0,2.5,Yes
+PO1125,GlobalSupply Co,South,Consumables,2024/02/08,415,₹639,16.0,3.24,No
+PO1243,TamilCast,South,Packaging,08-06-2024,894,"₹4,099",18.0,2.49,No
+PO1389,Acme Ltd ,north,Raw Material,2024/04/08,108,"₹4,099",,,No
+PO1091,NovaPack ,west,Components,24-09-2024,1723,₹190,12.0,0.52,Yes
+PO1386,Acme Ltd ,North,Raw Material,2024/04/23,1655,₹450,,4.13,No
+PO1341,BharatParts,WEST,Packaging,07 Oct 2024,521,₹401,15.0,3.42,No
+PO1222,TamilCast,NORTH,Consumables,13-08-2024,1198,₹773,9.0,2.99,Yes
+PO1338,BharatParts,East,Components,01-02-2024,1427,₹685,22.0,1.65,No
+PO1181,ACME LTD,WEST,Components,17-06-2024,604,₹531,15.0,1.39,No
+PO1331,BHARATPARTS,South,Components,2024/06/11,68,₹561,9.0,4.43,Yes
+PO1024,TamilCast,SOUTH,Components,16-11-2024,862,₹128,22.0,3.18,No
+PO1258,Acme Ltd,North,Packaging,2024/12/08,564,₹449,15.0,0.92,No
+PO1268,TamilCast,West,Packaging,28-04-2024,1566,₹595,6.0,5.16,Yes
+PO1126,Acme Ltd ,WEST,Components,23-03-2024,1374,₹328,4.0,1.66,Yes
+PO1336,novapack,east,Components,14-03-2024,349,₹206,2.0,2.56,No
+PO1078,GlobalSupply Co ,EAST,Components,04-11-2024,65,₹323,11.0,2.18,No
+PO1200,BharatParts,east,Consumables,08-05-2024,1716,₹399,4.0,1.69,Yes
+PO1178,NovaPack ,West ,Packaging,2024/10/11,1031,₹519,17.0,1.61,Yes
+PO1221,GlobalSupply Co,South,Raw Material,14-08-2024,1989,₹716,19.0,2.49,Yes
+PO1210,BharatParts,West,Packaging,07-06-2024,168,₹533,18.0,3.96,No
+PO1300,BharatParts ,EAST,Packaging,17 May 2024,1082,₹415,13.0,,No
+PO1313,BHARATPARTS,West,Packaging,11 Sep 2024,694,₹461,14.0,2.68,No
+PO1307,globalsupply co,East,Consumables,2024/10/28,985,₹956,5.0,5.76,No
+PO1061,TamilCast,North ,Consumables,27 Aug 2024,1853,₹731,6.0,1.0,Yes
+PO1281,globalsupply co,North,Consumables,13 Aug 2024,53,₹413,15.0,2.92,No
+PO1093,BharatParts,East,Consumables,29-10-2024,58,₹465,10.0,5.74,No
+PO1326,BHARATPARTS,east,Consumables,20-09-2024,672,₹734,,0.0,No
+PO1217,acme ltd,SOUTH,Packaging,29-10-2024,904,₹510,7.0,0.0,Yes
+PO1069,GlobalSupply Co ,west,Raw Material,2024/08/16,144,₹390,20.0,2.13,No
+PO1036,novapack,East,Consumables,30-05-2024,59,₹426,8.0,,No
+PO1040,Acme Ltd ,west,Packaging,2024/05/18,1040,₹414,16.0,3.02,No
+PO1160,NovaPack,east,Raw Material,13-03-2024,210,₹451,3.0,2.34,Yes
+PO1363,NOVAPACK,WEST,Components,2024/08/31,1841,₹699,6.0,4.83,No
+PO1011,NovaPack,North,Consumables,21-09-2024,1574,₹436,16.0,2.22,No
+PO1144,NovaPack,west,Raw Material,11-03-2024,414,₹628,15.0,0.68,Yes
+PO1320,bharatparts,NORTH,Raw Material,19 May 2024,1734,₹343,9.0,4.34,No
+PO1293,BharatParts,West,Packaging,2024/01/16,699,₹654,14.0,4.34,No
+PO1284,GlobalSupply Co,north,Raw Material,12-02-2024,858,₹202,19.0,3.36,No
+PO1127,tamilcast,North,Packaging,03-05-2024,215,₹295,9.0,6.77,No
+PO1206,TAMILCAST,SOUTH,Consumables,08-10-2024,726,₹649,15.0,0.08,Yes
+PO1184,GlobalSupply Co,SOUTH,Components,14-11-2024,803,₹322,22.0,4.48,No
+PO1046,GLOBALSUPPLY CO,South,Raw Material,09 Sep 2024,1726,₹378,3.0,7.75,No
+PO1238,bharatparts,West ,Packaging,2024/10/21,671,₹586,12.0,2.57,No
+PO1301,NovaPack ,EAST,Packaging,06-01-2024,557,₹249,18.0,,No
+PO1361,NOVAPACK,EAST,Packaging,30-05-2024,545,₹403,14.0,1.77,No
+PO1176,TamilCast ,West,Raw Material,2024/01/21,1926,₹510,14.0,1.46,Yes
+PO1128,GlobalSupply Co,West,Packaging,14-01-2024,1366,₹536,6.0,0.0,Yes
+PO1143,GLOBALSUPPLY CO,North,Packaging,26-05-2024,1171,₹338,14.0,2.3,No
+PO1007,tamilcast,North,Raw Material,05-02-2024,1455,₹521,13.0,4.35,No
+PO1350,GLOBALSUPPLY CO,West,Packaging,24-09-2024,597,₹531,6.0,0.53,Yes
+PO1246,TamilCast,South,Raw Material,30-10-2024,1879,₹459,23.0,3.7,No
+PO1305,Acme Ltd,EAST,Raw Material,2024/10/01,522,₹491,11.0,0.0,Yes
+PO1179,globalsupply co,north,Components,2024/08/22,1104,₹40,11.0,4.11,No
+PO1172,TamilCast ,south,Packaging,2024/08/06,926,₹538,14.0,3.41,No
+PO1297,globalsupply co,east,Consumables,27 Aug 2024,1572,₹532,5.0,3.72,No
+PO1008,BharatParts ,WEST,Packaging,25-02-2024,605,₹461,14.0,0.0,Yes
+PO1156,Acme Ltd ,EAST,Packaging,2024/09/29,720,₹419,13.0,0.81,No
+PO1027,NovaPack ,west,Consumables,2024/04/27,1969,₹641,7.0,2.93,Yes
+PO1296,NovaPack,east,Consumables,16-06-2024,1124,₹257,6.0,2.12,No
+PO1355,novapack,South ,Components,2024/05/28,367,₹401,17.0,0.35,Yes
+PO1058,tamilcast,WEST,Components,2024/10/03,1103,₹669,15.0,3.18,No
+PO1205,BharatParts,East,Consumables,2024/05/14,353,₹263,14.0,3.03,No
+PO1064,globalsupply co,North,Consumables,10-03-2024,514,₹314,14.0,3.01,No
+PO1082,ACME LTD,South,Packaging,21-07-2024,817,₹614,8.0,3.47,Yes
+PO1058,tamilcast,WEST,Components,2024/10/03,1103,₹669,15.0,3.18,No
+PO1213,GlobalSupply Co,south,Packaging,2024/11/29,1594,₹582,11.0,0.73,Yes
+PO1254,tamilcast,east,Raw Material,11-06-2024,1165,₹71,13.0,0.92,Yes
+PO1153,BharatParts,South,Packaging,20-07-2024,1834,₹347,4.0,5.96,Yes
+PO1048,tamilcast,EAST,Consumables,2024/05/03,684,₹499,6.0,3.08,No
+PO1208,BharatParts,WEST,Components,2024/04/16,52,₹195,13.0,0.48,Yes
+PO1249,acme ltd,West,Raw Material,11-07-2024,250,₹562,12.0,2.03,Yes
+PO1031,BharatParts,East,Raw Material,15-12-2024,1480,₹255,10.0,4.54,No
+PO1001,TamilCast,west,Packaging,15 Feb 2024,981,₹695,,2.1,Yes
+PO1171,Acme Ltd,SOUTH,Packaging,20-01-2024,719,₹610,14.0,5.16,No
+PO1263,novapack,North,Components,01-07-2024,149,₹537,4.0,3.25,No
+PO1013,TamilCast,North,Packaging,2024/01/26,1740,₹611,15.0,1.23,Yes
+PO1370,BharatParts,East,Components,2024/02/07,204,₹759,11.0,0.21,No
+PO1009,Acme Ltd,North,Consumables,24-11-2024,1928,₹216,14.0,3.12,No
+PO1146,Acme Ltd,South,Consumables,18-12-2024,1718,₹709,11.0,1.45,Yes
+PO1261,Acme Ltd,East,Components,17-07-2024,659,₹486,7.0,2.6,Yes
+PO1267,BharatParts,West,Components,12 Dec 2024,799,₹350,2.0,2.03,Yes
+PO1375,Acme Ltd ,West,Packaging,25-03-2024,670,₹574,11.0,0.0,Yes
+PO1095,BharatParts ,SOUTH,Components,04-08-2024,1053,₹600,11.0,1.25,Yes
+PO1034,novapack,SOUTH,Consumables,10-03-2024,1292,₹682,9.0,,Yes
+PO1096,bharatparts,North,Components,2024/12/16,562,₹208,8.0,2.9,No
+PO1392,bharatparts,EAST,Raw Material,2024/04/19,797,₹404,8.0,2.01,Yes
+PO1280,bharatparts,East,Consumables,24-10-2024,345,₹226,10.0,1.35,Yes
+PO1253,BharatParts,West,Consumables,20-12-2024,529,₹561,19.0,3.66,No
+PO1322,tamilcast,West,Packaging,2024/04/14,423,₹593,9.0,0.45,Yes
+PO1394,tamilcast,South,Components,17-05-2024,1419,₹273,7.0,1.18,Yes
+PO1116,acme ltd,West,Components,28-02-2024,1433,₹674,5.0,1.53,Yes
+PO1168,BharatParts,EAST,Consumables,18 Sep 2024,1928,₹619,26.0,1.02,No
+PO1045,novapack,EAST,Raw Material,2024/03/14,1971,₹506,5.0,3.46,No
+PO1161,TAMILCAST,North,Packaging,13-01-2024,180,₹531,7.0,2.44,No
+PO1223,BharatParts,South ,Consumables,21-08-2024,1365,₹687,14.0,1.96,Yes
+PO1310,TAMILCAST,EAST,Components,2024/02/27,700,₹494,,3.8,No
+PO1117,Acme Ltd,north,Consumables,2024/05/16,1201,₹372,12.0,2.95,No
+PO1077,bharatparts,NORTH,Components,09-04-2024,1558,₹603,3.0,4.61,No
+PO1352,BharatParts,North,Packaging,30-06-2024,1089,₹315,11.0,0.0,Yes
+PO1063,NOVAPACK,South ,Consumables,2024/09/19,1654,₹382,12.0,2.47,Yes
+PO1230,GLOBALSUPPLY CO,east,Packaging,27-11-2024,967,₹439,18.0,2.43,No
+PO1186,ACME LTD,EAST,Components,02-04-2024,1142,₹363,10.0,5.58,No
+PO1270,BharatParts,West,Components,19-07-2024,1800,₹278,9.0,1.44,Yes
+PO1199,novapack,EAST,Components,19 Mar 2024,633,₹456,60.0,7.56,No
+PO1274,globalsupply co,East,Packaging,27 Mar 2024,1955,₹313,11.0,0.14,Yes
+PO1121,TamilCast ,NORTH,Components,2024/07/03,585,₹350,10.0,0.0,Yes
+PO1376,TamilCast,South,Packaging,2024/10/14,1118,₹535,3.0,1.15,Yes
+PO1360,NovaPack,North,Components,2024/06/08,617,₹289,,0.0,Yes
+PO1158,GlobalSupply Co ,West,Consumables,04-09-2024,250,₹408,11.0,2.63,Yes
+PO1085,TamilCast ,north,Components,02-02-2024,145,₹453,9.0,0.0,Yes
+PO1225,BHARATPARTS,NORTH,Raw Material,2024/09/09,1638,₹513,21.0,1.91,No
+PO1262,BHARATPARTS,North,Raw Material,2024/03/29,142,₹360,8.0,0.49,Yes
+PO1379,BharatParts,WEST,Raw Material,08-05-2024,1221,₹635,14.0,6.1,No
+PO1076,bharatparts,West,Components,2024/02/08,1331,"₹1,022",10.0,2.29,Yes
+PO1318,NOVAPACK,NORTH,Components,20-02-2024,1014,₹568,60.0,,Yes
+PO1302,Acme Ltd,North,Consumables,28-08-2024,496,₹409,12.0,1.39,No
+PO1087,BHARATPARTS,East,Raw Material,04-08-2024,507,₹526,12.0,0.0,Yes
+PO1399,BharatParts ,south,Components,25-11-2024,1430,₹385,,3.93,Yes
+PO1182,globalsupply co,North,Components,06-09-2024,726,₹536,6.0,1.32,Yes
+PO1105,TamilCast ,South,Components,2024/09/21,1359,₹97,12.0,0.0,Yes
+PO1049,TamilCast,South,Components,24-06-2024,1956,₹245,19.0,1.13,Yes
+PO1005,NOVAPACK,EAST,Consumables,06-10-2024,1811,₹486,4.0,0.23,Yes
+PO1017,ACME LTD,NORTH,Raw Material,18-08-2024,1478,₹413,14.0,4.2,No
+PO1234,GlobalSupply Co ,North,Raw Material,2024/02/22,672,₹451,,2.67,No
+PO1324,NovaPack,West,Consumables,09-05-2024,1227,₹332,10.0,2.02,Yes
+PO1106,TamilCast,East ,Packaging,2024/05/15,546,₹448,9.0,4.28,No
+PO1134,TamilCast,East,Packaging,19 Oct 2024,1090,₹338,11.0,,No
+PO1327,ACME LTD,North ,Components,2024/03/12,319,₹539,6.0,3.32,Yes
+PO1226,NovaPack ,south,Raw Material,11-07-2024,1359,₹588,15.0,1.91,Yes
+PO1214,TamilCast,East ,Components,2024/01/19,1190,₹517,3.0,,Yes
+PO1190,TamilCast ,west,Packaging,25-04-2024,646,₹741,10.0,0.38,Yes
+PO1358,Acme Ltd,NORTH,Packaging,2024/07/26,1990,₹406,,4.06,Yes
+PO1282,tamilcast,West,Consumables,12-08-2024,615,₹470,11.0,1.96,Yes
+PO1029,GlobalSupply Co,East ,Raw Material,2024/09/11,612,₹457,,0.58,No
+PO1169,ACME LTD,East,Raw Material,11-04-2024,1287,₹606,11.0,2.7,No
+PO1180,NovaPack,North,Components,17 Nov 2024,1961,₹140,11.0,1.11,Yes
+PO1100,NovaPack,north,Raw Material,2024/09/22,1531,"₹4,099",,2.34,No
+PO1197,ACME LTD,West ,Packaging,2024/07/19,1324,₹316,19.0,4.02,No
+PO1209,TamilCast ,WEST,Components,2024/11/28,602,₹530,19.0,5.13,No
+PO1135,bharatparts,north,Consumables,2024/10/19,1997,₹821,2.0,5.93,No
+PO1381,NovaPack,East,Consumables,2024/11/19,471,₹623,8.0,2.94,No
+PO1347,NOVAPACK,south,Consumables,15-02-2024,1706,₹385,19.0,4.35,No
+PO1198,BharatParts ,EAST,Consumables,29-12-2024,98,₹616,18.0,0.85,No
+PO1166,BharatParts,NORTH,Components,2024/06/30,638,₹243,14.0,0.04,Yes
+PO1371,TamilCast,West,Components,2024/02/22,754,₹40,16.0,2.67,No
+PO1136,TamilCast,south,Raw Material,28 Jul 2024,1294,₹409,7.0,1.68,Yes
+PO1285,NOVAPACK,West,Consumables,2024/09/29,1732,₹715,11.0,1.25,Yes
+PO1131,GlobalSupply Co ,North,Components,2024/05/19,1449,₹468,2.0,,Yes
+PO1039,tamilcast,South,Consumables,02-10-2024,129,₹489,13.0,1.81,Yes
+PO1215,BHARATPARTS,EAST,Consumables,2024/11/25,1578,₹564,12.0,4.68,No
+PO1043,BHARATPARTS,South,Raw Material,28-02-2024,1004,₹359,8.0,2.64,Yes
+PO1054,GlobalSupply Co,East,Packaging,2024/06/24,1317,₹115,7.0,2.85,Yes
+PO1384,Acme Ltd,SOUTH,Packaging,11-07-2024,1289,₹576,5.0,2.89,Yes
+PO1299,Acme Ltd ,North,Packaging,2024/12/29,1690,₹436,3.0,2.92,Yes
+PO1368,Acme Ltd ,North,Consumables,28-06-2024,1823,₹434,7.0,1.28,Yes
+PO1304,GlobalSupply Co,NORTH,Packaging,21-08-2024,1215,₹286,11.0,0.58,Yes
+PO1035,ACME LTD,North,Consumables,30 Aug 2024,725,₹648,9.0,4.94,No
+PO1315,TAMILCAST,WEST,Packaging,09-11-2024,1864,₹376,8.0,2.98,Yes
+PO1309,Acme Ltd ,South,Raw Material,2024/07/17,1382,₹708,,0.0,Yes
+PO1276,GLOBALSUPPLY CO,EAST,Components,03 Apr 2024,1006,₹353,24.0,2.56,No
+PO1124,NovaPack,South,Raw Material,10-12-2024,1739,₹394,13.0,0.25,Yes
+PO1142,bharatparts,north,Consumables,09-03-2024,282,₹550,9.0,3.65,No
+PO1110,BharatParts,West ,Consumables,30-04-2024,1072,₹491,18.0,0.0,Yes
+PO1323,NOVAPACK,North,Raw Material,01-11-2024,343,₹482,7.0,0.0,Yes
+PO1354,NovaPack,east,Packaging,2024/05/15,942,₹417,10.0,2.4,Yes
+PO1107,TamilCast,north,Raw Material,08-07-2024,513,₹410,20.0,3.16,No
+PO1012,TamilCast ,SOUTH,Components,08 Feb 2024,948,₹774,8.0,3.49,Yes
+PO1272,acme ltd,east,Consumables,2024/12/28,926,₹576,5.0,4.08,No
+PO1047,NovaPack,west,Raw Material,15-07-2024,956,₹494,2.0,0.0,Yes
+PO1203,TamilCast ,NORTH,Consumables,24 Jul 2024,678,₹561,4.0,5.57,No
+PO1346,novapack,east,Components,11-11-2024,1390,₹654,8.0,1.39,Yes
+PO1119,Acme Ltd,East ,Components,2024/12/10,824,₹143,16.0,4.07,No
+PO1021,BharatParts,east,Components,2024/10/29,1128,₹225,17.0,0.0,No
+PO1083,NovaPack ,west,Raw Material,2024/09/04,1611,₹456,14.0,1.81,No
+PO1130,GlobalSupply Co,East,Components,08-11-2024,927,₹520,12.0,0.47,No
+PO1329,GlobalSupply Co,East,Components,02 Jan 2024,1841,₹674,6.0,0.56,Yes
+PO1229,Acme Ltd ,South,Packaging,15-12-2024,1585,₹598,5.0,1.7,Yes
+PO1397,acme ltd,south,Consumables,27-10-2024,1464,₹774,13.0,2.34,Yes
+PO1286,acme ltd,South,Consumables,31 Mar 2024,367,₹477,23.0,2.2,No
+PO1123,GlobalSupply Co,West ,Raw Material,2024/03/26,1778,₹457,2.0,1.54,Yes
+PO1033,GLOBALSUPPLY CO,North,Raw Material,2024/08/02,1512,₹518,11.0,0.0,Yes
+PO1382,NovaPack ,NORTH,Components,02-12-2024,1055,₹499,9.0,0.0,Yes
+PO1004,GlobalSupply Co ,South,Components,2024/10/01,1319,₹452,12.0,0.0,Yes
+PO1019,GlobalSupply Co,east,Consumables,03-10-2024,908,₹423,11.0,1.68,Yes
+PO1219,NovaPack,NORTH,Raw Material,18-08-2024,978,₹363,7.0,4.33,No
+PO1107,TamilCast,north,Raw Material,08-07-2024,513,₹410,20.0,3.16,No
+PO1149,ACME LTD,East,Packaging,18 Nov 2024,1210,₹111,18.0,0.09,No
+PO1224,tamilcast,East,Consumables,06-07-2024,548,₹430,3.0,0.0,Yes
+PO1247,GlobalSupply Co,East,Components,2024/04/01,1921,₹401,17.0,4.18,No
+PO1359,TAMILCAST,East ,Packaging,12 Dec 2024,1718,₹72,15.0,3.82,No
+PO1151,BharatParts,SOUTH,Packaging,2024/07/09,815,₹294,9.0,0.0,Yes
+PO1317,TamilCast,South ,Components,14-02-2024,144,₹172,5.0,,Yes
+PO1291,BHARATPARTS,West,Packaging,24-05-2024,1004,₹712,8.0,0.55,Yes
+PO1233,TamilCast ,South ,Packaging,12-10-2024,1146,₹564,10.0,1.76,Yes
+PO1010,GlobalSupply Co,NORTH,Raw Material,04-12-2024,1265,₹441,5.0,4.64,No
+PO1279,Acme Ltd,West,Consumables,12-01-2024,862,₹529,9.0,3.69,No
+PO1071,acme ltd,WEST,Raw Material,15-07-2024,263,₹456,7.0,,Yes
+PO1252,acme ltd,North ,Components,18-01-2024,149,₹524,14.0,4.7,No
+PO1092,NovaPack,West ,Components,24-11-2024,915,₹439,16.0,2.32,No
+PO1349,Acme Ltd ,NORTH,Consumables,17-04-2024,59,₹272,2.0,0.0,Yes
+PO1192,TamilCast,NORTH,Raw Material,2024/05/11,1968,₹270,3.0,1.37,Yes
+PO1257,Acme Ltd ,East ,Consumables,26-04-2024,937,₹456,17.0,5.31,No
+PO1339,NovaPack,West ,Components,26 May 2024,1259,₹601,13.0,3.28,No
+PO1395,novapack,South,Components,2024/11/10,372,₹295,9.0,3.37,Yes
+PO1195,Acme Ltd,west,Components,2024/03/23,1201,₹204,14.0,2.24,No
+PO1343,GlobalSupply Co ,south,Consumables,2024/11/21,1159,₹407,2.0,0.0,Yes
+PO1137,Acme Ltd,North,Raw Material,2024/02/10,627,₹220,18.0,2.97,No
+PO1260,tamilcast,North ,Consumables,19-07-2024,1590,₹664,11.0,3.85,No
+PO1038,BHARATPARTS,North,Raw Material,02-09-2024,630,₹393,23.0,2.11,No
+PO1201,NovaPack ,West ,Components,2024/02/29,520,₹431,16.0,2.63,Yes
+PO1378,BharatParts,South,Packaging,19 Jan 2024,270,₹633,15.0,0.93,Yes
+PO1290,NovaPack,West ,Components,2024/04/27,585,₹422,17.0,3.68,Yes
+PO1189,BharatParts ,West,Consumables,25-03-2024,1822,₹523,11.0,2.63,Yes
+PO1251,GLOBALSUPPLY CO,east,Packaging,16-05-2024,130,₹507,11.0,3.88,No
+PO1112,GlobalSupply Co,West,Packaging,2024/10/12,1570,₹250,2.0,1.53,Yes
+PO1183,TamilCast ,north,Components,2024/06/02,1799,₹241,14.0,1.48,Yes
+PO1152,novapack,West,Components,27 Dec 2024,1016,₹471,12.0,1.31,Yes
+PO1312,Acme Ltd ,East,Raw Material,2024/04/05,1500,₹528,13.0,1.68,No
+PO1325,bharatparts,North,Consumables,29-01-2024,142,₹671,,1.45,Yes
+PO1191,TamilCast,West ,Components,01 Nov 2024,1082,₹474,,1.1,Yes
+PO1044,Acme Ltd,East,Raw Material,03-01-2024,1756,₹337,2.0,1.28,Yes
+PO1275,GlobalSupply Co,east,Raw Material,05-04-2024,639,₹295,13.0,0.0,Yes
+PO1006,Acme Ltd,South,Components,2024/11/01,1054,₹253,8.0,2.55,Yes
+PO1250,Acme Ltd,South ,Components,2024/11/19,622,₹511,11.0,,Yes
+PO1311,TamilCast,East,Raw Material,14-08-2024,495,₹423,15.0,5.06,No
+PO1075,GLOBALSUPPLY CO,WEST,Components,06-02-2024,1440,₹516,12.0,2.6,Yes
+PO1000,Acme Ltd,West ,Raw Material,05 Oct 2024,1764,₹761,6.0,2.55,Yes
+PO1383,bharatparts,NORTH,Packaging,2024/10/26,857,₹349,10.0,1.32,Yes
+PO1068,ACME LTD,North,Packaging,18-10-2024,1908,₹781,15.0,2.51,No
+PO1167,acme ltd,North,Packaging,2024/10/29,933,₹434,15.0,2.16,No
+PO1218,GlobalSupply Co,NORTH,Raw Material,03-04-2024,1728,₹396,14.0,3.04,No
+PO1042,TamilCast,North,Consumables,30-06-2024,1928,₹496,11.0,2.42,No
+PO1366,GLOBALSUPPLY CO,East,Raw Material,14-09-2024,1938,₹461,16.0,2.44,No
+PO1345,BharatParts ,SOUTH,Packaging,2024/08/26,1200,₹464,13.0,0.0,Yes
+PO1072,GLOBALSUPPLY CO,SOUTH,Raw Material,10 Jan 2024,1866,₹766,20.0,0.0,No
+PO1023,NovaPack,east,Components,19 Sep 2024,1325,₹520,16.0,1.19,No
+PO1185,GLOBALSUPPLY CO,WEST,Components,13-02-2024,508,₹697,14.0,,No
+PO1348,Acme Ltd,South,Components,2024/10/25,1013,₹513,10.0,1.93,Yes
+PO1103,ACME LTD,west,Consumables,11-11-2024,1796,₹461,14.0,3.31,No
+PO1211,tamilcast,SOUTH,Consumables,25-02-2024,1144,₹174,2.0,2.67,Yes
+PO1067,BharatParts,EAST,Consumables,2024/10/15,776,₹707,15.0,4.25,No
+PO1025,TamilCast,north,Raw Material,01 Aug 2024,1941,₹428,22.0,3.31,No
+PO1196,BharatParts,EAST,Components,29-11-2024,1258,₹404,6.0,0.31,No
+PO1175,globalsupply co,south,Raw Material,2024/12/08,1920,₹386,24.0,1.11,Yes

@@ -1,0 +1,405 @@
+﻿Shipment_ID,Origin_City,Destination_City,Vehicle_Type,Distance_KM,Weight_KG,Dispatch_Date,Planned_Delivery_Hours,Actual_Delivery_Hours,Fuel_Cost_INR,Delivery_Status
+SHP2227,Chennai,COIMBATORE,Van,297.9,144.7,2024/05/02,16.9,23.9,"₹2,000",Delayed
+SHP2098,chennai,COIMBATORE,Van,372.9,169.3,29-03-2024,20.6,27.1,"₹2,557",Delayed
+SHP2080,COIMBATORE,Chennai,Van,157.9,110.7,2024/09/19,9.9,13.0,"₹1,247",On-Time
+SHP2188,Chennai ,MADURAI,Bike,151.5,127.0,19-12-2024,9.6,13.4,₹986,On-Time
+SHP2382,COIMBATORE,Bengaluru,Van,125.2,186.8,17-11-2024,8.3,12.5,"₹1,117",On-Time
+SHP2026,Madurai,Madurai,Van,19.2,151.9,16-09-2024,3.0,3.4,₹271,On-Time
+SHP2217,Salem,Trichy,Bike,114.6,106.0,28 Feb 2024,7.7,12.6,₹977,On-Time
+SHP2334,CHENNAI,Bengaluru ,Van,173.3,98.0,04-03-2024,10.7,14.4,"₹1,027",On-Time
+SHP2292,Coimbatore,Trichy,Truck,93.2,,2024/12/27,6.7,9.1,₹847,Delayed
+SHP2187,trichy,Trichy ,Bike,209.1,69.9,23-04-2024,12.5,14.9,"₹1,373",On-Time
+SHP2056,SALEM,Trichy,Truck,135.6,268.5,12-06-2024,8.8,13.1,"₹1,283",Delayed
+SHP2089,madurai,Madurai,Bike,174.3,349.0,06 Apr 2024,10.7,18.5,"₹1,537",Delayed
+SHP2060,COIMBATORE,Chennai,Van,245.0,49.8,16-03-2024,14.2,18.8,"₹1,491",On-Time
+SHP2241,Coimbatore,MADURAI,Truck,119.8,181.3,2024/02/09,8.0,11.4,"₹1,156",Delayed
+SHP2254,Chennai,Chennai,Truck,219.6,162.8,2024/12/07,13.0,18.2,"₹1,562",Delayed
+SHP2293,CHENNAI,Salem,Truck,122.1,131.9,27-02-2024,8.1,10.8,₹934,Delayed
+SHP2120,COIMBATORE,Trichy,Truck,148.6,2.0,2024/02/11,9.4,11.3,₹836,On-Time
+SHP2270,Madurai,Coimbatore,Bike,381.5,228.3,22 Feb 2024,21.1,33.7,"₹2,536",Delayed
+SHP2139,BENGALURU,madurai,Van,135.9,,2024/11/01,8.8,13.4,"₹1,190",On-Time
+SHP2206,salem,CHENNAI,Truck,313.2,102.5,22-06-2024,17.7,23.7,"₹2,070",Delayed
+SHP2052,Coimbatore ,Coimbatore ,Van,70.6,146.9,2024/04/18,5.5,8.8,₹678,On-Time
+SHP2162,Coimbatore,MADURAI,Van,36.1,151.6,2024/03/28,3.8,6.4,₹424,On-Time
+SHP2021,SALEM,Madurai,Bike,159.5,72.0,23-04-2024,10.0,16.7,"₹1,155",On-Time
+SHP2395,Chennai ,Salem ,Van,160.8,70.7,23 Mar 2024,10.0,15.4,"₹1,113",On-Time
+SHP2030,CHENNAI,Chennai ,Van,233.1,25.8,2024/05/18,13.7,17.9,"₹1,398",On-Time
+SHP2302,trichy,Trichy,Truck,194.5,179.4,07 Jul 2024,11.7,15.7,,Delayed
+SHP2331,chennai,Salem ,Van,196.3,,15-11-2024,11.8,16.2,"₹1,383",Delayed
+SHP2118,Salem,Bengaluru,Bike,113.2,89.7,2024/04/01,7.7,12.5,₹826,On-Time
+SHP2319,TRICHY,Bengaluru,Van,215.9,25.9,04-03-2024,12.8,19.4,"₹1,471",On-Time
+SHP2145,Bengaluru ,trichy,Truck,62.8,93.5,23-02-2024,5.1,5.9,,Delayed
+SHP2231,Salem,madurai,Bike,158.4,2.0,13-05-2024,9.9,15.2,₹881,On-Time
+SHP2014,BENGALURU,MADURAI,Bike,261.0,259.6,09-06-2024,15.0,25.4,"₹1,984",Delayed
+SHP2174,SALEM,coimbatore,Bike,85.7,266.4,01-02-2024,6.3,10.6,₹883,On-Time
+SHP2222,Coimbatore,Madurai,Truck,5.0,67.5,19 Feb 2024,2.2,2.2,₹61,On-Time
+SHP2389,Chennai,COIMBATORE,Truck,90.0,110.3,2024/05/01,6.5,9.3,₹653,Delayed
+SHP2288,Chennai ,Chennai,Van,212.6,173.6,2024/07/16,12.6,17.4,"₹1,378",Delayed
+SHP2051,Bengaluru,Trichy ,Van,344.2,118.0,10-10-2024,19.2,26.2,"₹2,127",Delayed
+SHP2210,salem,coimbatore,Bike,243.3,86.1,2024/09/05,14.2,20.8,"₹1,675",On-Time
+SHP2147,bengaluru,Madurai,Van,136.0,218.6,2024/10/24,8.8,15.4,"₹1,065",Delayed
+SHP2165,Bengaluru ,Coimbatore,Truck,122.7,,16-06-2024,8.1,13.7,"₹1,017",Delayed
+SHP2371,Madurai,Salem,Van,148.3,70.9,14 Jan 2024,9.4,15.3,"₹1,117",On-Time
+SHP2364,salem,MADURAI,Van,253.6,2.0,2024/01/20,14.7,20.8,"₹1,521",On-Time
+SHP2065,Trichy,Coimbatore,Van,255.5,2.0,20-02-2024,14.8,20.8,"₹1,540",On-Time
+SHP2129,SALEM,coimbatore,Truck,73.5,87.3,07 Apr 2024,5.7,8.4,₹494,On-Time
+SHP2111,Bengaluru,SALEM,Bike,187.7,135.5,2024/03/02,11.4,17.2,"₹1,159",On-Time
+SHP2368,Trichy ,Chennai ,Van,195.4,196.0,06 Apr 2024,11.8,17.4,"₹1,402",Delayed
+SHP2090,chennai,chennai,Truck,161.0,36.5,2024/07/22,10.0,14.0,₹937,Delayed
+SHP2109,bengaluru,SALEM,Van,206.6,46.6,23-07-2024,12.3,17.5,"₹1,340",On-Time
+SHP2028,chennai,Trichy,Van,248.3,27.0,2024/05/10,14.4,18.3,"₹1,580",On-Time
+SHP2041,Madurai,BENGALURU,Truck,278.1,45.0,18-12-2024,15.9,22.1,"₹1,700",Delayed
+SHP2003,salem,Salem,Van,136.1,216.8,15-04-2024,8.8,12.3,"₹1,162",Delayed
+SHP2022,Madurai,Coimbatore,Bike,135.3,80.8,2024/03/19,8.8,14.8,"₹1,098",On-Time
+SHP2370,bengaluru,Salem ,Bike,346.5,175.8,13-05-2024,19.3,29.6,"₹2,438",Delayed
+SHP2283,Bengaluru ,MADURAI,Van,315.8,206.5,13-09-2024,17.8,27.8,"₹2,142",Delayed
+SHP2261,chennai,CHENNAI,Bike,234.2,38.7,15 Jun 2024,13.7,21.1,"₹1,576",On-Time
+SHP2249,SALEM,Trichy ,Van,147.8,153.2,2024/07/27,9.4,12.6,"₹1,112",Delayed
+SHP2228,Coimbatore ,MADURAI,Bike,300.6,143.7,15-08-2024,17.0,29.1,"₹1,901",Delayed
+SHP2057,bengaluru,Bengaluru ,Truck,137.1,190.2,12-07-2024,8.9,14.0,₹983,Delayed
+SHP2259,COIMBATORE,MADURAI,Bike,152.6,44.7,25-10-2024,9.6,14.6,"₹1,009",On-Time
+SHP2178,chennai,Coimbatore,Truck,398.0,122.7,2024/04/24,21.9,28.8,"₹2,553",Delayed
+SHP2333,salem,Trichy ,Truck,105.8,119.2,2024/11/29,7.3,9.1,₹693,Delayed
+SHP2244,Madurai,Madurai,Bike,157.2,110.7,2024/09/06,9.9,13.2,"₹1,221",On-Time
+SHP2115,Trichy,trichy,Truck,258.0,76.1,2024/10/25,14.9,20.0,"₹1,662",Delayed
+SHP2157,Coimbatore ,MADURAI,Bike,70.6,89.1,14-05-2024,5.5,9.4,₹582,On-Time
+SHP2101,CHENNAI,Bengaluru,Truck,308.8,206.1,18-06-2024,17.4,24.8,"₹2,243",Delayed
+SHP2212,Coimbatore ,BENGALURU,Van,175.4,145.1,04-09-2024,10.8,15.7,"₹1,279",Delayed
+SHP2307,Bengaluru,Chennai ,Bike,188.3,143.3,16 Nov 2024,11.4,17.6,"₹1,413",On-Time
+SHP2294,Chennai,Coimbatore,Truck,237.1,22.7,11 Jun 2024,13.9,17.6,"₹1,435",On-Time
+SHP2114,Chennai,Madurai,Van,426.6,155.1,23-09-2024,23.3,31.6,"₹2,708",Delayed
+SHP2232,Trichy,madurai,Van,107.6,,2024/07/27,7.4,11.7,₹871,On-Time
+SHP2170,Chennai,Madurai ,Truck,159.2,78.4,2024/03/17,10.0,13.7,"₹1,062",Delayed
+SHP2373,chennai,Trichy,Bike,5.0,172.5,2024/02/18,2.2,5.0,₹300,On-Time
+SHP2238,Chennai,Bengaluru,Truck,199.7,78.7,14-12-2024,12.0,12.8,"₹1,309",Delayed
+SHP2297,Chennai,Chennai,Truck,69.8,116.3,28-09-2024,5.5,6.2,₹663,On-Time
+SHP2235,chennai,Bengaluru,Bike,124.4,110.4,17-05-2024,8.2,10.5,₹993,On-Time
+SHP2362,COIMBATORE,Trichy,Truck,21.2,23.9,24-02-2024,3.1,3.6,₹280,Delayed
+SHP2132,Bengaluru,Chennai,Van,81.7,86.6,2024/01/08,6.1,9.5,,On-Time
+SHP2059,Coimbatore,Madurai ,Van,146.3,160.3,23-01-2024,9.3,13.8,"₹1,073",On-Time
+SHP2138,Salem,Chennai,Van,87.6,44.2,18-12-2024,6.4,7.9,₹588,On-Time
+SHP2074,Coimbatore,SALEM,Bike,194.3,182.1,2024/02/19,11.7,19.7,"₹1,473",On-Time
+SHP2079,Coimbatore,Chennai,Truck,132.6,158.8,2024/02/18,8.6,11.8,₹921,Delayed
+SHP2150,Bengaluru,CHENNAI,Truck,291.2,87.5,21-06-2024,16.6,21.4,"₹1,861",Delayed
+SHP2289,TRICHY,Coimbatore ,Van,57.9,20.5,13-02-2024,4.9,7.9,₹486,On-Time
+SHP2081,TRICHY,Chennai,Van,283.4,111.6,2024/12/16,16.2,21.8,"₹1,896",Delayed
+SHP2050,COIMBATORE,Bengaluru,Van,301.7,284.9,12-09-2024,17.1,26.9,"₹2,390",Delayed
+SHP2267,CHENNAI,COIMBATORE,Truck,202.8,116.6,27-02-2024,12.1,16.5,"₹1,412",Delayed
+SHP2154,COIMBATORE,Bengaluru,Van,142.8,72.4,2024/07/15,9.1,89.7,₹907,On-Time
+SHP2365,Bengaluru ,trichy,Truck,219.3,136.8,05-11-2024,13.0,18.2,"₹1,571",Delayed
+SHP2204,Salem ,SALEM,Van,222.3,87.0,26-09-2024,13.1,19.1,"₹1,501",On-Time
+SHP2336,Chennai,Trichy,Bike,5.0,62.8,27 Sep 2024,2.2,3.1,₹64,On-Time
+SHP2053,MADURAI,Madurai,Van,150.4,148.0,12-02-2024,9.5,14.3,"₹1,156",On-Time
+SHP2356,Trichy,Chennai,Van,247.9,97.6,25-04-2024,14.4,21.3,"₹1,775",On-Time
+SHP2141,Bengaluru,MADURAI,Van,64.9,147.6,2024/09/09,5.2,8.2,₹710,On-Time
+SHP2363,Bengaluru,Bengaluru,Bike,229.5,86.5,17 Jul 2024,13.5,20.6,"₹1,448",On-Time
+SHP2372,Chennai,Madurai,Bike,249.8,232.1,2024/12/07,14.5,24.3,"₹1,991",Delayed
+SHP2148,Chennai ,Coimbatore ,Truck,306.6,2.0,21-11-2024,17.3,22.3,"₹1,792",Delayed
+SHP2277,Bengaluru,Salem,Bike,212.5,220.0,2024/10/12,12.6,20.0,"₹1,635",Delayed
+SHP2193,Chennai,Salem,Truck,251.1,193.2,2024/10/09,14.6,20.2,"₹1,835",Delayed
+SHP2066,CHENNAI,bengaluru,Van,175.5,142.3,12 Oct 2024,10.8,17.7,"₹1,195",Delayed
+SHP2173,COIMBATORE,CHENNAI,Bike,36.5,138.2,2024/07/18,3.8,6.6,₹498,On-Time
+SHP2303,salem,Chennai,Van,377.9,90.4,2024/11/22,20.9,26.2,"₹2,332",Delayed
+SHP2392,COIMBATORE,madurai,Van,172.1,36.9,2024/04/22,10.6,15.4,"₹1,218",On-Time
+SHP2386,Bengaluru ,trichy,Van,114.0,2.0,03-12-2024,7.7,10.9,₹707,On-Time
+SHP2084,CHENNAI,coimbatore,Van,196.5,153.4,20-07-2024,11.8,15.7,"₹1,368",Delayed
+SHP2256,Chennai,bengaluru,Van,98.3,231.8,2024/01/24,6.9,11.7,₹854,On-Time
+SHP2332,Bengaluru,bengaluru,Van,217.4,157.7,17-06-2024,12.9,18.5,"₹1,533",Delayed
+SHP2099,Madurai,CHENNAI,Truck,164.0,52.7,2024/04/16,10.2,12.3,"₹1,163",On-Time
+SHP2032,Salem,MADURAI,Bike,285.3,141.3,2024/05/21,16.3,24.7,"₹1,934",Delayed
+SHP2239,MADURAI,Trichy ,Bike,201.1,40.5,2024/06/25,12.1,16.9,"₹1,233",On-Time
+SHP2015,Bengaluru ,coimbatore,Van,114.6,111.9,2024/03/05,7.7,11.0,₹853,On-Time
+SHP2258,Coimbatore,coimbatore,Bike,86.9,209.7,10-05-2024,6.3,6.8,₹877,On-Time
+SHP2202,Bengaluru,Bengaluru ,Van,198.8,60.2,2024/05/21,11.9,16.1,"₹1,257",On-Time
+SHP2236,chennai,salem,Bike,86.9,171.5,2024/07/14,6.3,12.0,₹957,On-Time
+SHP2086,Chennai ,CHENNAI,Van,153.0,92.9,20-07-2024,9.6,14.0,"₹1,128",On-Time
+SHP2037,Coimbatore ,MADURAI,Truck,140.4,194.3,03-11-2024,9.0,13.1,"₹1,120",Delayed
+SHP2002,MADURAI,TRICHY,Van,139.8,77.4,22-07-2024,9.0,12.7,₹901,On-Time
+SHP2062,MADURAI,TRICHY,Truck,164.6,61.0,2024/07/16,10.2,14.5,"₹1,165",Delayed
+SHP2338,Trichy,Chennai,Truck,165.8,67.5,2024/10/27,10.3,13.8,"₹1,185",Delayed
+SHP2268,Madurai,coimbatore,Van,260.6,87.4,05-07-2024,15.0,21.2,"₹1,656",Delayed
+SHP2308,Madurai,Madurai ,Van,166.4,2.0,16-02-2024,10.3,12.1,₹945,On-Time
+SHP2207,Madurai,salem,Van,190.4,2.0,2024/12/29,11.5,14.6,"₹1,131",On-Time
+SHP2155,madurai,madurai,Van,156.4,110.9,31-08-2024,9.8,13.5,,On-Time
+SHP2073,Trichy,Chennai,Van,105.1,120.6,2024/08/19,7.3,9.1,₹679,On-Time
+SHP2337,CHENNAI,Madurai,Bike,160.2,140.9,21-03-2024,10.0,13.8,"₹1,242",On-Time
+SHP2104,Chennai ,Coimbatore,Van,167.6,135.8,20-02-2024,10.4,13.5,"₹1,148",On-Time
+SHP2305,SALEM,bengaluru,Truck,117.6,22.2,18-02-2024,7.9,11.4,₹680,On-Time
+SHP2376,Coimbatore,Bengaluru,Van,182.7,162.4,2024/03/27,11.1,15.9,"₹1,397",On-Time
+SHP2278,madurai,Coimbatore ,Bike,203.1,110.5,04-02-2024,12.2,17.7,"₹1,444",On-Time
+SHP2016,Chennai ,Coimbatore ,Van,296.9,2.0,08-01-2024,16.8,21.2,"₹1,852",On-Time
+SHP2164,Chennai,Madurai,Truck,341.2,73.8,04-07-2024,19.1,25.2,"₹2,343",Delayed
+SHP2088,Coimbatore,bengaluru,Van,290.9,158.0,16-08-2024,16.5,23.3,"₹2,070",Delayed
+SHP2347,Salem ,CHENNAI,Van,279.7,135.1,29-12-2024,16.0,21.7,"₹1,759",Delayed
+SHP2102,Trichy ,Coimbatore,Bike,205.4,162.0,13-09-2024,12.3,17.4,"₹1,358",On-Time
+SHP2163,COIMBATORE,Coimbatore ,Van,56.9,101.7,15-06-2024,4.8,7.7,₹580,On-Time
+SHP2070,bengaluru,COIMBATORE,Van,207.1,268.4,07-04-2024,12.4,19.5,"₹1,679",Delayed
+SHP2133,Coimbatore,trichy,Van,217.6,64.0,28-03-2024,12.9,19.0,"₹1,232",Delayed
+SHP2342,Trichy,Madurai,Bike,105.8,155.9,18-10-2024,7.3,10.9,₹721,On-Time
+SHP2398,Chennai,Chennai ,Van,111.0,140.3,03 Aug 2024,7.6,9.9,₹908,On-Time
+SHP2140,MADURAI,madurai,Van,70.9,249.1,24-03-2024,5.5,9.4,₹777,On-Time
+SHP2265,MADURAI,Chennai ,Bike,121.5,49.0,26-07-2024,8.1,11.0,₹754,On-Time
+SHP2018,trichy,madurai,Bike,123.1,221.8,24-12-2024,8.2,12.6,"₹1,005",On-Time
+SHP2310,Madurai,SALEM,Truck,50.1,48.6,2024/02/08,4.5,89.7,₹439,Delayed
+SHP2020,madurai,COIMBATORE,Bike,248.2,61.3,15-03-2024,14.4,21.4,"₹1,435",On-Time
+SHP2055,Trichy,Salem,Van,340.3,69.1,02-11-2024,19.0,23.8,"₹2,106",Delayed
+SHP2335,Bengaluru,BENGALURU,Van,171.5,289.9,2024/04/13,10.6,19.2,"₹1,523",Delayed
+SHP2342,Trichy,Madurai,Bike,105.8,155.9,18-10-2024,7.3,10.9,₹721,On-Time
+SHP2287,Salem ,Trichy ,Van,197.6,200.9,16 Aug 2024,11.9,16.9,,Delayed
+SHP2243,COIMBATORE,Salem,Van,208.1,,08-09-2024,12.4,15.3,"₹1,439",On-Time
+SHP2350,Salem,Bengaluru,Truck,146.6,136.1,19-06-2024,9.3,12.7,"₹1,156",Delayed
+SHP2159,Coimbatore,Chennai ,Bike,5.0,59.4,25-08-2024,2.2,3.2,₹50,On-Time
+SHP2255,Salem,TRICHY,Truck,287.7,,24-10-2024,16.4,23.4,"₹1,744",Delayed
+SHP2097,Salem ,bengaluru,Bike,92.9,201.4,13-11-2024,6.6,8.7,₹952,On-Time
+SHP2320,Trichy,chennai,Bike,131.3,148.4,03-06-2024,8.6,11.1,"₹1,129",On-Time
+SHP2122,coimbatore,Madurai,Truck,11.5,188.7,21-08-2024,2.6,4.6,₹351,Delayed
+SHP2113,Madurai ,madurai,Bike,171.5,135.1,2024/10/26,10.6,16.0,"₹1,304",On-Time
+SHP2194,Salem,Bengaluru,Van,52.0,153.0,20-02-2024,4.6,5.8,₹651,On-Time
+SHP2264,Coimbatore,Bengaluru,Bike,157.9,87.5,2024/08/05,9.9,15.6,₹985,On-Time
+SHP2108,Chennai,TRICHY,Truck,172.1,60.6,23-04-2024,10.6,13.2,"₹1,058",On-Time
+SHP2177,coimbatore,Trichy,Truck,301.7,142.8,31 Aug 2024,17.1,23.9,"₹2,009",Delayed
+SHP2094,TRICHY,Bengaluru,Truck,200.8,256.5,18 Nov 2024,12.0,18.7,"₹1,576",Delayed
+SHP2240,CHENNAI,Coimbatore,Bike,333.1,244.0,23-08-2024,18.7,29.9,"₹2,288",Delayed
+SHP2125,TRICHY,coimbatore,Van,143.3,225.8,22-04-2024,9.2,13.3,"₹1,204",Delayed
+SHP2242,Trichy,Salem,Truck,206.6,2.0,25 Jun 2024,12.3,89.7,"₹1,228",Delayed
+SHP2388,SALEM,madurai,Truck,245.9,142.3,2024/10/29,14.3,20.7,"₹1,567",Delayed
+SHP2091,madurai,Coimbatore,Van,150.4,71.7,2024/08/05,9.5,15.1,₹976,On-Time
+SHP2385,salem,Trichy ,Bike,116.4,99.8,2024/02/26,7.8,11.9,₹694,On-Time
+SHP2340,Coimbatore,Bengaluru,Truck,307.4,182.1,27-05-2024,17.4,22.7,"₹2,165",Delayed
+SHP2379,Chennai,Chennai,Bike,122.1,209.1,2024/11/19,8.1,13.5,"₹1,086",On-Time
+SHP2200,Trichy,Coimbatore ,Van,278.9,191.5,18-04-2024,15.9,20.1,"₹1,851",Delayed
+SHP2181,coimbatore,BENGALURU,Bike,5.0,118.0,06-01-2024,2.2,2.8,₹339,On-Time
+SHP2330,BENGALURU,Trichy,Bike,123.4,76.8,14-05-2024,8.2,12.5,₹898,On-Time
+SHP2024,Madurai ,Chennai,Truck,65.5,213.7,29 Jun 2024,5.3,9.0,₹544,Delayed
+SHP2361,Salem ,chennai,Truck,229.7,142.6,06-06-2024,13.5,17.6,"₹1,600",Delayed
+SHP2246,Chennai,Coimbatore,Bike,249.8,27.3,2024/06/19,14.5,20.8,"₹1,486",On-Time
+SHP2126,Coimbatore,Chennai,Van,215.5,94.1,2024/08/06,12.8,16.5,,Delayed
+SHP2328,chennai,TRICHY,Van,275.7,116.3,2024/11/29,15.8,22.6,,Delayed
+SHP2078,trichy,Coimbatore,Van,152.6,,06 Oct 2024,9.6,16.1,"₹1,025",Delayed
+SHP2263,Trichy ,Chennai,Van,684.4,124.6,13-02-2024,15.6,22.1,"₹1,819",Delayed
+SHP2220,Chennai,CHENNAI,Bike,143.3,17.5,2024/11/26,9.2,11.1,,On-Time
+SHP2298,Salem ,madurai,Truck,138.5,4.1,2024/09/13,8.9,8.8,₹710,Delayed
+SHP2313,Bengaluru,chennai,Van,165.1,149.7,2024/02/25,10.3,15.9,"₹1,474",On-Time
+SHP2390,Bengaluru ,Trichy ,Van,212.1,,14-12-2024,12.6,16.1,"₹1,393",Delayed
+SHP2284,Bengaluru,coimbatore,Bike,267.1,141.8,01-12-2024,15.4,23.1,"₹1,911",On-Time
+SHP2061,bengaluru,BENGALURU,Van,47.1,209.4,2024/10/31,4.4,8.3,₹631,On-Time
+SHP2280,Salem,Bengaluru ,Truck,335.1,67.4,2024/05/21,18.8,24.8,"₹2,077",Delayed
+SHP2093,madurai,coimbatore,Truck,256.9,147.8,2024/10/18,14.8,19.7,"₹1,753",Delayed
+SHP2378,BENGALURU,salem,Van,230.3,108.1,2024/02/09,13.5,19.3,"₹1,461",On-Time
+SHP2216,Trichy,BENGALURU,Truck,176.4,156.3,2024/10/31,10.8,13.1,"₹1,189",Delayed
+SHP2069,Trichy,CHENNAI,Van,160.1,157.8,18-06-2024,10.0,14.4,"₹1,142",On-Time
+SHP2036,COIMBATORE,Coimbatore,Truck,247.5,155.3,27 Sep 2024,14.4,20.4,"₹1,745",Delayed
+SHP2040,BENGALURU,trichy,Van,229.1,67.8,12-02-2024,13.5,18.8,"₹1,257",On-Time
+SHP2160,Bengaluru,CHENNAI,Truck,84.9,,27 Nov 2024,6.2,8.8,₹824,Delayed
+SHP2306,trichy,Chennai,Truck,684.4,52.6,22-08-2024,10.2,13.8,"₹1,050",Delayed
+SHP2011,Chennai,salem,Van,432.0,219.4,23-06-2024,23.6,34.2,"₹2,908",Delayed
+SHP2144,coimbatore,salem,Truck,208.8,103.2,18-10-2024,12.4,17.7,"₹1,413",Delayed
+SHP2341,coimbatore,Chennai,Van,70.6,72.5,2024/06/14,5.5,6.2,₹479,On-Time
+SHP2281,Bengaluru,COIMBATORE,Bike,195.4,108.5,04 Oct 2024,11.8,17.8,"₹1,378",On-Time
+SHP2327,Coimbatore,trichy,Truck,202.0,146.7,08-01-2024,12.1,14.9,"₹1,474",Delayed
+SHP2127,Salem,Chennai ,Truck,70.7,140.4,01-04-2024,5.5,6.1,₹551,Delayed
+SHP2221,Madurai,Bengaluru,Bike,182.3,48.1,01 Jul 2024,11.1,18.1,,On-Time
+SHP2184,Madurai,TRICHY,Truck,121.4,82.1,25 Dec 2024,8.1,10.4,₹836,Delayed
+SHP2046,madurai,Salem,Van,10.3,,14-07-2024,2.5,4.2,₹102,On-Time
+SHP2237,Salem ,Coimbatore,Van,39.3,11.2,2024/12/12,4.0,5.1,₹311,On-Time
+SHP2300,coimbatore,Chennai,Van,233.5,146.5,18 Jun 2024,13.7,18.4,"₹1,784",Delayed
+SHP2360,Trichy,BENGALURU,Bike,73.4,52.1,18-09-2024,5.7,7.0,₹713,On-Time
+SHP2176,Madurai ,Madurai,Truck,45.3,2.0,02 Jun 2024,4.3,5.7,₹324,On-Time
+SHP2128,salem,chennai,Bike,244.3,198.3,04-02-2024,14.2,21.6,"₹1,827",On-Time
+SHP2143,Bengaluru,Salem,Bike,78.9,173.6,2024/08/04,5.9,10.0,₹767,On-Time
+SHP2007,Trichy,SALEM,Truck,37.1,109.8,26-02-2024,3.9,6.9,₹417,On-Time
+SHP2359,BENGALURU,Trichy ,Truck,111.1,68.5,02-07-2024,7.6,8.7,₹796,On-Time
+SHP2245,BENGALURU,Chennai ,Van,247.0,86.9,2024/12/17,14.4,19.6,"₹1,473",On-Time
+SHP2351,Madurai ,Bengaluru,Truck,272.4,124.1,2024/05/21,15.6,21.7,"₹1,844",Delayed
+SHP2179,Bengaluru,Chennai,Van,137.2,123.0,22-04-2024,8.9,13.9,"₹1,009",On-Time
+SHP2172,trichy,Bengaluru,Truck,400.2,120.0,19-10-2024,22.0,30.3,"₹2,516",Delayed
+SHP2296,Trichy ,Madurai ,Van,197.7,15.4,06-07-2024,11.9,13.3,"₹1,184",Delayed
+SHP2008,COIMBATORE,Coimbatore ,Truck,111.8,361.8,29-01-2024,7.6,13.3,"₹1,172",Delayed
+SHP2156,Trichy,BENGALURU,Truck,114.7,149.0,12-07-2024,7.7,10.3,"₹1,074",Delayed
+SHP2027,COIMBATORE,CHENNAI,Truck,140.0,26.8,2024/12/16,9.0,12.3,₹827,On-Time
+SHP2295,Coimbatore,Trichy ,Truck,164.8,106.8,27-10-2024,10.2,15.4,,Delayed
+SHP2354,Trichy,Salem,Truck,25.5,46.5,28-07-2024,3.3,6.1,₹162,On-Time
+SHP2058,salem,coimbatore,Truck,319.4,177.5,2024/12/16,18.0,26.7,"₹2,177",Delayed
+SHP2205,coimbatore,SALEM,Van,186.1,122.0,2024/07/14,11.3,16.8,"₹1,253",Delayed
+SHP2064,SALEM,madurai,Van,85.0,5.2,13-09-2024,6.2,8.2,₹580,On-Time
+SHP2082,Salem ,CHENNAI,Bike,114.1,216.6,26-07-2024,7.7,14.6,₹976,On-Time
+SHP2399,COIMBATORE,Bengaluru,Truck,211.5,245.6,19 Feb 2024,12.6,20.5,"₹1,662",Delayed
+SHP2213,trichy,Madurai ,Van,297.7,57.4,02-10-2024,16.9,23.7,"₹1,999",Delayed
+SHP2253,Salem ,salem,Van,78.8,100.2,30-07-2024,5.9,6.7,₹672,On-Time
+SHP2153,Chennai ,SALEM,Van,91.7,70.0,21-01-2024,6.6,7.4,₹577,On-Time
+SHP2048,Madurai ,CHENNAI,Van,13.3,125.5,12 Jul 2024,2.7,5.2,₹284,On-Time
+SHP2208,CHENNAI,Trichy ,Van,152.6,198.5,2024/03/06,9.6,14.2,₹984,Delayed
+SHP2248,COIMBATORE,SALEM,Van,157.0,141.9,23-12-2024,9.9,15.6,"₹1,148",Delayed
+SHP2031,Salem,chennai,Van,174.1,104.2,16-01-2024,10.7,15.5,"₹1,149",On-Time
+SHP2001,MADURAI,COIMBATORE,Van,186.4,46.3,20-08-2024,11.3,15.1,"₹1,157",On-Time
+SHP2171,Salem,Chennai,Van,34.4,120.7,21-08-2024,3.7,6.4,₹390,On-Time
+SHP2271,coimbatore,Madurai,Van,308.7,,01 Jul 2024,17.4,23.5,"₹1,891",Delayed
+SHP2013,Coimbatore,Salem ,Bike,30.0,,09-08-2024,3.5,2.3,₹481,On-Time
+SHP2369,Bengaluru,bengaluru,Van,110.0,28.5,2024/01/11,7.5,9.8,₹782,On-Time
+SHP2009,COIMBATORE,CHENNAI,Truck,26.2,140.0,01 Mar 2024,3.3,2.9,₹346,On-Time
+SHP2146,Madurai,Trichy,Truck,684.4,52.9,2024/05/16,12.3,14.8,"₹1,265",Delayed
+SHP2274,bengaluru,Bengaluru,Truck,222.3,137.1,24-12-2024,13.1,17.3,"₹1,459",Delayed
+SHP2266,Salem,Chennai,Van,67.2,31.3,21-07-2024,5.4,6.4,₹433,On-Time
+SHP2374,Coimbatore,madurai,Van,294.9,49.4,28-08-2024,16.7,21.3,"₹1,819",Delayed
+SHP2095,Coimbatore,Salem,Truck,201.2,73.2,2024/10/10,12.1,15.2,"₹1,383",Delayed
+SHP2034,BENGALURU,Coimbatore,Truck,220.2,48.3,23-06-2024,13.0,17.2,,Delayed
+SHP2096,chennai,Madurai,Van,78.7,183.3,2024/10/17,5.9,7.9,₹596,Delayed
+SHP2391,Salem,Coimbatore,Bike,247.2,192.7,2024/11/13,14.4,20.6,"₹1,774",Delayed
+SHP2355,CHENNAI,Chennai,Van,140.3,149.9,05-02-2024,9.0,12.8,"₹1,141",On-Time
+SHP2352,COIMBATORE,BENGALURU,Van,178.2,75.1,2024/10/28,10.9,14.4,"₹1,212",On-Time
+SHP2321,Bengaluru,Coimbatore,Bike,231.5,161.3,2024/05/14,13.6,20.5,"₹1,694",On-Time
+SHP2344,Coimbatore,Coimbatore ,Bike,136.7,83.8,2024/10/01,8.8,13.6,,On-Time
+SHP2116,Chennai ,Chennai,Bike,107.0,222.6,2024/08/22,7.4,11.9,"₹1,057",On-Time
+SHP2168,Coimbatore,chennai,Truck,239.6,196.7,2024/07/11,14.0,19.2,"₹1,861",Delayed
+SHP2045,Salem,bengaluru,Truck,173.6,2.0,2024/07/07,10.7,12.9,"₹1,135",On-Time
+SHP2161,BENGALURU,Bengaluru,Truck,236.5,125.2,06-05-2024,13.8,18.7,"₹1,648",Delayed
+SHP2223,Bengaluru,Coimbatore,Bike,111.6,179.1,15 Jul 2024,7.6,12.3,,On-Time
+SHP2318,CHENNAI,COIMBATORE,Truck,171.1,102.7,16 Mar 2024,10.6,14.1,"₹1,295",Delayed
+SHP2117,Trichy,Coimbatore,Van,233.2,101.3,16-11-2024,13.7,17.8,"₹1,585",On-Time
+SHP2077,Coimbatore ,TRICHY,Truck,204.1,122.4,16-04-2024,12.2,16.8,"₹1,471",Delayed
+SHP2316,salem,Trichy,Bike,185.5,120.5,26-07-2024,11.3,17.0,"₹1,224",On-Time
+SHP2063,Chennai,Trichy,Van,30.6,139.8,10-01-2024,3.5,5.0,₹366,On-Time
+SHP2230,Trichy,COIMBATORE,Bike,139.0,78.3,04-09-2024,9.0,15.0,₹966,On-Time
+SHP2186,Trichy,Salem ,Bike,215.6,,2024/02/27,12.8,21.5,"₹1,843",Delayed
+SHP2269,Coimbatore,madurai,Van,204.6,72.0,2024/01/23,12.2,16.6,"₹1,261",On-Time
+SHP2199,Coimbatore,Coimbatore,Truck,211.6,227.0,18-10-2024,12.6,20.9,"₹1,611",Delayed
+SHP2273,CHENNAI,TRICHY,Van,151.4,82.7,27-08-2024,9.6,15.5,₹915,On-Time
+SHP2121,Coimbatore ,trichy,Van,188.2,64.7,28-12-2024,11.4,15.6,"₹1,229",On-Time
+SHP2375,chennai,coimbatore,Van,312.2,55.8,27-07-2024,17.6,23.2,"₹2,065",Delayed
+SHP2397,COIMBATORE,Chennai,Bike,271.5,183.6,2024/04/15,15.6,24.8,"₹1,935",On-Time
+SHP2158,chennai,Chennai,Van,52.8,9.8,08-10-2024,4.6,6.0,,On-Time
+SHP2085,Coimbatore,Chennai,Van,320.4,,12-07-2024,18.0,29.4,"₹2,188",Delayed
+SHP2225,chennai,Chennai,Truck,123.4,88.6,2024/10/28,8.2,9.9,₹823,Delayed
+SHP2262,CHENNAI,Trichy,Van,118.9,,2024/01/27,7.9,10.4,₹995,On-Time
+SHP2324,Salem,madurai,Bike,244.2,101.3,2024/04/04,14.2,20.3,"₹1,518",On-Time
+SHP2076,Bengaluru,Coimbatore,Van,216.3,96.0,2024/07/30,12.8,17.1,"₹1,466",Delayed
+SHP2314,Salem,Trichy,Bike,129.0,121.4,22-09-2024,8.4,13.5,"₹1,040",On-Time
+SHP2301,Bengaluru,Bengaluru,Van,114.8,,23-12-2024,7.7,10.4,"₹1,019",Delayed
+SHP2087,BENGALURU,madurai,Truck,266.3,233.6,09-04-2024,15.3,20.6,"₹1,886",Delayed
+SHP2029,bengaluru,chennai,Truck,207.3,157.3,28-06-2024,12.4,17.7,"₹1,500",Delayed
+SHP2182,Salem ,Salem,Van,158.0,116.3,30-01-2024,9.9,15.9,,On-Time
+SHP2105,Salem,trichy,Van,151.3,114.5,29 Sep 2024,9.6,12.9,₹947,On-Time
+SHP2049,SALEM,Chennai,Truck,94.9,,11-01-2024,6.7,8.6,,On-Time
+SHP2005,MADURAI,Salem ,Van,119.4,49.4,2024/02/13,8.0,9.3,₹846,On-Time
+SHP2017,Trichy,Trichy,Van,154.6,92.3,17-09-2024,9.7,14.6,"₹1,156",On-Time
+SHP2234,Trichy,trichy,Van,86.0,107.5,2024/05/27,6.3,10.2,₹589,On-Time
+SHP2322,salem,CHENNAI,Truck,213.8,292.8,18-01-2024,12.7,20.5,"₹1,622",Delayed
+SHP2106,Trichy,Salem ,Bike,164.7,164.9,2024/10/27,10.2,15.1,"₹1,146",On-Time
+SHP2134,MADURAI,Chennai,Bike,329.8,144.0,26-07-2024,18.5,28.8,"₹2,266",Delayed
+SHP2326,SALEM,trichy,Bike,171.1,134.8,2024/04/10,10.6,15.8,"₹1,248",On-Time
+SHP2226,Salem ,Chennai ,Van,105.4,256.8,2024/08/11,7.3,11.1,,On-Time
+SHP2214,COIMBATORE,chennai,Van,5.0,2.0,2024/05/12,2.2,0.8,₹50,On-Time
+SHP2190,Madurai,madurai,Van,239.9,128.2,22 Mar 2024,14.0,19.2,"₹1,625",Delayed
+SHP2357,chennai,salem,Bike,384.9,243.2,07-04-2024,21.2,33.5,"₹2,713",Delayed
+SHP2282,Chennai ,COIMBATORE,Van,169.8,,2024/12/20,10.5,11.3,"₹1,051",On-Time
+SHP2029,bengaluru,chennai,Truck,207.3,157.3,28-06-2024,12.4,17.7,"₹1,500",Delayed
+SHP2169,Trichy,Salem,Bike,43.0,,2024/06/06,4.2,3.8,₹445,On-Time
+SHP2180,Coimbatore,Chennai,Bike,61.2,137.2,2024/11/09,5.1,6.9,₹637,On-Time
+SHP2100,COIMBATORE,BENGALURU,Van,110.3,,13 Jul 2024,7.5,10.3,₹985,Delayed
+SHP2197,Coimbatore,CHENNAI,Bike,84.9,248.6,2024/08/14,6.2,10.5,₹807,On-Time
+SHP2209,Coimbatore,Trichy ,Bike,104.6,114.3,19-12-2024,7.2,10.7,₹760,On-Time
+SHP2135,MADURAI,madurai,Truck,208.4,201.1,2024/05/23,12.4,20.0,"₹1,498",Delayed
+SHP2380,trichy,Salem ,Bike,229.2,67.6,27-09-2024,13.5,18.4,"₹1,462",Delayed
+SHP2346,Madurai,Trichy,Van,134.1,147.3,26-10-2024,8.7,11.3,"₹1,184",Delayed
+SHP2198,Bengaluru ,salem,Van,248.0,36.6,09-08-2024,14.4,18.9,"₹1,544",Delayed
+SHP2166,SALEM,Bengaluru,Van,208.9,106.8,30-10-2024,12.4,17.2,"₹1,332",On-Time
+SHP2384,BENGALURU,trichy,Bike,267.7,108.8,2024/04/12,15.4,22.9,"₹1,876",On-Time
+SHP2136,salem,Chennai,Van,230.7,107.1,20-08-2024,13.5,17.8,"₹1,642",Delayed
+SHP2285,Chennai,Trichy,Bike,151.1,145.7,04-01-2024,9.6,15.4,"₹1,196",On-Time
+SHP2131,COIMBATORE,TRICHY,Van,25.6,73.0,20-07-2024,3.3,7.5,₹239,On-Time
+SHP2039,Trichy,Coimbatore ,Truck,217.8,125.2,2024/01/31,12.9,18.0,"₹1,574",Delayed
+SHP2215,Chennai ,BENGALURU,Bike,175.0,148.5,2024/05/05,10.8,15.2,"₹1,273",On-Time
+SHP2043,Bengaluru ,Trichy,Bike,98.4,,02 Aug 2024,6.9,9.7,₹825,On-Time
+SHP2054,Coimbatore,Coimbatore ,Van,183.8,94.3,21-02-2024,11.2,17.3,"₹1,266",On-Time
+SHP2387,Trichy,Chennai,Van,121.9,46.1,2024/05/26,8.1,10.4,₹856,On-Time
+SHP2299,Trichy,madurai,Van,232.9,157.0,2024/12/12,13.6,18.1,"₹1,590",On-Time
+SHP2367,Trichy,Bengaluru,Bike,230.8,15.8,23-03-2024,13.5,16.7,"₹1,347",On-Time
+SHP2304,Coimbatore,BENGALURU,Truck,178.4,177.3,24-09-2024,10.9,14.3,"₹1,363",Delayed
+SHP2035,CHENNAI,Coimbatore,Truck,263.5,113.4,27 Feb 2024,15.2,21.3,"₹1,724",Delayed
+SHP2315,MADURAI,Bengaluru,Truck,164.1,218.0,12 Feb 2024,10.2,14.1,"₹1,338",Delayed
+SHP2309,Salem ,Trichy,Truck,177.2,117.4,02-11-2024,10.9,13.1,"₹1,302",Delayed
+SHP2276,SALEM,Trichy,Bike,285.0,2.0,18 May 2024,16.2,23.0,"₹1,606",On-Time
+SHP2124,COIMBATORE,chennai,Van,180.9,198.2,07-11-2024,11.0,16.3,"₹1,352",Delayed
+SHP2142,COIMBATORE,TRICHY,Truck,216.2,92.9,16-08-2024,12.8,18.8,"₹1,440",Delayed
+SHP2110,Chennai ,TRICHY,Bike,346.5,67.4,23-06-2024,19.3,28.3,"₹2,035",On-Time
+SHP2323,coimbatore,Bengaluru,Van,257.9,76.5,15-06-2024,14.9,18.5,"₹1,701",On-Time
+SHP2353,TRICHY,CHENNAI,Truck,106.4,238.6,2024/05/23,7.3,11.7,₹921,Delayed
+SHP2107,salem,salem,Bike,55.6,122.2,20-04-2024,4.8,9.2,₹517,On-Time
+SHP2012,madurai,Bengaluru,Truck,147.0,2.0,2024/07/18,9.4,11.8,"₹1,036",On-Time
+SHP2272,Chennai,Trichy,Bike,152.3,208.9,13 Aug 2024,9.6,13.8,,On-Time
+SHP2047,MADURAI,Coimbatore,Van,213.8,204.3,05-11-2024,12.7,18.2,"₹1,636",Delayed
+SHP2203,COIMBATORE,MADURAI,Truck,288.0,130.6,18-01-2024,16.4,21.4,"₹1,957",Delayed
+SHP2393,MADURAI,Trichy ,Bike,270.9,103.5,26-06-2024,15.5,24.5,"₹1,942",On-Time
+SHP2119,Coimbatore,Chennai ,Van,58.2,153.8,2024/01/17,4.9,89.7,₹668,On-Time
+SHP2021,SALEM,Madurai,Bike,159.5,72.0,23-04-2024,10.0,16.7,"₹1,155",On-Time
+SHP2083,MADURAI,Salem ,Van,174.3,204.7,08-02-2024,10.7,12.5,"₹1,278",Delayed
+SHP2130,Trichy,Bengaluru,Truck,327.8,180.7,2024/03/24,18.4,24.6,"₹2,220",Delayed
+SHP2329,Chennai,coimbatore,Bike,121.3,196.0,2024/12/28,8.1,13.8,"₹1,062",On-Time
+SHP2229,Salem,MADURAI,Truck,226.5,94.1,31 Aug 2024,13.3,18.2,"₹1,629",Delayed
+SHP2396,Salem ,SALEM,Van,92.0,220.2,09-01-2024,6.6,11.7,₹927,On-Time
+SHP2286,chennai,Bengaluru,Van,180.5,215.1,03-03-2024,11.0,14.7,"₹1,454",Delayed
+SHP2123,chennai,Chennai,Bike,76.6,2.0,31-03-2024,5.8,6.6,₹441,On-Time
+SHP2033,Trichy,Bengaluru,Bike,263.2,40.4,2024/04/05,15.2,18.2,"₹1,607",On-Time
+SHP2381,madurai,TRICHY,Bike,107.2,126.4,19-08-2024,7.4,12.7,₹831,On-Time
+SHP2004,TRICHY,Chennai,Bike,319.0,134.1,2024/07/29,18.0,27.4,"₹1,981",Delayed
+SHP2019,madurai,Madurai,Van,164.0,146.3,2024/04/12,10.2,13.8,"₹1,197",Delayed
+SHP2219,Bengaluru ,Coimbatore ,Van,174.0,126.2,31 Aug 2024,10.7,15.7,"₹1,237",Delayed
+SHP2149,Madurai ,Madurai,Van,209.1,175.9,14-01-2024,12.5,17.3,"₹1,526",Delayed
+SHP2149,Madurai ,Madurai,Van,209.1,175.9,14-01-2024,12.5,17.3,"₹1,526",Delayed
+SHP2224,TRICHY,SALEM,Bike,268.5,94.6,01-04-2024,15.4,23.8,,On-Time
+SHP2247,Chennai,Chennai,Bike,209.5,256.1,2024/11/27,12.5,19.7,"₹1,588",Delayed
+SHP2358,Trichy ,madurai,Truck,185.5,56.8,07-06-2024,11.3,13.1,"₹1,126",Delayed
+SHP2151,CHENNAI,Bengaluru ,Bike,112.0,91.3,06-04-2024,7.6,10.4,₹866,On-Time
+SHP2317,Chennai,Madurai,Van,260.0,66.2,03-12-2024,15.0,20.0,"₹1,652",Delayed
+SHP2291,salem,Coimbatore ,Truck,100.1,49.7,2024/01/22,7.0,10.0,₹756,On-Time
+SHP2233,Bengaluru,Trichy,Bike,90.5,151.4,16-01-2024,6.5,9.0,₹619,On-Time
+SHP2010,Madurai,Salem ,Van,236.9,93.4,10-02-2024,13.8,17.8,"₹1,501",On-Time
+SHP2279,coimbatore,SALEM,Van,241.8,172.2,2024/11/08,14.1,20.2,"₹1,665",Delayed
+SHP2071,MADURAI,SALEM,Bike,268.5,217.3,17-11-2024,15.4,23.9,"₹1,956",Delayed
+SHP2252,chennai,SALEM,Bike,124.0,,06 Oct 2024,8.2,10.2,₹902,On-Time
+SHP2092,Bengaluru,madurai,Truck,157.0,149.3,23-08-2024,9.9,14.4,₹956,Delayed
+SHP2349,TRICHY,Salem ,Van,187.0,150.2,2024/07/11,11.4,15.5,"₹1,268",On-Time
+SHP2192,Chennai ,Coimbatore,Van,260.0,89.0,28-01-2024,15.0,21.9,"₹1,812",On-Time
+SHP2257,Bengaluru,Salem,Van,205.5,132.8,2024/11/10,12.3,15.3,"₹1,441",Delayed
+SHP2339,COIMBATORE,COIMBATORE,Bike,165.6,245.0,04-06-2024,10.3,15.1,"₹1,312",On-Time
+SHP2394,Trichy,CHENNAI,Van,152.6,133.2,2024/10/16,9.6,14.1,"₹1,050",On-Time
+SHP2195,Salem,CHENNAI,Van,50.9,159.8,2024/04/14,4.5,7.4,₹566,On-Time
+SHP2343,chennai,Salem ,Bike,5.0,138.0,03 Jan 2024,2.2,4.8,₹247,On-Time
+SHP2137,Trichy ,Chennai,Truck,181.6,31.0,27-08-2024,11.1,11.2,"₹1,098",Delayed
+SHP2260,MADURAI,Bengaluru,Van,117.9,55.4,04-07-2024,7.9,10.5,₹836,On-Time
+SHP2038,TRICHY,Salem,Bike,59.0,162.5,16-12-2024,5.0,10.0,₹485,On-Time
+SHP2201,chennai,chennai,Bike,215.7,160.4,20-05-2024,12.8,19.1,"₹1,492",On-Time
+SHP2377,Chennai,trichy,Truck,230.3,101.6,21-10-2024,13.5,17.3,"₹1,456",Delayed
+SHP2290,Chennai,Salem,Truck,41.2,71.3,19-09-2024,4.1,4.8,₹386,On-Time
+SHP2189,madurai,COIMBATORE,Bike,80.9,15.3,10-09-2024,6.0,8.0,₹482,On-Time
+SHP2251,Trichy ,SALEM,Van,107.5,170.6,17-05-2024,7.4,11.1,₹815,On-Time
+SHP2112,TRICHY,coimbatore,Van,5.0,118.1,2024/07/01,2.2,2.5,₹317,On-Time
+SHP2183,Coimbatore,Bengaluru,Bike,151.5,162.9,26-02-2024,9.6,15.9,"₹1,218",On-Time
+SHP2152,Coimbatore,Madurai,Van,185.1,238.5,2024/03/02,11.3,16.2,"₹1,573",Delayed
+SHP2312,Chennai ,Trichy ,Van,166.6,44.6,2024/10/14,10.3,14.8,"₹1,078",On-Time
+SHP2325,madurai,Bengaluru,Van,233.0,79.7,2024/02/15,13.6,18.0,"₹1,399",On-Time
+SHP2191,Trichy,Chennai,Van,181.1,54.7,28-03-2024,11.1,15.2,"₹1,128",On-Time
+SHP2044,salem,salem,Truck,221.4,143.6,27-04-2024,13.1,15.2,"₹1,589",Delayed
+SHP2275,Chennai ,Madurai ,Van,104.6,116.1,2024/11/07,7.2,9.6,₹770,On-Time
+SHP2006,Chennai,Coimbatore,Bike,137.3,141.4,2024/06/21,8.9,14.4,₹960,On-Time
+SHP2250,Madurai,Madurai,Van,56.9,71.6,03-02-2024,4.8,6.9,₹688,On-Time
+SHP2311,Chennai,MADURAI,Truck,93.4,127.1,13 Nov 2024,6.7,9.4,₹835,Delayed
+SHP2075,Chennai ,coimbatore,Truck,171.1,198.5,2024/08/15,10.6,14.0,"₹1,259",Delayed
+SHP2000,MADURAI,Bengaluru ,Truck,146.3,115.0,09 Aug 2024,9.3,11.0,"₹1,093",Delayed
+SHP2383,Salem,chennai,Bike,281.4,176.6,27-05-2024,16.1,22.5,"₹2,014",Delayed
+SHP2068,Trichy,Salem,Bike,112.6,2.0,27-10-2024,7.6,10.4,₹655,On-Time
+SHP2167,salem,bengaluru,Van,237.8,89.0,2024/01/17,13.9,20.0,"₹1,490",On-Time
+SHP2218,Salem ,Trichy ,Truck,394.5,39.6,05-01-2024,21.7,28.7,"₹2,420",Delayed
+SHP2042,Coimbatore,BENGALURU,Bike,95.7,,05-11-2024,6.8,10.4,₹651,On-Time
+SHP2366,Salem ,madurai,Truck,160.2,85.0,2024/10/08,10.0,12.9,"₹1,120",On-Time
+SHP2345,TRICHY,BENGALURU,Truck,144.4,173.1,11-10-2024,9.2,13.9,"₹1,091",Delayed
+SHP2072,Madurai,Chennai ,Truck,5.0,102.0,22-07-2024,2.2,3.5,₹56,Delayed
+SHP2023,Chennai ,Chennai,Van,162.1,145.3,2024/03/22,10.1,14.9,"₹1,197",On-Time
+SHP2185,salem,trichy,Bike,199.9,53.7,30 Jun 2024,12.0,17.7,"₹1,223",On-Time
+SHP2348,Coimbatore,Coimbatore,Van,257.5,117.1,12 Oct 2024,14.9,21.0,"₹1,751",Delayed
+SHP2103,bengaluru,TRICHY,Van,232.0,134.3,04-01-2024,13.6,15.3,"₹1,650",Delayed
+SHP2211,Coimbatore,Bengaluru,Truck,291.3,80.8,21-03-2024,16.6,21.8,"₹1,734",Delayed
+SHP2067,Salem,Madurai,Van,151.3,63.4,18-10-2024,9.6,13.8,₹982,On-Time
+SHP2025,Coimbatore,TRICHY,Van,215.7,193.7,13-10-2024,12.8,19.6,"₹1,633",Delayed
+SHP2196,Salem,chennai,Van,112.0,2.0,07-05-2024,7.6,9.2,,On-Time
+SHP2175,trichy,Chennai ,Truck,86.3,143.5,28-01-2024,6.3,8.1,₹712,Delayed

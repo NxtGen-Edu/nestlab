@@ -1,0 +1,406 @@
+﻿Order_ID,Order_Date,Region,Product_Category,Customer_Segment,Units_Sold,Unit_Price_INR,Discount_Pct,Revenue_INR,Returned
+ORD3228,05 Apr 2024,South ,Home & Kitchen,Consumer,21.0,"₹1,296",6.6,25411.31,No
+ORD3098,23-09-2024,South ,Apparel,Corporate,,"₹1,248",10.2,30263.13,Yes
+ORD3080,16-12-2024,WEST,Electronics,Corporate,,"₹1,575",14.0,13542.08,No
+ORD3373,20 Sep 2024,East,Apparel,Small Business,29.0,"₹1,351",4.4,37447.36,Yes
+ORD3388,29-10-2024,WEST,Home & Kitchen,Corporate,23.0,₹798,11.5,16233.72,No
+ORD3026,25-07-2024,WEST,Electronics,Small Business,31.0,₹658,6.2,19144.37,No
+ORD3391,14-01-2024,EAST,Apparel,Small Business,1.0,₹525,31.8,358.08,Yes
+ORD3335,21-05-2024,East,Grocery,Consumer,14.0,"₹1,065",8.1,13697.92,No
+ORD3283,30-01-2024,south,Apparel,Corporate,29.0,"₹1,221",15.7,29841.23,Yes
+ORD3188,04-06-2024,east,Grocery,Corporate,17.0,₹389,8.7,6030.22,No
+ORD3056,02-11-2024,north,Home & Kitchen,Consumer,25.0,"₹1,178",0.0,29453.0,No
+ORD3089,2024/10/13,North,Grocery,Small Business,13.0,₹50,3.4,627.9,No
+ORD3060,03-09-2024,East ,Beauty,Consumer,9.0,"₹1,166",1.6,10327.87,No
+ORD3242,08-05-2024,EAST,Grocery,Corporate,8.0,₹741,7.7,5475.16,No
+ORD3398,2024/03/20,West ,Grocery,Small Business,11.0,"₹1,022",20.3,8960.14,No
+ORD3294,2024/05/24,NORTH,Home & Kitchen,Small Business,5.0,"₹1,234",12.1,5421.32,No
+ORD3120,29 Apr 2024,South ,Grocery,Consumer,23.0,₹50,12.9,1001.65,No
+ORD3372,23-02-2024,north,Grocery,Corporate,20.0,₹505,8.7,9228.97,No
+ORD3139,30 Aug 2024,east,Apparel,Consumer,36.0,₹735,10.5,23667.85,Yes
+ORD3207,2024/08/07,East ,Beauty,Small Business,33.0,"₹1,654",6.1,51263.03,No
+ORD3052,17-06-2024,East,Grocery,Consumer,26.0,₹285,7.2,6877.2,No
+ORD3162,2024/01/25,south,Home & Kitchen,Consumer,25.0,₹50,17.0,1037.5,No
+ORD3138,25-02-2024,WEST,Apparel,Consumer,27.0,"₹1,146",17.4,25564.78,Yes
+ORD3396,13-09-2024,NORTH,Home & Kitchen,Consumer,37.0,₹527,10.4,17469.11,No
+ORD3030,04-03-2024,East,Apparel,Consumer,7.0,₹432,11.2,2682.2,No
+ORD3264,18-01-2024,West ,Apparel,Consumer,7.0,₹967,11.8,5970.07,Yes
+ORD3332,23 Jul 2024,South ,Apparel,Consumer,39.0,"₹1,274",24.0,37760.47,Yes
+ORD3118,16 Mar 2024,North,Electronics,Consumer,25.0,₹50,1.9,1226.25,No
+ORD3277,2024/02/02,north,Home & Kitchen,Corporate,23.0,₹171,4.5,3754.48,No
+ORD3145,18-10-2024,West ,Electronics,Small Business,,"₹1,276",16.4,37347.17,Yes
+ORD3232,29-12-2024,East,Electronics,Corporate,17.0,₹50,11.8,749.7,No
+ORD3014,22-03-2024,South,Beauty,Small Business,14.0,₹622,0.0,8713.74,No
+ORD3174,2024/05/26,East,Apparel,Small Business,11.0,"₹1,425",3.8,15075.43,No
+ORD3255,26-05-2024,South,Electronics,Small Business,13.0,₹606,13.6,6812.1,No
+ORD3390,13-07-2024,East,Apparel,Small Business,,₹699,16.9,8127.05,Yes
+ORD3227,14 Oct 2024,North,Electronics,Consumer,3.0,₹833,8.2,2295.27,No
+ORD3051,2024/01/15,north,Apparel,Corporate,39.0,₹384,16.5,12489.0,Yes
+ORD3271,12-12-2024,NORTH,Grocery,Corporate,1.0,"₹1,096",10.4,981.71,No
+ORD3147,25-12-2024,East ,Electronics,Consumer,3.0,₹50,2.5,146.25,No
+ORD3165,2024/06/12,West,Grocery,Corporate,38.0,₹125,0.0,4745.06,No
+ORD3380,2024/02/23,South,Apparel,Consumer,22.0,"₹1,363",17.1,24859.31,Yes
+ORD3185,12-08-2024,North,Beauty,Consumer,35.0,₹585,7.5,18926.75,Yes
+ORD3065,2024/12/27,east,Beauty,Corporate,35.0,₹929,11.9,28632.15,Yes
+ORD3129,23-05-2024,South,Electronics,Corporate,16.0,₹524,3.7,8071.17,No
+ORD3111,2024/07/18,West,Apparel,Small Business,14.0,₹909,5.0,12088.1,Yes
+ORD3369,03 Mar 2024,East,Electronics,Small Business,38.0,₹693,22.1,20527.8,Yes
+ORD3090,2024/10/13,NORTH,Apparel,Consumer,23.0,₹227,11.5,4615.29,Yes
+ORD3109,11-10-2024,South ,Home & Kitchen,Corporate,29.0,"₹1,354",4.8,37375.71,No
+ORD3028,08-08-2024,North ,Home & Kitchen,Corporate,6.0,₹292,22.5,1359.52,Yes
+ORD3041,02 Jan 2024,South,Home & Kitchen,Corporate,15.0,"₹1,473",3.3,21371.23,No
+ORD3003,27-06-2024,East,Apparel,Consumer,36.0,₹475,8.2,15682.27,Yes
+ORD3022,2024/02/20,North,Electronics,Consumer,2.0,₹472,7.5,873.09,No
+ORD3374,11 Apr 2024,West,Electronics,Consumer,25.0,₹589,22.2,11461.88,No
+ORD3235,2024/12/28,West,Grocery,Consumer,6.0,"₹1,138",0.0,6826.5,No
+ORD3187,28-08-2024,WEST,Grocery,Consumer,33.0,"₹1,218",17.7,33073.14,No
+ORD3220,23-05-2024,South,Apparel,Consumer,22.0,₹526,3.0,11216.73,No
+ORD3337,2024/11/07,west,Beauty,Consumer,,₹902,16.9,6747.93,Yes
+ORD3057,2024/09/22,south,Grocery,Small Business,36.0,₹50,10.2,1616.4,No
+ORD3342,03-07-2024,East,Home & Kitchen,Corporate,29.0,"₹1,414",16.2,34363.76,Yes
+ORD3289,04 Mar 2024,WEST,Home & Kitchen,Consumer,26.0,₹889,7.1,21467.83,No
+ORD3334,2024/10/15,West,Apparel,Corporate,,₹817,18.0,12729.64,Yes
+ORD3245,11-11-2024,SOUTH,Grocery,Small Business,9.0,"₹1,676",6.2,14150.31,No
+ORD3115,31-05-2024,NORTH,Apparel,Corporate,17.0,₹444,1.0,7480.09,No
+ORD3157,2024/09/04,East,Home & Kitchen,Consumer,11.0,"₹1,445",20.0,12712.22,No
+ORD3101,26 Jul 2024,west,Apparel,Consumer,2.0,₹855,9.2,1552.08,No
+ORD3356,13-04-2024,West,Home & Kitchen,Consumer,24.0,"₹1,128",7.8,24956.84,No
+ORD3308,07-10-2024,East,Grocery,Small Business,6.0,₹893,28.3,3842.2,No
+ORD3295,2024/02/20,WEST,Electronics,Consumer,35.0,₹50,5.2,1659.0,No
+ORD3114,2024/06/15,South,Apparel,Consumer,16.0,₹159,10.8,2273.96,Yes
+ORD3273,24-01-2024,WEST,Home & Kitchen,Consumer,38.0,₹595,0.0,22618.36,No
+ORD3170,06-01-2024,north,Beauty,Corporate,35.0,₹578,10.1,18194.95,Yes
+ORD3292,2024/01/07,SOUTH,Grocery,Corporate,18.0,"₹1,443",3.5,25060.91,No
+ORD3239,2024/12/17,east,Beauty,Consumer,9.0,"₹1,110",5.8,9414.31,No
+ORD3303,05-08-2024,South,Beauty,Corporate,8.0,"₹1,473",6.8,10983.06,No
+ORD3236,06-05-2024,west,Grocery,Corporate,19.0,₹638,9.2,10998.67,No
+ORD3340,09-01-2024,East ,Grocery,Consumer,16.0,₹805,13.7,11120.13,No
+ORD3132,2024/11/28,SOUTH,Electronics,Corporate,8.0,"₹1,007",12.1,7082.35,No
+ORD3059,01 Oct 2024,East,Home & Kitchen,Small Business,26.0,₹725,17.0,15655.21,No
+ORD3138,25-02-2024,WEST,Apparel,Consumer,27.0,"₹1,146",17.4,25564.78,Yes
+ORD3074,08 Jan 2024,South ,Home & Kitchen,Consumer,32.0,₹669,7.4,19815.21,No
+ORD3079,24-06-2024,East,Electronics,Small Business,16.0,"₹1,131",0.4,18030.47,No
+ORD3150,15-08-2024,North,Apparel,Small Business,,₹527,14.2,13122.77,Yes
+ORD3256,03-10-2024,south,Electronics,Consumer,24.0,₹203,10.9,4348.65,No
+ORD3081,05-10-2024,west,Electronics,Small Business,16.0,"₹1,224",11.5,17330.85,No
+ORD3050,2024/12/28,North,Electronics,Corporate,25.0,₹658,11.8,14497.88,No
+ORD3248,19-03-2024,west,Electronics,Consumer,35.0,"₹2,458",7.7,79417.0,Yes
+ORD3154,08 Apr 2024,North,Electronics,Consumer,29.0,"₹1,162",10.5,30171.39,Yes
+ORD3344,2024/05/25,East,Electronics,Small Business,34.0,₹709,16.3,20183.84,Yes
+ORD3193,2024/11/19,East ,Beauty,Consumer,7.0,₹837,18.8,4759.95,No
+ORD3314,11-03-2024,East,Grocery,Consumer,22.0,"₹1,326",21.7,22837.2,No
+ORD3053,2024/10/19,SOUTH,Apparel,Consumer,27.0,"₹1,234",16.5,27809.93,Yes
+ORD3357,06-01-2024,West,Apparel,Consumer,19.0,"₹1,513",14.9,24461.76,Yes
+ORD3141,25-05-2024,West,Home & Kitchen,Small Business,22.0,"₹1,424",8.5,28667.74,No
+ORD3364,22-12-2024,east,Home & Kitchen,Corporate,,₹890,13.7,8450.19,No
+ORD3353,19-07-2024,north,Apparel,Consumer,26.0,"₹1,330",13.0,30077.81,Yes
+ORD3148,06-02-2024,east,Beauty,Consumer,15.0,"₹1,439",1.5,21267.43,No
+ORD3278,27-07-2024,South ,Beauty,Corporate,21.0,₹574,10.5,10793.03,No
+ORD3194,2024/03/26,West,Apparel,Consumer,33.0,₹959,12.5,27689.97,Yes
+ORD3066,03-09-2024,EAST,Electronics,Small Business,37.0,"₹1,000",14.5,31646.07,Yes
+ORD3173,2024/08/05,west,Grocery,Consumer,28.0,₹823,3.7,22188.14,No
+ORD3316,03 Apr 2024,SOUTH,Grocery,Consumer,13.0,₹629,13.6,7063.92,No
+ORD3367,09-09-2024,East ,Home & Kitchen,Corporate,24.0,₹625,12.9,13070.44,No
+ORD3387,06 Aug 2024,WEST,Apparel,Small Business,36.0,₹259,5.1,8839.25,No
+ORD3084,2024/10/02,west,Beauty,Corporate,5.0,₹210,10.1,943.41,No
+ORD3362,2024/10/23,East,Beauty,Consumer,25.0,₹50,15.0,1062.5,Yes
+ORD3333,2024/03/19,North,Electronics,Small Business,4.0,₹767,0.3,3057.64,No
+ORD3099,21-09-2024,SOUTH,Home & Kitchen,Corporate,13.0,"₹1,002",16.8,10833.41,No
+ORD3032,2024/08/12,West ,Electronics,Corporate,14.0,₹50,1.5,689.5,No
+ORD3231,17 Nov 2024,SOUTH,Home & Kitchen,Consumer,31.0,₹149,30.2,3213.89,Yes
+ORD3015,19-07-2024,South,Beauty,Small Business,26.0,₹841,9.6,19760.05,Yes
+ORD3259,26 Sep 2024,South,Electronics,Consumer,31.0,₹787,12.3,21403.24,Yes
+ORD3330,27-04-2024,south,Beauty,Consumer,17.0,₹772,24.5,9914.91,Yes
+ORD3202,17-05-2024,NORTH,Electronics,Consumer,2.0,₹234,12.0,411.73,No
+ORD3086,2024/10/01,North,Electronics,Consumer,29.0,₹798,11.3,20514.35,Yes
+ORD3037,14-10-2024,NORTH,Home & Kitchen,Small Business,23.0,"₹1,594",24.9,27530.74,No
+ORD3002,31-07-2024,NORTH,Apparel,Consumer,24.0,"₹1,788",14.0,36901.22,Yes
+ORD3062,2024/06/10,North,Apparel,Corporate,30.0,"₹1,585",6.5,44470.47,Yes
+ORD3287,23-09-2024,North,Electronics,Small Business,24.0,₹804,10.9,17185.47,Yes
+ORD3269,2024/03/06,East,Beauty,Consumer,22.0,"₹1,665",14.7,31249.14,Yes
+ORD3319,06-08-2024,EAST,Grocery,Corporate,,₹317,5.6,11078.11,No
+ORD3240,04-08-2024,East,Apparel,Small Business,36.0,"₹1,197",0.0,43103.52,Yes
+ORD3155,19-12-2024,EAST,Home & Kitchen,Consumer,19.0,₹343,6.0,6129.55,No
+ORD3073,22-03-2024,West,Electronics,Corporate,3.0,₹697,4.4,1998.45,No
+ORD3328,17-12-2024,North,Apparel,Corporate,35.0,"₹1,563",16.7,45580.64,Yes
+ORD3104,11 Sep 2024,south,Apparel,Corporate,19.0,₹527,10.7,8948.9,Yes
+ORD3306,22-03-2024,North ,Home & Kitchen,Consumer,28.0,₹878,7.3,22778.73,No
+ORD3377,2024/08/19,West ,Apparel,Consumer,5.0,"₹1,437",6.9,6691.19,Yes
+ORD3241,2024/12/12,South,Apparel,Corporate,11.0,"₹1,759",25.9,14340.62,Yes
+ORD3016,30-06-2024,South,Grocery,Consumer,21.0,₹878,12.7,16089.41,No
+ORD3164,03-07-2024,North ,Electronics,Consumer,23.0,"₹1,282",28.9,20959.15,Yes
+ORD3088,2024/01/14,North,Electronics,Consumer,13.0,₹368,32.4,3231.61,Yes
+ORD3212,28-02-2024,north,Beauty,Corporate,3.0,"₹1,368",7.8,3784.05,No
+ORD3102,2024/09/24,North,Electronics,Consumer,29.0,₹282,8.4,7496.1,No
+ORD3163,06 Mar 2024,North ,Apparel,Consumer,7.0,₹347,22.0,1895.22,Yes
+ORD3070,13-12-2024,North,Beauty,Corporate,32.0,₹229,7.7,6752.52,No
+ORD3133,2024/08/05,North,Electronics,Consumer,26.0,₹825,20.0,17167.9,Yes
+ORD3298,2024/11/23,North,Electronics,Consumer,,"₹1,258",11.4,10030.18,No
+ORD3399,30-03-2024,west,Home & Kitchen,Consumer,,"₹1,152",16.9,22968.71,No
+ORD3140,01-11-2024,south,Apparel,Consumer,,₹817,21.2,3861.36,Yes
+ORD3266,09-07-2024,south,Beauty,Consumer,30.0,"₹1,277",8.8,34926.68,No
+ORD3018,2024/09/12,south,Electronics,Corporate,19.0,"₹1,062",26.0,14931.3,Yes
+ORD3385,18 Jan 2024,NORTH,Electronics,Consumer,2.0,₹597,13.6,1031.93,No
+ORD3020,04-05-2024,EAST,Home & Kitchen,Corporate,7.0,₹535,7.5,3462.64,No
+ORD3055,28-06-2024,SOUTH,Electronics,Consumer,4.0,₹926,15.5,3130.49,No
+ORD3204,2024/06/22,West,Beauty,Corporate,35.0,₹269,8.9,8583.76,No
+ORD3393,2024/10/13,West,Home & Kitchen,Consumer,9.0,"₹1,166",4.1,10064.78,No
+ORD3288,08-12-2024,north,Grocery,Consumer,25.0,₹849,25.8,15746.72,No
+ORD3244,09-07-2024,SOUTH,Electronics,Small Business,6.0,₹151,19.2,731.71,Yes
+ORD3351,2024/08/24,north,Electronics,Consumer,26.0,"₹1,020",25.1,19860.17,Yes
+ORD3159,2024/10/01,South,Grocery,Small Business,6.0,"₹1,524",15.2,7752.64,No
+ORD3216,26 Sep 2024,south,Apparel,Corporate,17.0,"₹1,015",6.1,16206.28,No
+ORD3097,03-03-2024,North,Grocery,Consumer,18.0,₹819,29.2,10439.76,No
+ORD3321,2024/07/18,East,Home & Kitchen,Consumer,33.0,₹891,0.0,29414.88,No
+ORD3122,2024/11/16,South,Home & Kitchen,Small Business,4.0,"₹1,305",15.8,4394.87,No
+ORD3113,2024/09/20,South,Electronics,Corporate,38.0,"₹1,674",19.8,51003.41,Yes
+ORD3365,17-11-2024,East ,Grocery,Corporate,17.0,₹867,16.4,12322.51,No
+ORD3265,20-09-2024,South ,Home & Kitchen,Corporate,13.0,"₹1,235",14.5,13728.25,No
+ORD3108,02-01-2024,North,Apparel,Corporate,32.0,"₹1,186",7.4,35149.77,Yes
+ORD3177,15-12-2024,west,Home & Kitchen,Consumer,11.0,"₹1,123",11.6,10916.26,No
+ORD3094,22-09-2024,west,Home & Kitchen,Consumer,1.0,₹939,10.5,840.82,No
+ORD3237,2024/08/02,WEST,Grocery,Corporate,2.0,"₹1,645",0.0,3289.72,No
+ORD3125,2024/04/08,EAST,Beauty,Small Business,15.0,"₹1,362",17.7,16811.79,No
+ORD3243,2024/04/24,East,Apparel,Consumer,1.0,₹573,0.0,573.4,Yes
+ORD3389,10-10-2024,South,Home & Kitchen,Consumer,38.0,₹587,23.3,17105.79,Yes
+ORD3091,2024/08/21,South ,Beauty,Consumer,7.0,₹772,14.8,4602.66,Yes
+ORD3386,06 Apr 2024,West ,Electronics,Consumer,24.0,₹913,29.1,15541.05,Yes
+ORD3341,25-01-2024,NORTH,Grocery,Corporate,35.0,₹748,13.1,22764.72,No
+ORD3222,14-03-2024,West,Electronics,Small Business,25.0,"₹1,385",16.8,28808.62,No
+ORD3338,2024/05/26,north,Beauty,Consumer,17.0,"₹1,054",19.6,14409.63,Yes
+ORD3181,22-09-2024,South,Electronics,Consumer,19.0,"₹1,294",11.5,21765.67,No
+ORD3331,2024/03/16,South,Electronics,Consumer,17.0,"₹1,587",5.8,25408.29,No
+ORD3024,31 Jul 2024,west,Home & Kitchen,Consumer,29.0,₹909,23.8,20096.58,Yes
+ORD3258,2024/10/01,north,Beauty,Small Business,8.0,"₹1,049",16.8,6984.94,No
+ORD3268,2024/07/02,WEST,Electronics,Corporate,,₹790,10.9,6333.41,No
+ORD3126,28-06-2024,WEST,Apparel,Corporate,12.0,₹50,7.0,558.0,No
+ORD3336,19-12-2024,SOUTH,Apparel,Consumer,4.0,₹484,4.6,1847.17,No
+ORD3078,2024/09/28,west,Home & Kitchen,Corporate,7.0,₹680,16.4,3977.49,No
+ORD3200,29-07-2024,SOUTH,Electronics,Corporate,20.0,₹795,0.9,15754.32,No
+ORD3178,2024/02/18,East,Beauty,Consumer,13.0,₹700,10.7,8124.91,Yes
+ORD3221,2024/10/12,WEST,Apparel,Corporate,14.0,₹513,0.0,7188.3,No
+ORD3210,2024/04/19,North ,Home & Kitchen,Small Business,26.0,₹643,10.3,15001.88,No
+ORD3300,30-04-2024,East ,Apparel,Consumer,6.0,₹307,11.3,1636.3,Yes
+ORD3313,22-05-2024,east,Electronics,Consumer,39.0,₹159,21.9,4840.24,Yes
+ORD3307,03 Aug 2024,South,Electronics,Small Business,20.0,₹249,8.0,4589.88,No
+ORD3061,03-07-2024,WEST,Apparel,Corporate,18.0,"₹1,210",2.6,21220.03,Yes
+ORD3281,22 May 2024,EAST,Electronics,Corporate,30.0,"₹1,177",24.7,26592.95,Yes
+ORD3093,04 Jan 2024,EAST,Grocery,Consumer,34.0,₹503,10.5,15320.59,No
+ORD3326,05 Jan 2024,East,Grocery,Consumer,25.0,₹128,5.2,3021.99,No
+ORD3217,16-02-2024,WEST,Apparel,Consumer,17.0,₹537,17.9,7491.7,Yes
+ORD3069,2024/02/15,West,Home & Kitchen,Consumer,21.0,₹719,13.8,13024.21,No
+ORD3036,2024/05/21,South ,Apparel,Corporate,13.0,"₹1,560",9.4,18368.03,Yes
+ORD3040,2024/05/20,SOUTH,Home & Kitchen,Corporate,8.0,N/A,17.2,2526.19,No
+ORD3160,2024/01/30,South,Electronics,Consumer,4.0,"₹1,467",0.0,5867.2,No
+ORD3363,21 Apr 2024,West,Apparel,Consumer,13.0,₹135,19.1,1423.06,Yes
+ORD3011,11-02-2024,North,Electronics,Corporate,30.0,₹936,17.2,23241.05,Yes
+ORD3144,09-02-2024,north,Apparel,Consumer,25.0,"₹1,622",14.3,34756.49,Yes
+ORD3320,22-05-2024,East,Grocery,Consumer,37.0,"₹1,824",10.5,60398.45,No
+ORD3293,2024/03/06,SOUTH,Grocery,Corporate,9.0,"₹1,370",13.7,10640.4,No
+ORD3284,2024/07/25,South,Electronics,Small Business,29.0,₹621,9.9,16224.02,No
+ORD3127,01 Mar 2024,North,Grocery,Consumer,26.0,₹239,0.0,6219.46,No
+ORD3206,01-08-2024,South,Beauty,Consumer,,₹357,25.2,802.03,Yes
+ORD3184,26-03-2024,North,Home & Kitchen,Consumer,28.0,₹584,11.8,14417.52,Yes
+ORD3046,01-08-2024,EAST,Beauty,Consumer,32.0,₹822,24.1,19955.02,Yes
+ORD3238,03-01-2024,South,Apparel,Consumer,20.0,₹670,12.1,11779.65,Yes
+ORD3301,11-10-2024,west,Grocery,Consumer,5.0,"₹1,888",9.1,8581.82,No
+ORD3361,09-01-2024,East ,Beauty,Consumer,10.0,₹50,20.0,400.0,Yes
+ORD3176,27-07-2024,EAST,Apparel,Consumer,1.0,₹960,2.2,938.96,No
+ORD3128,28 Feb 2024,East,Home & Kitchen,Small Business,22.0,₹786,17.2,14316.68,No
+ORD3143,2024/06/02,NORTH,Apparel,Corporate,12.0,"₹1,576",29.0,13424.03,Yes
+ORD3007,10 May 2024,East,Home & Kitchen,Consumer,10.0,"₹1,035",19.6,8322.61,No
+ORD3350,30-06-2024,North,Grocery,Consumer,,₹695,14.2,17290.25,No
+ORD3246,19-07-2024,South,Grocery,Consumer,9.0,"₹1,111",20.7,7927.14,No
+ORD3305,22-10-2024,North,Home & Kitchen,Consumer,12.0,₹690,0.7,8221.33,No
+ORD3179,2024/04/02,NORTH,Apparel,Consumer,26.0,"₹1,320",5.7,32360.08,No
+ORD3172,18-04-2024,South,Apparel,Consumer,33.0,"₹1,075",3.2,34354.49,No
+ORD3297,23-02-2024,North,Electronics,Consumer,18.0,₹671,13.2,10484.49,No
+ORD3008,2024/07/13,East ,Grocery,Corporate,33.0,₹788,7.1,24143.61,No
+ORD3156,21-07-2024,NORTH,Grocery,Corporate,22.0,₹845,19.3,15006.75,No
+ORD3027,2024/01/15,East,Beauty,Consumer,6.0,₹892,2.7,5208.14,No
+ORD3296,09-05-2024,west,Electronics,Corporate,28.0,"₹1,458",14.9,34748.85,Yes
+ORD3355,2024/11/15,North,Home & Kitchen,Consumer,15.0,₹488,0.0,7322.25,No
+ORD3058,17-04-2024,north,Home & Kitchen,Consumer,16.0,"₹1,543",18.8,20051.59,No
+ORD3205,23 Jun 2024,East,Home & Kitchen,Consumer,21.0,₹50,7.2,974.4,No
+ORD3064,15-11-2024,South ,Home & Kitchen,Corporate,5.0,₹50,0.0,250.0,No
+ORD3082,28-01-2024,north,Grocery,Consumer,22.0,"₹1,243",21.8,21391.97,No
+ORD3062,2024/06/10,North,Apparel,Corporate,30.0,"₹1,585",6.5,44470.47,Yes
+ORD3213,05-03-2024,South,Apparel,Consumer,4.0,₹50,18.8,162.4,Yes
+ORD3254,02-02-2024,West,Beauty,Consumer,26.0,₹699,18.0,14896.5,No
+ORD3153,07-02-2024,North ,Grocery,Consumer,14.0,₹688,0.0,9630.88,No
+ORD3048,03-02-2024,South,Apparel,Consumer,21.0,"₹1,748",20.6,29151.99,Yes
+ORD3208,30-04-2024,south,Electronics,Consumer,12.0,₹765,1.4,9048.17,No
+ORD3249,2024/10/10,West,Grocery,Corporate,34.0,"₹1,063",14.8,30779.08,No
+ORD3031,07-05-2024,west,Apparel,Consumer,36.0,₹761,0.8,27187.55,Yes
+ORD3001,16-10-2024,South,Apparel,Corporate,34.0,"₹1,426",5.7,45707.91,Yes
+ORD3171,2024/03/27,SOUTH,Electronics,Consumer,15.0,₹874,20.2,10459.15,Yes
+ORD3263,15-11-2024,north,Grocery,Consumer,10.0,"₹1,242",25.2,9293.9,No
+ORD3013,2024/04/10,WEST,Home & Kitchen,Small Business,16.0,₹601,10.2,8629.28,No
+ORD3370,05-05-2024,West,Electronics,Corporate,12.0,₹917,24.2,8339.3,No
+ORD3009,01-03-2024,North,Grocery,Consumer,28.0,₹777,21.4,17110.56,No
+ORD3146,01-12-2024,East,Grocery,Consumer,10.0,₹410,21.5,3216.07,No
+ORD3261,17 Nov 2024,NORTH,Home & Kitchen,Corporate,21.0,"₹1,136",22.2,18552.29,No
+ORD3267,15 Dec 2024,north,Apparel,Consumer,21.0,₹981,0.0,20608.56,No
+ORD3375,08 Dec 2024,West,Apparel,Small Business,32.0,₹465,16.4,12443.43,Yes
+ORD3095,28-08-2024,East,Beauty,Corporate,38.0,₹683,10.1,23335.38,Yes
+ORD3034,20-06-2024,north,Beauty,Consumer,37.0,"₹1,632",16.4,50479.79,Yes
+ORD3096,31 Aug 2024,West ,Home & Kitchen,Consumer,1.0,"₹1,445",3.1,1400.49,No
+ORD3392,17 Apr 2024,West,Apparel,Consumer,27.0,₹756,6.1,19178.28,Yes
+ORD3280,05 Nov 2024,South,Grocery,Corporate,32.0,"₹1,533",5.4,46406.07,No
+ORD3253,20-05-2024,North,Grocery,Small Business,16.0,₹702,16.2,9413.35,No
+ORD3322,08 Aug 2024,East,Home & Kitchen,Corporate,23.0,₹859,15.2,16759.98,Yes
+ORD3394,30-01-2024,West,Grocery,Corporate,1.0,₹840,21.8,657.08,No
+ORD3116,20-10-2024,north,Electronics,Corporate,,"₹2,302",1.1,13661.43,No
+ORD3168,20-04-2024,West,Home & Kitchen,Small Business,5.0,"₹1,635",13.4,7078.64,No
+ORD3045,12 Mar 2024,West ,Beauty,Small Business,33.0,"₹1,886",4.2,59638.23,No
+ORD3161,03 Sep 2024,West ,Electronics,Consumer,2.0,₹904,16.7,1505.85,No
+ORD3223,2024/07/19,EAST,Apparel,Corporate,15.0,₹293,9.9,3962.6,Yes
+ORD3310,05-03-2024,north,Apparel,Consumer,20.0,₹702,15.4,11882.58,Yes
+ORD3117,2024/10/14,East,Grocery,Consumer,11.0,₹763,18.9,6810.74,No
+ORD3077,18-05-2024,east,Grocery,Corporate,5.0,₹940,11.7,4148.11,No
+ORD3352,05-10-2024,North ,Grocery,Consumer,30.0,₹723,8.2,19910.59,No
+ORD3063,2024/12/03,south,Grocery,Corporate,26.0,₹848,99.9,19061.85,No
+ORD3230,04 Dec 2024,east,Electronics,Consumer,10.0,"₹1,117",16.7,9306.28,Yes
+ORD3186,31-01-2024,East,Beauty,Small Business,15.0,"₹1,512",11.9,19983.72,Yes
+ORD3270,21-09-2024,North,Apparel,Consumer,32.0,₹661,17.4,17472.87,Yes
+ORD3199,28-09-2024,west,Apparel,Corporate,37.0,"₹1,381",0.9,50643.73,Yes
+ORD3274,29-08-2024,North ,Electronics,Small Business,30.0,₹496,28.4,10656.01,Yes
+ORD3121,2024/02/20,SOUTH,Beauty,Consumer,9.0,"₹1,020",15.0,7806.52,Yes
+ORD3376,19-10-2024,East,Home & Kitchen,Small Business,34.0,₹629,14.6,18257.84,Yes
+ORD3360,2024/05/21,EAST,Apparel,Consumer,240.0,₹830,20.8,13803.4,Yes
+ORD3158,29 Jun 2024,west,Electronics,Corporate,13.0,"₹1,006",16.6,10902.28,No
+ORD3085,2024/07/15,North ,Apparel,Consumer,16.0,₹462,20.5,5875.88,Yes
+ORD3225,09 Jan 2024,East ,Grocery,Consumer,37.0,₹979,0.0,36228.55,No
+ORD3262,01-08-2024,West ,Apparel,Consumer,14.0,"₹1,038",0.6,14442.72,No
+ORD3379,2024/01/10,south,Electronics,Corporate,26.0,₹553,3.3,13896.99,No
+ORD3076,03 Aug 2024,EAST,Home & Kitchen,Corporate,31.0,₹880,23.3,20912.82,Yes
+ORD3318,24-09-2024,South,Electronics,Consumer,39.0,₹816,12.8,27764.13,Yes
+ORD3302,2024/01/07,South,Beauty,Corporate,21.0,₹422,13.1,7692.14,No
+ORD3087,2024/05/02,West,Grocery,Corporate,25.0,₹537,3.1,13010.52,No
+ORD3146,01-12-2024,East,Grocery,Consumer,10.0,₹410,21.5,3216.07,No
+ORD3182,2024/02/19,SOUTH,Apparel,Consumer,29.0,₹997,20.5,22986.99,Yes
+ORD3105,2024/09/10,North,Home & Kitchen,Consumer,16.0,"₹1,091",8.7,15937.04,No
+ORD3049,2024/07/12,West ,Home & Kitchen,Corporate,26.0,₹389,8.5,9243.13,No
+ORD3005,24-02-2024,West,Home & Kitchen,Consumer,1.0,"₹1,094",17.9,898.43,No
+ORD3017,2024/03/17,NORTH,Electronics,Consumer,24.0,₹681,8.7,14912.87,No
+ORD3234,19-05-2024,North ,Grocery,Consumer,31.0,"₹1,116",5.4,32715.79,No
+ORD3324,2024/04/18,East,Electronics,Corporate,29.0,"₹1,490",13.2,37505.78,No
+ORD3106,11 Oct 2024,west,Electronics,Small Business,38.0,₹229,21.4,6834.4,Yes
+ORD3134,06-01-2024,West,Beauty,Small Business,38.0,N/A,13.2,38743.01,Yes
+ORD3327,15-12-2024,east,Beauty,Small Business,6.0,₹561,21.2,2650.8,No
+ORD3226,2024/01/10,North,Apparel,Consumer,9.0,"₹1,380",3.2,12024.56,No
+ORD3214,2024/12/13,WEST,Electronics,Corporate,38.0,₹623,20.7,18761.43,Yes
+ORD3190,10-11-2024,West,Beauty,Consumer,6.0,₹50,5.5,283.5,No
+ORD3358,2024/01/15,north,Apparel,Consumer,14.0,₹50,0.0,700.0,Yes
+ORD3282,06-05-2024,SOUTH,Grocery,Small Business,12.0,₹50,12.6,524.4,No
+ORD3029,13-01-2024,WEST,Apparel,Small Business,37.0,₹815,21.0,23825.08,Yes
+ORD3169,2024/11/12,north,Home & Kitchen,Small Business,,₹612,12.1,10767.57,No
+ORD3180,2024/06/23,North,Beauty,Small Business,23.0,₹974,19.0,18154.56,Yes
+ORD3100,08-11-2024,NORTH,Beauty,Corporate,8.0,₹199,9.3,1443.65,No
+ORD3197,2024/04/30,East,Beauty,Small Business,240.0,"₹1,069",0.2,38412.06,No
+ORD3209,2024/02/19,South,Home & Kitchen,Small Business,22.0,"₹1,010",18.4,18130.44,No
+ORD3135,07-02-2024,EAST,Home & Kitchen,Consumer,20.0,"₹1,000",24.7,15063.01,Yes
+ORD3381,01-07-2024,South ,Apparel,Consumer,19.0,"₹1,971",23.0,28841.14,Yes
+ORD3347,28-05-2024,SOUTH,Apparel,Corporate,7.0,₹878,0.0,6147.61,No
+ORD3198,21-07-2024,west,Apparel,Consumer,36.0,"₹1,133",7.1,37880.01,Yes
+ORD3166,25 Feb 2024,WEST,Home & Kitchen,Consumer,28.0,₹737,8.9,18790.47,No
+ORD3371,2024/06/28,South ,Apparel,Consumer,22.0,"₹1,015",23.0,17200.71,Yes
+ORD3136,24-10-2024,North ,Apparel,Small Business,2.0,"₹1,003",3.5,1936.47,No
+ORD3285,24-08-2024,East,Apparel,Corporate,4.0,"₹1,127",17.3,3726.59,Yes
+ORD3131,2024/03/11,North ,Beauty,Small Business,36.0,₹268,23.1,7422.63,Yes
+ORD3039,18 Sep 2024,West,Home & Kitchen,Consumer,8.0,₹674,23.9,4100.69,Yes
+ORD3215,12-04-2024,west,Home & Kitchen,Corporate,,₹873,7.8,30575.57,No
+ORD3043,10-01-2024,east,Electronics,Corporate,11.0,"₹2,147",11.0,21019.23,No
+ORD3054,16-04-2024,South ,Home & Kitchen,Consumer,2.0,₹802,0.0,1603.38,No
+ORD3384,15-09-2024,south,Apparel,Consumer,29.0,"₹1,418",0.9,40753.05,Yes
+ORD3299,06-08-2024,south,Beauty,Consumer,4.0,₹414,11.5,1464.6,No
+ORD3368,2024/08/08,South,Apparel,Consumer,29.0,₹346,6.9,9341.11,Yes
+ORD3304,06-09-2024,North ,Apparel,Consumer,5.0,₹959,33.3,3198.97,Yes
+ORD3035,17-02-2024,east,Beauty,Small Business,5.0,"₹1,315",0.0,6576.0,No
+ORD3315,2024/02/24,East ,Beauty,Consumer,7.0,₹896,8.4,5748.04,No
+ORD3309,18-10-2024,NORTH,Home & Kitchen,Consumer,30.0,₹359,1.4,10608.28,No
+ORD3276,19-07-2024,EAST,Grocery,Consumer,36.0,₹654,23.4,18031.67,Yes
+ORD3124,2024/03/15,South,Grocery,Corporate,17.0,₹665,4.2,10824.33,No
+ORD3142,28 Sep 2024,North ,Electronics,Consumer,20.0,₹540,28.6,7715.2,Yes
+ORD3110,16-10-2024,North ,Electronics,Small Business,22.0,₹518,23.5,8716.59,Yes
+ORD3323,08 Mar 2024,NORTH,Grocery,Consumer,26.0,₹697,0.0,18133.7,No
+ORD3354,2024/03/01,South,Electronics,Corporate,15.0,₹234,18.1,2873.46,Yes
+ORD3107,08-11-2024,North ,Electronics,Consumer,37.0,₹907,2.4,32766.22,No
+ORD3012,03-06-2024,West,Apparel,Consumer,4.0,₹982,7.9,3617.47,Yes
+ORD3272,2024/01/06,East ,Grocery,Corporate,1.0,"₹1,107",0.0,1106.95,No
+ORD3047,21-01-2024,NORTH,Beauty,Corporate,6.0,"₹1,568",4.2,9012.98,No
+ORD3203,04-08-2024,East,Home & Kitchen,Consumer,33.0,₹798,8.2,24166.74,Yes
+ORD3346,02-11-2024,EAST,Electronics,Corporate,29.0,"₹1,380",18.7,32537.2,Yes
+ORD3119,29-10-2024,NORTH,Home & Kitchen,Consumer,17.0,₹609,15.1,8785.66,No
+ORD3021,23-06-2024,west,Grocery,Consumer,29.0,₹760,4.8,20983.18,No
+ORD3083,10 Apr 2024,North ,Beauty,Corporate,11.0,"₹1,203",7.7,12215.28,No
+ORD3130,2024/03/20,East,Grocery,Corporate,37.0,₹753,15.7,23489.01,No
+ORD3329,2024/04/02,west,Home & Kitchen,Corporate,1.0,N/A,21.2,1037.06,No
+ORD3229,27-11-2024,South ,Grocery,Consumer,,₹814,12.9,3544.49,No
+ORD3397,01 Oct 2024,North,Grocery,Corporate,31.0,₹140,11.5,3849.13,No
+ORD3286,12-04-2024,North,Electronics,Small Business,7.0,₹893,24.6,4712.88,Yes
+ORD3123,27-03-2024,WEST,Home & Kitchen,Consumer,35.0,₹444,4.5,14846.38,No
+ORD3033,19 Sep 2024,South ,Beauty,Consumer,32.0,₹336,13.4,9311.23,Yes
+ORD3382,12 Oct 2024,East,Beauty,Small Business,7.0,"₹1,005",25.0,5275.41,Yes
+ORD3004,20-03-2024,West ,Grocery,Consumer,14.0,₹803,2.9,10921.28,No
+ORD3019,05-05-2024,South,Home & Kitchen,Corporate,29.0,₹50,2.7,1410.85,No
+ORD3219,18-03-2024,west,Grocery,Consumer,14.0,₹499,0.7,6943.35,No
+ORD3334,2024/10/15,West,Apparel,Corporate,,₹817,18.0,12729.64,Yes
+ORD3149,2024/07/25,South,Electronics,Corporate,13.0,₹956,22.1,9678.27,Yes
+ORD3224,2024/10/13,EAST,Home & Kitchen,Corporate,25.0,"₹1,050",10.7,23452.19,No
+ORD3247,16 Oct 2024,WEST,Home & Kitchen,Corporate,29.0,"₹1,127",6.1,30676.54,No
+ORD3359,2024/10/09,South,Beauty,Small Business,20.0,"₹1,587",4.2,30411.52,No
+ORD3151,29-01-2024,West,Electronics,Small Business,21.0,"₹1,487",10.2,28037.7,No
+ORD3317,19-02-2024,north,Grocery,Consumer,24.0,"₹1,273",0.0,30560.16,No
+ORD3291,10 Sep 2024,north,Electronics,Consumer,33.0,₹890,15.9,24704.89,Yes
+ORD3233,2024/10/27,north,Home & Kitchen,Consumer,22.0,"₹1,089",20.9,18946.78,Yes
+ORD3010,25 Mar 2024,North,Electronics,Consumer,10.0,₹924,8.1,8495.88,No
+ORD3279,26-07-2024,North,Grocery,Corporate,9.0,"₹1,033",17.0,7717.33,No
+ORD3071,12-05-2024,North,Home & Kitchen,Consumer,18.0,"₹1,236",0.0,22243.32,No
+ORD3252,22-01-2024,West,Home & Kitchen,Small Business,18.0,₹413,11.3,6587.73,No
+ORD3092,27-05-2024,East,Grocery,Corporate,33.0,₹865,14.1,24528.38,No
+ORD3349,27-05-2024,east,Grocery,Consumer,2.0,"₹1,231",150.0,2440.06,No
+ORD3192,20-10-2024,East ,Electronics,Consumer,38.0,"₹1,381",7.4,48577.39,Yes
+ORD3257,21-08-2024,north,Home & Kitchen,Consumer,39.0,"₹1,696",0.4,65889.13,No
+ORD3339,05 Aug 2024,south,Beauty,Corporate,36.0,₹57,19.3,1642.02,Yes
+ORD3395,14-09-2024,South ,Electronics,Consumer,8.0,₹50,2.4,390.4,No
+ORD3195,08-11-2024,EAST,Home & Kitchen,Small Business,31.0,₹50,24.2,1174.9,Yes
+ORD3343,2024/06/21,WEST,Beauty,Corporate,32.0,₹50,120.0,1369.6,Yes
+ORD3137,08 Apr 2024,EAST,Grocery,Consumer,6.0,₹177,11.9,934.83,No
+ORD3260,28-12-2024,east,Home & Kitchen,Consumer,37.0,"₹1,279",8.7,43199.82,No
+ORD3038,02-02-2024,South ,Home & Kitchen,Small Business,34.0,"₹1,236",10.3,37710.47,Yes
+ORD3201,2024/07/23,East,Apparel,Consumer,12.0,₹817,17.0,8139.01,Yes
+ORD3378,13 Feb 2024,South ,Apparel,Corporate,14.0,₹834,15.4,9873.16,Yes
+ORD3290,2024/07/28,East,Apparel,Corporate,15.0,"₹1,572",18.1,19314.48,Yes
+ORD3189,29-04-2024,SOUTH,Apparel,Consumer,8.0,₹990,16.1,6647.77,Yes
+ORD3251,2024/11/23,South,Home & Kitchen,Consumer,36.0,₹802,18.1,23647.64,Yes
+ORD3112,08-07-2024,North,Apparel,Consumer,7.0,₹992,16.5,5798.65,Yes
+ORD3183,2024/03/25,south,Home & Kitchen,Consumer,31.0,N/A,10.4,30225.84,No
+ORD3152,13-12-2024,West,Apparel,Consumer,1.0,₹469,12.1,412.44,No
+ORD3312,2024/04/09,west,Grocery,Corporate,27.0,"₹1,027",14.7,23655.14,No
+ORD3325,17-11-2024,West ,Apparel,Small Business,28.0,₹638,2.2,17458.94,No
+ORD3191,25-10-2024,east,Grocery,Consumer,4.0,₹613,18.1,2008.29,No
+ORD3044,14-05-2024,south,Electronics,Corporate,6.0,₹717,4.4,4115.29,No
+ORD3275,21-07-2024,NORTH,Beauty,Corporate,23.0,₹723,3.3,16081.8,No
+ORD3006,19-06-2024,East,Home & Kitchen,Consumer,36.0,₹471,18.5,13828.82,No
+ORD3250,24-09-2024,west,Electronics,Consumer,38.0,₹249,16.7,7876.78,No
+ORD3311,2024/12/22,West ,Home & Kitchen,Consumer,8.0,"₹1,363",14.0,9375.03,No
+ORD3075,2024/07/12,North,Home & Kitchen,Corporate,31.0,"₹1,518",15.8,39616.05,Yes
+ORD3000,08-02-2024,WEST,Electronics,Corporate,11.0,₹597,14.1,5640.2,No
+ORD3383,25-02-2024,WEST,Beauty,Corporate,23.0,"₹1,517",17.7,28713.78,Yes
+ORD3068,2024/02/10,West ,Apparel,Consumer,14.0,₹974,16.2,11424.04,Yes
+ORD3167,18 Oct 2024,north,Beauty,Corporate,23.0,"₹1,069",6.1,23092.38,No
+ORD3218,20-12-2024,North,Home & Kitchen,Consumer,,₹50,16.6,667.2,No
+ORD3042,10-09-2024,East,Grocery,Corporate,8.0,₹932,9.7,6734.79,No
+ORD3366,18 Jan 2024,East,Home & Kitchen,Consumer,5.0,"₹1,217",9.5,5505.12,No
+ORD3345,02 Feb 2024,North ,Grocery,Consumer,28.0,₹659,13.6,15945.43,No
+ORD3072,2024/02/10,WEST,Home & Kitchen,Consumer,2.0,₹618,13.1,1074.33,No
+ORD3023,02-06-2024,South,Beauty,Consumer,4.0,"₹1,715",20.3,5466.14,Yes
+ORD3185,12-08-2024,North,Beauty,Consumer,35.0,₹585,7.5,18926.75,Yes
+ORD3348,20-06-2024,East ,Apparel,Consumer,28.0,"₹1,798",10.9,44857.75,Yes
+ORD3103,26-05-2024,South ,Apparel,Small Business,2.0,₹846,0.0,1691.88,Yes
+ORD3211,2024/05/29,EAST,Apparel,Small Business,6.0,₹50,28.3,215.1,Yes
+ORD3067,11-05-2024,WEST,Electronics,Corporate,19.0,₹383,9.7,6568.9,No
+ORD3025,2024/02/16,West,Home & Kitchen,Consumer,7.0,₹988,6.4,6475.87,No
+ORD3196,2024/03/05,East,Home & Kitchen,Corporate,18.0,₹704,2.8,12314.91,No
+ORD3175,27-02-2024,NORTH,Beauty,Small Business,6.0,₹500,9.1,2729.35,No
