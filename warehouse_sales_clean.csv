@@ -1,0 +1,991 @@
+PO_ID,Supplier_Name,Supplier_Region,Product_Category,Order_Date,Quantity_Ordered,Unit_Cost_USD,Lead_Time_Days,Defect_Rate_Pct,On_Time_Delivery
+PO1151,Globalsupply Co,South,Packaging,2025-07-09,1808,3910,12.0,4.23,Yes
+PO1409,Tamilcast,South,Consumables,2025-01-05,1619,1339,3.0,7.83,Yes
+PO1572,Bharatparts,East,Components,2024-02-17,1273,2166,11.0,4.61,No
+PO1621,Globalsupply Co,West,Packaging,2024-12-25,543,1304,15.0,3.59,No
+PO1182,Zenith Traders,West,Packaging,2023-08-20,1791,763,3.0,6.99,Yes
+PO1595,Zenith Traders,West,Components,2024-04-21,1059,3213,24.0,1.96,No
+PO1364,Novapack,North,Raw Material,2025-11-16,557,1931,14.0,0.68,Yes
+PO1743,Meridian Exports,West,Components,2024-12-08,449,1658,5.0,1.85,Yes
+PO1777,Ashoka Metals,North,Raw Material,2025-11-14,1808,3422,21.0,4.85,Yes
+PO1108,Bharatparts,West,Packaging,2024-05-13,342,264,13.0,4.8,No
+PO1719,Ashoka Metals,South,Components,2025-06-03,650,2988,14.0,6.01,Yes
+PO1561,Zenith Traders,North,Consumables,2024-02-01,76,538,11.0,6.95,Yes
+PO1567,Globalsupply Co,North,Raw Material,2023-05-20,455,2651,7.0,7.94,Yes
+PO1488,Tamilcast,East,Raw Material,2023-09-02,1472,2550,19.0,0.72,No
+PO1844,Ashoka Metals,West,Raw Material,2024-04-14,277,2595,19.0,3.53,Yes
+PO1106,Meridian Exports,North,Components,2023-12-16,212,1119,6.0,1.23,Yes
+PO1477,Tamilcast,East,Raw Material,2024-10-27,528,162,25.0,5.65,No
+PO1261,Ashoka Metals,West,Raw Material,2024-08-03,1134,2887,14.0,4.29,Yes
+PO1023,Meridian Exports,East,Consumables,2024-09-19,73,3713,7.0,2.7,Yes
+PO1462,Sunfield Industries,North,Components,2024-01-10,640,744,16.0,6.84,Yes
+PO1118,Zenith Traders,South,Packaging,2024-01-04,152,3847,20.0,4.26,No
+PO1511,Sunfield Industries,West,Packaging,2023-04-17,173,3156,6.0,6.22,No
+PO1433,Novapack,West,Components,2024-08-06,1470,2061,17.0,5.94,Yes
+PO1543,Tamilcast,East,Consumables,2025-10-02,414,2845,21.0,6.37,Yes
+PO1728,Bharatparts,North,Packaging,2023-12-13,1365,2818,7.0,6.14,Yes
+PO1341,Globalsupply Co,North,Components,2025-03-27,476,640,23.0,4.82,No
+PO1258,Sunfield Industries,South,Consumables,2023-03-14,1045,963,10.0,0.81,Yes
+PO1072,Bharatparts,South,Packaging,2024-07-16,874,2772,2.0,6.22,Yes
+PO1906,Zenith Traders,South,Raw Material,2024-01-14,1810,737,9.0,1.41,Yes
+PO1191,Zenith Traders,North,Components,2024-06-25,1269,434,2.0,5.94,Yes
+PO1170,Tamilcast,East,Consumables,2025-04-15,1041,3776,20.0,4.63,Yes
+PO1388,Zenith Traders,East,Packaging,2024-01-27,510,716,21.0,4.86,No
+PO1445,Bharatparts,West,Consumables,2024-05-03,1718,3348,23.0,3.77,No
+PO1197,Globalsupply Co,East,Components,2024-09-23,876,1484,24.0,0.49,Yes
+PO1835,Globalsupply Co,East,Raw Material,2024-04-25,652,2048,16.0,1.51,Yes
+PO1439,Globalsupply Co,South,Consumables,2024-05-10,1089,1913,4.0,7.79,No
+PO1044,Meridian Exports,East,Raw Material,2023-06-26,1366,729,9.0,2.5,No
+PO1693,Ashoka Metals,South,Packaging,2023-06-17,95,659,17.0,2.67,No
+PO1362,Ashoka Metals,West,Consumables,2025-05-17,1029,3449,9.0,2.85,Yes
+PO1018,Tamilcast,East,Components,2023-12-19,666,2341,10.0,1.16,Yes
+PO1300,Globalsupply Co,South,Consumables,2023-12-10,1145,301,13.0,2.1,No
+PO1012,Meridian Exports,South,Consumables,2025-05-18,1861,1545,13.0,7.82,No
+PO1662,Ashoka Metals,South,Consumables,2024-03-08,772,3942,5.0,5.82,Yes
+PO1515,Tamilcast,West,Raw Material,2023-10-19,1718,1307,21.0,4.94,Yes
+PO1056,Zenith Traders,North,Consumables,2025-07-13,512,2139,20.0,7.41,No
+PO1057,Ashoka Metals,East,Raw Material,2024-01-17,668,3050,26.0,1.74,No
+PO1821,Novapack,North,Components,2024-08-22,1604,3523,19.0,4.35,Yes
+PO1756,Novapack,South,Raw Material,2025-11-06,802,2931,3.0,4.16,Yes
+PO1161,Bharatparts,West,Components,2023-10-25,957,199,5.0,6.21,No
+PO1891,Ashoka Metals,East,Components,2024-04-10,469,667,13.0,5.74,Yes
+PO1628,Sunfield Industries,East,Components,2025-04-09,1893,469,23.0,0.46,No
+PO1640,Zenith Traders,West,Packaging,2025-02-12,1530,3552,23.0,7.97,Yes
+PO1208,Tamilcast,East,Packaging,2025-12-03,646,2802,15.0,6.38,No
+PO1135,Globalsupply Co,South,Packaging,2025-01-27,1742,1766,60.0,4.09,No
+PO1516,Tamilcast,West,Consumables,2024-06-27,536,3362,20.0,6.64,No
+PO1955,Zenith Traders,South,Raw Material,2024-06-14,1500,1229,13.0,4.03,No
+PO1876,Bharatparts,East,Packaging,2023-06-17,1950,3171,25.0,3.48,Yes
+PO1641,Globalsupply Co,North,Raw Material,2023-03-11,1459,3361,10.0,5.74,Yes
+PO1869,Globalsupply Co,East,Raw Material,2025-07-07,477,3631,13.0,6.27,Yes
+PO1607,Zenith Traders,East,Consumables,2025-05-10,697,1258,9.0,0.81,Yes
+PO1183,Sunfield Industries,East,Consumables,2025-03-11,591,828,3.0,4.03,Yes
+PO1526,Zenith Traders,East,Components,2025-05-22,353,1381,25.0,4.17,No
+PO1948,Novapack,East,Raw Material,2025-08-15,1597,1520,2.0,2.0,Yes
+PO1893,Meridian Exports,South,Consumables,2025-12-04,244,722,11.0,2.42,No
+PO1901,Sunfield Industries,West,Raw Material,2024-09-27,586,217,6.0,3.0,Yes
+PO1914,Tamilcast,South,Consumables,2024-09-22,921,2058,13.0,0.11,Yes
+PO1644,Zenith Traders,West,Packaging,2025-11-24,107,560,18.0,5.64,Yes
+PO1513,Zenith Traders,South,Consumables,2024-08-09,1943,2840,21.0,7.33,No
+PO1859,Zenith Traders,East,Consumables,2024-08-17,1286,770,16.0,3.37,Yes
+PO1016,Ashoka Metals,West,Packaging,2025-12-25,171,3625,25.0,2.04,No
+PO1188,Zenith Traders,North,Raw Material,2025-01-04,1480,1846,12.0,4.59,No
+PO1202,Globalsupply Co,West,Consumables,2023-01-08,74,2820,13.0,4.87,No
+PO1613,Tamilcast,South,Raw Material,2023-07-09,217,1745,23.0,4.03,No
+PO1080,Globalsupply Co,North,Raw Material,2023-05-24,658,2738,11.0,5.7,Yes
+PO1157,Bharatparts,West,Raw Material,2023-07-16,1831,1298,17.0,5.31,No
+PO1478,Zenith Traders,East,Consumables,2024-01-11,1059,481,23.0,6.97,Yes
+PO1837,Tamilcast,North,Consumables,2024-03-15,67,1014,8.0,6.98,Yes
+PO1975,Zenith Traders,East,Components,2023-01-07,648,166,8.0,1.09,Yes
+PO1473,Zenith Traders,North,Raw Material,2023-05-11,59,755,17.0,5.85,Yes
+PO1386,Zenith Traders,North,Raw Material,2023-08-02,1010,3880,13.0,6.18,Yes
+PO1825,Ashoka Metals,North,Consumables,2023-08-18,498,3799,22.0,0.08,No
+PO1688,Ashoka Metals,North,Raw Material,2024-12-04,813,1042,12.0,1.42,Yes
+PO1650,Globalsupply Co,East,Raw Material,2024-04-11,1241,1315,17.0,2.01,No
+PO1753,Novapack,South,Raw Material,2023-07-27,1471,1737,19.0,4.32,No
+PO1034,Ashoka Metals,South,Raw Material,2024-07-23,704,1690,20.0,3.82,No
+PO1005,Tamilcast,East,Packaging,2025-11-25,302,2859,25.0,0.49,No
+PO1980,Ashoka Metals,North,Packaging,2025-08-27,48,1885,25.0,3.78,Yes
+PO1957,Globalsupply Co,South,Packaging,2024-06-13,1840,530,10.0,1.13,Yes
+PO1163,Novapack,West,Packaging,2025-09-19,694,2273,25.0,5.39,Yes
+PO1800,Meridian Exports,West,Components,2024-07-03,1349,3249,17.0,4.03,Yes
+PO1292,Ashoka Metals,North,Raw Material,2024-08-02,1373,3038,3.0,3.01,Yes
+PO1264,Sunfield Industries,East,Raw Material,2025-06-23,687,3030,20.0,6.14,No
+PO1430,Tamilcast,North,Components,2024-01-05,1929,660,18.0,6.44,No
+PO1696,Sunfield Industries,North,Components,2023-10-17,375,408,7.0,6.88,Yes
+PO1141,Sunfield Industries,West,Components,2024-03-16,686,2469,24.0,6.77,No
+PO1602,Globalsupply Co,North,Raw Material,2024-02-13,576,3228,24.0,5.83,Yes
+PO1110,Tamilcast,West,Components,2024-11-01,1589,2637,5.0,4.61,Yes
+PO1726,Sunfield Industries,South,Consumables,2025-12-10,294,153,15.0,5.42,Yes
+PO1929,Sunfield Industries,South,Packaging,2024-04-12,860,2675,14.0,7.26,Yes
+PO1897,Ashoka Metals,West,Raw Material,2024-03-03,1977,3045,13.0,2.05,Yes
+PO1683,Zenith Traders,West,Consumables,2024-03-27,265,3203,15.0,6.51,No
+PO1860,Bharatparts,North,Consumables,2023-01-24,1193,1023,8.0,2.16,Yes
+PO1931,Novapack,East,Raw Material,2023-12-24,1969,2331,13.0,1.84,No
+PO1361,Novapack,East,Components,2024-06-01,908,1283,2.0,7.0,Yes
+PO1927,Novapack,North,Consumables,2023-05-04,1637,412,7.0,1.38,Yes
+PO1563,Ashoka Metals,West,Raw Material,2025-07-11,1042,3845,5.0,7.07,Yes
+PO1833,Meridian Exports,South,Packaging,2023-04-26,1250,1481,8.0,6.06,No
+PO1675,Sunfield Industries,East,Consumables,2024-04-13,1264,1770,18.0,2.49,Yes
+PO1534,Sunfield Industries,North,Consumables,2023-12-15,1974,1129,9.0,6.61,Yes
+PO1406,Sunfield Industries,South,Consumables,2023-07-21,1793,1092,4.0,5.47,Yes
+PO1522,Globalsupply Co,South,Components,2023-11-14,1139,3931,9.0,4.31,Yes
+PO1156,Bharatparts,North,Components,2024-05-08,1355,3516,25.0,0.5,Yes
+PO1616,Ashoka Metals,North,Consumables,2024-09-07,785,1487,19.0,2.5,No
+PO1149,Ashoka Metals,North,Raw Material,2023-09-27,892,2715,6.0,7.46,Yes
+PO1530,Bharatparts,East,Components,2024-09-06,909,2754,22.0,0.18,No
+PO1935,Zenith Traders,North,Consumables,2025-01-11,950,1054,21.0,2.88,No
+PO1013,Zenith Traders,West,Consumables,2023-01-01,258,2822,5.0,2.67,Yes
+PO1422,Zenith Traders,South,Packaging,2023-03-25,610,1913,6.0,5.09,Yes
+PO1887,Zenith Traders,West,Components,2024-03-26,1307,2102,19.0,4.07,No
+PO1041,Sunfield Industries,South,Components,2023-01-18,1405,550,15.0,5.36,Yes
+PO1198,Sunfield Industries,East,Packaging,2024-07-03,1923,1286,14.0,2.23,No
+PO1099,Novapack,South,Components,2024-10-01,1569,2410,19.0,4.77,No
+PO1463,Tamilcast,North,Packaging,2025-01-14,1671,2205,10.0,2.13,Yes
+PO1518,Sunfield Industries,East,Packaging,2023-11-06,444,615,18.0,2.48,Yes
+PO1712,Bharatparts,East,Components,2024-11-17,1290,56,20.0,3.36,No
+PO1003,Novapack,East,Packaging,2025-04-08,973,2746,14.0,6.96,No
+PO1060,Ashoka Metals,East,Consumables,2023-12-28,1177,2642,14.0,3.71,Yes
+PO1169,Ashoka Metals,North,Raw Material,2023-12-05,577,2457,6.0,7.36,Yes
+PO1133,Ashoka Metals,South,Components,2023-06-01,173,3054,11.0,7.92,No
+PO1972,Bharatparts,East,Consumables,2025-12-24,234,1057,7.0,4.03,Yes
+PO1571,Bharatparts,South,Consumables,2024-04-12,1838,118,21.0,7.0,No
+PO1533,Globalsupply Co,North,Consumables,2025-12-13,364,3151,22.0,4.03,No
+PO1391,Sunfield Industries,South,Raw Material,2024-03-08,327,2932,10.0,3.67,No
+PO1094,Tamilcast,North,Packaging,2024-09-17,226,3551,23.0,7.95,No
+PO1603,Tamilcast,East,Raw Material,2023-12-28,1000,2067,23.0,6.31,Yes
+PO1249,Bharatparts,North,Consumables,2024-03-20,1880,1818,22.0,5.33,Yes
+PO1781,Sunfield Industries,North,Consumables,2023-12-22,1952,1332,23.0,3.63,No
+PO1829,Zenith Traders,East,Packaging,2023-06-08,1039,2291,8.0,4.77,Yes
+PO1001,Zenith Traders,West,Components,2024-08-18,772,162,10.0,0.32,Yes
+PO1936,Meridian Exports,South,Packaging,2023-03-21,896,2999,7.0,4.94,Yes
+PO1497,Globalsupply Co,South,Packaging,2024-06-03,1653,2604,60.0,1.32,No
+PO1531,Bharatparts,North,Raw Material,2023-01-08,381,2796,8.0,0.13,Yes
+PO1892,Globalsupply Co,South,Components,2025-08-01,1021,538,23.0,5.55,No
+PO1309,Novapack,North,Components,2024-12-13,80,2976,21.0,1.78,No
+PO1509,Ashoka Metals,West,Components,2024-02-24,1469,2895,5.0,6.21,Yes
+PO1240,Tamilcast,West,Components,2025-05-23,567,2817,19.0,6.62,No
+PO1881,Meridian Exports,East,Components,2023-07-02,323,745,7.0,7.13,No
+PO1180,Meridian Exports,West,Packaging,2024-06-14,1155,2139,9.0,3.51,Yes
+PO1853,Novapack,North,Consumables,2024-06-24,897,255,9.0,6.86,Yes
+PO1834,Tamilcast,East,Components,2025-08-08,1181,900,14.0,0.91,No
+PO1525,Zenith Traders,South,Packaging,2025-02-07,215,230,3.0,1.77,Yes
+PO1795,Novapack,East,Raw Material,2023-12-03,1491,126,20.0,1.32,Yes
+PO1545,Bharatparts,North,Raw Material,2024-12-24,547,716,11.0,5.1,No
+PO1540,Zenith Traders,North,Packaging,2025-01-19,631,3395,14.0,0.76,Yes
+PO1691,Globalsupply Co,North,Raw Material,2024-04-20,877,2080,15.0,0.38,No
+PO1865,Bharatparts,South,Consumables,2024-06-10,886,2569,11.0,0.91,Yes
+PO1179,Meridian Exports,East,Packaging,2024-10-14,359,2777,5.0,4.83,Yes
+PO1500,Novapack,West,Raw Material,2023-12-09,319,3253,3.0,4.7,No
+PO1137,Zenith Traders,North,Packaging,2023-11-15,248,976,22.0,5.14,Yes
+PO1819,Meridian Exports,North,Raw Material,2024-09-03,791,497,15.0,5.6,No
+PO1487,Zenith Traders,West,Components,2024-04-25,738,1857,15.0,7.95,Yes
+PO1983,Novapack,East,Components,2023-03-05,1525,1788,20.0,4.03,No
+PO1436,Sunfield Industries,West,Raw Material,2025-12-10,398,889,3.0,6.84,Yes
+PO1380,Zenith Traders,West,Consumables,2023-06-19,150,944,19.0,6.8,Yes
+PO1431,Novapack,South,Components,2024-11-01,639,262,25.0,4.15,No
+PO1591,Bharatparts,South,Components,2024-02-18,318,545,22.0,0.79,No
+PO1718,Ashoka Metals,South,Consumables,2025-01-05,537,355,8.0,4.99,Yes
+PO1200,Novapack,West,Consumables,2025-09-24,437,2020,15.0,0.73,No
+PO1471,Globalsupply Co,North,Consumables,2024-03-05,1393,41,14.0,0.22,Yes
+PO1499,Bharatparts,North,Consumables,2023-01-03,1115,3684,21.0,4.11,No
+PO1934,Globalsupply Co,South,Components,2024-04-27,749,2331,16.0,1.4,Yes
+PO1856,Meridian Exports,South,Consumables,2025-04-23,734,1031,11.0,4.35,Yes
+PO1868,Meridian Exports,East,Consumables,2025-04-02,1637,868,9.0,4.63,Yes
+PO1830,Ashoka Metals,North,Consumables,2024-05-28,1345,3578,22.0,1.09,No
+PO1289,Tamilcast,North,Raw Material,2025-10-26,988,138,7.0,5.34,Yes
+PO1822,Tamilcast,West,Packaging,2023-09-11,1820,1414,12.0,1.43,No
+PO1413,Tamilcast,East,Components,2024-03-02,137,2068,21.0,5.72,No
+PO1349,Ashoka Metals,North,Components,2024-02-09,395,3449,21.0,3.01,No
+PO1850,Novapack,West,Packaging,2024-03-18,1591,890,13.0,4.03,Yes
+PO1288,Globalsupply Co,South,Consumables,2025-09-19,1722,999,13.0,0.83,Yes
+PO1333,Globalsupply Co,West,Raw Material,2024-10-13,1345,1089,25.0,2.47,No
+PO1317,Novapack,South,Consumables,2024-04-14,1930,1276,4.0,6.46,Yes
+PO1257,Novapack,East,Consumables,2025-01-27,1232,2417,23.0,7.67,No
+PO1590,Novapack,East,Raw Material,2024-08-03,1014,3638,19.0,1.6,Yes
+PO1928,Sunfield Industries,North,Components,2025-08-16,1665,3149,26.0,4.54,No
+PO1204,Ashoka Metals,East,Components,2023-03-22,1774,1496,18.0,3.79,Yes
+PO1667,Meridian Exports,North,Components,2024-02-28,320,3922,23.0,4.18,No
+PO1985,Bharatparts,South,Components,2024-05-02,52,71,21.0,0.22,No
+PO1968,Bharatparts,South,Raw Material,2024-12-17,526,3649,10.0,7.28,Yes
+PO1397,Ashoka Metals,North,Consumables,2024-09-26,484,2368,7.0,1.53,Yes
+PO1379,Novapack,West,Packaging,2025-10-07,940,3826,23.0,3.78,Yes
+PO1566,Globalsupply Co,North,Components,2023-05-13,1244,3852,23.0,2.67,Yes
+PO1472,Novapack,West,Raw Material,2023-09-19,775,3108,16.0,4.0,Yes
+PO1827,Meridian Exports,East,Components,2024-07-01,834,3596,4.0,6.23,Yes
+PO1351,Zenith Traders,South,Components,2024-04-04,764,156,12.0,7.83,Yes
+PO1705,Zenith Traders,North,Components,2023-04-26,1955,2471,7.0,7.35,Yes
+PO1038,Zenith Traders,South,Components,2024-06-21,684,2851,4.0,0.21,Yes
+PO1715,Novapack,South,Raw Material,2024-09-17,307,2601,12.0,7.46,Yes
+PO1594,Meridian Exports,South,Consumables,2024-07-06,201,3856,6.0,7.53,No
+PO1455,Novapack,East,Components,2024-04-27,1319,333,9.0,0.19,Yes
+PO1785,Ashoka Metals,East,Raw Material,2024-08-07,257,2659,17.0,3.18,Yes
+PO1153,Ashoka Metals,North,Packaging,2024-04-20,1299,3522,7.0,7.0,Yes
+PO1241,Globalsupply Co,South,Components,2024-08-06,614,2199,16.0,3.35,Yes
+PO1776,Zenith Traders,West,Raw Material,2025-09-06,1819,2141,4.0,3.35,Yes
+PO1944,Novapack,North,Packaging,2024-10-07,294,3747,7.0,2.14,Yes
+PO1233,Bharatparts,North,Packaging,2024-12-06,402,2106,13.0,1.56,Yes
+PO1557,Zenith Traders,West,Raw Material,2025-06-20,493,1206,25.0,3.41,No
+PO1089,Globalsupply Co,North,Packaging,2024-04-16,1418,1729,10.0,1.25,No
+PO1206,Meridian Exports,East,Raw Material,2024-01-16,252,2961,10.0,0.08,Yes
+PO1154,Zenith Traders,West,Components,2024-11-20,1928,71,5.0,6.11,Yes
+PO1801,Globalsupply Co,West,Packaging,2024-05-07,1096,3048,5.0,1.39,Yes
+PO1816,Globalsupply Co,South,Raw Material,2025-02-17,1485,452,15.0,3.24,Yes
+PO1092,Tamilcast,West,Packaging,2023-06-12,1755,3743,21.0,3.07,Yes
+PO1360,Meridian Exports,North,Raw Material,2024-08-10,1469,527,15.0,6.78,Yes
+PO1879,Meridian Exports,East,Components,2023-09-28,1768,257,16.0,1.57,No
+PO1372,Sunfield Industries,West,Packaging,2023-04-07,1689,386,8.0,4.78,Yes
+PO1926,Ashoka Metals,South,Raw Material,2024-11-19,1193,60,19.0,4.2,No
+PO1866,Ashoka Metals,South,Raw Material,2024-10-26,1663,2064,22.0,6.98,No
+PO1814,Globalsupply Co,North,Packaging,2024-08-12,1595,3336,20.0,1.07,No
+PO1224,Novapack,West,Components,2025-01-08,1309,429,3.0,4.03,Yes
+PO1226,Tamilcast,West,Packaging,2023-07-16,306,2845,22.0,3.51,No
+PO1408,Meridian Exports,South,Components,2024-07-20,471,3154,13.0,7.6,Yes
+PO1510,Globalsupply Co,East,Packaging,2024-07-03,1269,3673,23.0,5.54,No
+PO1535,Globalsupply Co,West,Packaging,2024-07-19,1511,2492,25.0,5.36,Yes
+PO1630,Novapack,South,Raw Material,2025-02-13,689,301,22.0,4.31,No
+PO1986,Globalsupply Co,East,Consumables,2024-04-02,133,2233,8.0,3.54,Yes
+PO1053,Bharatparts,North,Consumables,2025-01-07,849,880,5.0,7.29,Yes
+PO1196,Globalsupply Co,North,Consumables,2024-10-27,1807,2290,8.0,6.18,Yes
+PO1232,Novapack,North,Components,2024-08-20,140,2470,26.0,6.04,No
+PO1404,Bharatparts,West,Raw Material,2024-12-04,1497,3935,22.0,3.47,Yes
+PO1274,Novapack,East,Packaging,2025-11-19,293,2888,14.0,7.91,No
+PO1244,Novapack,West,Packaging,2025-11-06,239,3747,8.0,4.34,Yes
+PO1653,Zenith Traders,North,Consumables,2024-07-26,648,1033,18.0,2.33,No
+PO1875,Sunfield Industries,North,Raw Material,2024-09-13,56,3827,16.0,5.65,No
+PO1483,Ashoka Metals,North,Consumables,2024-04-13,878,3874,15.0,2.27,No
+PO1332,Sunfield Industries,East,Packaging,2025-11-23,1817,3914,22.0,2.71,No
+PO1444,Bharatparts,North,Packaging,2024-09-21,1706,1595,14.0,3.18,No
+PO1159,Sunfield Industries,West,Consumables,2024-03-16,865,575,9.0,4.18,Yes
+PO1888,Meridian Exports,North,Consumables,2024-06-09,592,1290,8.0,6.96,Yes
+PO1670,Bharatparts,East,Consumables,2025-11-21,1263,2120,20.0,7.91,Yes
+PO1632,Globalsupply Co,East,Packaging,2024-10-24,882,3050,26.0,0.42,No
+PO1614,Sunfield Industries,South,Raw Material,2024-08-21,1176,3230,4.0,0.06,Yes
+PO1211,Sunfield Industries,South,Components,2025-10-21,765,2388,10.0,2.61,Yes
+PO1625,Globalsupply Co,North,Raw Material,2024-06-20,1049,650,11.0,3.2,Yes
+PO1428,Meridian Exports,West,Packaging,2024-09-01,1761,2906,24.0,2.82,No
+PO1498,Globalsupply Co,West,Components,2024-08-01,773,821,23.0,5.98,No
+PO1014,Novapack,East,Components,2025-03-04,755,1061,9.0,1.04,Yes
+PO1011,Zenith Traders,West,Raw Material,2023-01-28,1470,804,13.0,2.11,No
+PO1138,Tamilcast,East,Consumables,2024-06-19,1669,503,4.0,7.09,Yes
+PO1647,Tamilcast,East,Components,2025-07-18,1652,1303,26.0,3.31,No
+PO1357,Ashoka Metals,North,Consumables,2024-09-26,971,2867,19.0,2.36,No
+PO1635,Bharatparts,South,Consumables,2024-07-28,1314,2347,3.0,4.03,Yes
+PO1293,Novapack,South,Packaging,2023-05-27,1007,133,23.0,0.62,No
+PO1744,Ashoka Metals,North,Components,2025-12-07,1224,2552,7.0,7.32,Yes
+PO1093,Novapack,South,Components,2025-10-22,1617,1026,8.0,0.2,Yes
+PO1787,Ashoka Metals,West,Raw Material,2024-07-27,1869,1043,4.0,5.35,Yes
+PO1410,Zenith Traders,West,Packaging,2023-02-26,1317,264,11.0,2.97,Yes
+PO1872,Bharatparts,North,Consumables,2025-08-15,689,1181,22.0,2.66,Yes
+PO1503,Meridian Exports,East,Raw Material,2023-12-12,1502,1353,6.0,0.13,Yes
+PO1033,Sunfield Industries,West,Components,2025-10-10,518,3123,25.0,2.4,No
+PO1910,Novapack,West,Raw Material,2024-09-27,967,1272,19.0,6.63,No
+PO1716,Tamilcast,East,Raw Material,2023-12-05,813,1299,4.0,5.12,Yes
+PO1903,Zenith Traders,North,Packaging,2023-05-02,102,3319,7.0,6.64,Yes
+PO1216,Tamilcast,West,Components,2024-09-06,283,3275,10.0,4.44,No
+PO1358,Ashoka Metals,South,Raw Material,2023-03-16,1549,3679,9.0,0.53,Yes
+PO1757,Tamilcast,South,Components,2024-04-22,1207,2694,23.0,0.35,Yes
+PO1754,Meridian Exports,North,Packaging,2025-03-03,444,3713,19.0,7.22,No
+PO1709,Meridian Exports,East,Components,2024-12-24,486,612,10.0,1.65,No
+PO1453,Sunfield Industries,East,Raw Material,2024-11-12,537,3945,14.0,5.83,Yes
+PO1123,Sunfield Industries,North,Packaging,2023-05-05,987,646,9.0,2.21,Yes
+PO1116,Tamilcast,West,Consumables,2024-10-01,606,3444,11.0,4.02,Yes
+PO1823,Novapack,North,Raw Material,2023-08-08,720,1827,3.0,5.83,Yes
+PO1026,Bharatparts,South,Packaging,2024-04-06,1773,243,8.0,2.25,No
+PO1042,Meridian Exports,West,Raw Material,2025-12-25,566,3834,13.0,5.87,No
+PO1377,Globalsupply Co,East,Packaging,2024-09-28,588,3355,24.0,3.72,No
+PO1400,Tamilcast,South,Packaging,2024-10-26,445,1577,4.0,1.4,Yes
+PO1337,Tamilcast,North,Packaging,2024-03-12,46,3789,15.0,6.91,No
+PO1350,Novapack,South,Components,2023-02-08,1697,357,13.0,6.76,No
+PO1521,Globalsupply Co,West,Components,2024-02-22,1475,1854,23.0,5.55,No
+PO1142,Ashoka Metals,North,Components,2024-05-06,1713,2695,9.0,3.88,Yes
+PO1189,Globalsupply Co,South,Raw Material,2024-09-03,700,1338,2.0,5.99,Yes
+PO1401,Bharatparts,West,Consumables,2024-07-10,234,237,25.0,0.41,No
+PO1558,Tamilcast,East,Raw Material,2024-01-25,1192,950,16.0,0.07,Yes
+PO1267,Zenith Traders,West,Consumables,2024-08-11,962,3557,2.0,7.33,Yes
+PO1303,Ashoka Metals,West,Consumables,2023-07-14,1283,3544,4.0,3.51,Yes
+PO1435,Tamilcast,North,Components,2024-03-20,1897,291,10.0,5.31,Yes
+PO1107,Sunfield Industries,East,Raw Material,2025-09-21,792,808,7.0,7.9,Yes
+PO1687,Bharatparts,North,Raw Material,2023-12-23,1943,895,16.0,2.42,No
+PO1122,Sunfield Industries,West,Components,2025-12-05,1177,3542,4.0,2.75,Yes
+PO1052,Zenith Traders,West,Consumables,2023-12-11,510,1841,19.0,7.68,Yes
+PO1585,Ashoka Metals,South,Consumables,2024-07-15,744,1056,12.0,0.06,Yes
+PO1648,Zenith Traders,West,Raw Material,2024-09-17,940,2673,24.0,7.14,No
+PO1943,Novapack,South,Components,2023-12-26,1964,3225,19.0,7.07,No
+PO1329,Novapack,South,Raw Material,2024-12-12,1651,2188,15.0,0.61,No
+PO1104,Bharatparts,South,Consumables,2024-10-03,1627,3814,6.0,5.48,Yes
+PO1243,Meridian Exports,South,Consumables,2023-06-21,1274,3492,21.0,6.35,No
+PO1316,Bharatparts,North,Consumables,2024-11-24,851,2331,3.0,1.67,Yes
+PO1629,Novapack,South,Components,2024-03-15,1565,340,4.0,4.75,Yes
+PO1278,Meridian Exports,North,Packaging,2023-03-16,1755,1001,17.0,3.45,Yes
+PO1345,Bharatparts,South,Consumables,2024-05-12,777,3372,7.0,6.48,Yes
+PO1489,Bharatparts,West,Components,2024-11-18,1696,2368,24.0,5.23,No
+PO1799,Zenith Traders,East,Raw Material,2023-08-21,684,3467,25.0,3.29,No
+PO1654,Tamilcast,South,Packaging,2023-10-19,1637,3835,9.0,1.1,Yes
+PO1242,Sunfield Industries,West,Consumables,2024-03-09,1292,444,12.0,7.37,No
+PO1369,Zenith Traders,South,Raw Material,2024-10-16,1330,2788,20.0,4.25,Yes
+PO1760,Meridian Exports,South,Components,2023-01-17,1733,1522,15.0,6.7,No
+PO1578,Bharatparts,North,Packaging,2025-02-02,76,3167,20.0,7.78,No
+PO1524,Ashoka Metals,North,Components,2023-06-25,735,2572,26.0,4.03,No
+PO1281,Meridian Exports,South,Consumables,2024-10-28,1722,1236,2.0,7.3,Yes
+PO1958,Meridian Exports,West,Components,2024-04-28,1466,99,18.0,3.69,Yes
+PO1164,Sunfield Industries,North,Consumables,2025-05-05,1685,678,7.0,7.67,No
+PO1713,Tamilcast,East,Packaging,2023-08-20,1275,3308,8.0,5.32,Yes
+PO1506,Globalsupply Co,East,Components,2024-03-18,87,1062,23.0,7.92,No
+PO1382,Zenith Traders,North,Components,2024-04-03,529,1326,21.0,5.71,No
+PO1494,Sunfield Industries,West,Packaging,2024-04-10,388,470,19.0,2.99,No
+PO1864,Zenith Traders,East,Raw Material,2024-03-26,449,3191,20.0,2.54,No
+PO1652,Bharatparts,West,Consumables,2025-01-06,1356,3782,12.0,0.08,Yes
+PO1209,Sunfield Industries,West,Components,2024-12-04,315,2926,8.0,6.68,Yes
+PO1767,Meridian Exports,East,Components,2024-05-17,374,1544,24.0,1.67,No
+PO1945,Ashoka Metals,North,Consumables,2024-12-02,1523,1033,8.0,6.61,Yes
+PO1845,Sunfield Industries,South,Packaging,2024-09-17,1554,3289,4.0,4.38,No
+PO1088,Ashoka Metals,West,Consumables,2025-01-21,1360,973,23.0,5.59,No
+PO1861,Meridian Exports,East,Raw Material,2024-03-15,1781,1986,4.0,0.26,No
+PO1752,Novapack,West,Components,2024-05-15,597,128,12.0,6.47,Yes
+PO1238,Sunfield Industries,West,Components,2023-02-18,663,300,13.0,7.75,Yes
+PO1885,Tamilcast,North,Raw Material,2023-07-10,1121,1828,10.0,7.82,Yes
+PO1352,Tamilcast,East,Consumables,2024-07-09,101,3413,5.0,0.98,Yes
+PO1482,Meridian Exports,South,Components,2023-02-16,786,3705,21.0,0.74,Yes
+PO1649,Meridian Exports,South,Raw Material,2024-03-07,769,120,23.0,1.69,Yes
+PO1947,Zenith Traders,West,Raw Material,2023-05-27,1645,2624,4.0,5.84,Yes
+PO1735,Ashoka Metals,West,Components,2024-12-01,708,3004,16.0,6.12,No
+PO1009,Ashoka Metals,North,Components,2025-03-25,1897,3686,24.0,5.37,No
+PO1610,Tamilcast,West,Raw Material,2024-08-22,252,1130,2.0,1.45,Yes
+PO1220,Zenith Traders,West,Raw Material,2024-06-23,782,1474,15.0,5.89,Yes
+PO1387,Bharatparts,West,Raw Material,2024-08-21,551,3154,22.0,7.53,Yes
+PO1959,Meridian Exports,West,Consumables,2024-04-06,299,3662,17.0,4.89,No
+PO1532,Zenith Traders,East,Consumables,2024-09-01,813,834,25.0,2.41,No
+PO1399,Tamilcast,North,Components,2024-12-06,526,3787,12.0,0.36,Yes
+PO1460,Sunfield Industries,West,Components,2024-05-10,1854,206,60.0,3.79,No
+PO1114,Zenith Traders,East,Raw Material,2025-05-12,1364,1121,9.0,7.1,Yes
+PO1395,Ashoka Metals,North,Packaging,2023-11-12,394,131,16.0,4.86,No
+PO1213,Meridian Exports,West,Components,2023-06-01,1735,2461,24.0,7.87,Yes
+PO1717,Bharatparts,North,Packaging,2025-07-09,1825,1025,60.0,6.95,No
+PO1967,Tamilcast,West,Components,2023-04-28,1416,780,8.0,0.27,Yes
+PO1367,Tamilcast,East,Components,2023-08-01,1366,2059,5.0,1.69,No
+PO1166,Sunfield Industries,South,Consumables,2025-10-15,1341,2296,2.0,3.13,Yes
+PO1788,Ashoka Metals,South,Raw Material,2024-08-04,1375,3707,14.0,0.56,No
+PO1797,Tamilcast,East,Consumables,2025-03-13,1182,1679,21.0,3.27,Yes
+PO1136,Bharatparts,South,Consumables,2024-12-27,1226,471,10.0,0.39,Yes
+PO1920,Globalsupply Co,East,Consumables,2025-04-23,1104,2136,16.0,5.08,No
+PO1225,Ashoka Metals,South,Consumables,2024-03-12,559,2770,22.0,1.86,No
+PO1184,Novapack,East,Packaging,2025-08-14,245,1401,19.0,2.36,Yes
+PO1312,Meridian Exports,South,Consumables,2025-04-04,1060,750,3.0,2.11,Yes
+PO1396,Bharatparts,West,Packaging,2025-06-18,759,343,16.0,5.37,No
+PO1096,Globalsupply Co,North,Packaging,2025-08-13,331,2574,15.0,7.63,Yes
+PO1765,Globalsupply Co,West,Consumables,2023-12-03,1443,2325,12.0,4.65,Yes
+PO1212,Zenith Traders,East,Consumables,2023-03-27,381,2546,11.0,2.73,No
+PO1984,Ashoka Metals,West,Consumables,2024-05-17,1333,230,24.0,4.81,No
+PO1857,Zenith Traders,South,Consumables,2024-01-28,333,1068,4.0,5.8,Yes
+PO1376,Zenith Traders,South,Packaging,2023-06-22,1774,130,14.0,7.04,Yes
+PO1606,Novapack,East,Consumables,2023-06-15,1277,1478,22.0,0.59,Yes
+PO1684,Bharatparts,South,Raw Material,2024-11-24,1554,2215,15.0,1.72,No
+PO1481,Tamilcast,West,Components,2025-04-25,547,474,13.0,3.96,Yes
+PO1863,Zenith Traders,West,Consumables,2024-03-20,1395,2839,18.0,6.4,Yes
+PO1297,Globalsupply Co,West,Components,2024-04-04,1399,2969,5.0,4.79,Yes
+PO1301,Novapack,North,Consumables,2025-05-15,765,1110,12.0,1.43,No
+PO1346,Bharatparts,West,Consumables,2024-02-25,1331,2710,20.0,0.23,No
+PO1668,Zenith Traders,North,Components,2024-06-03,1663,1744,20.0,5.77,Yes
+PO1990,Meridian Exports,South,Components,2025-10-04,189,1932,17.0,2.37,No
+PO1466,Novapack,North,Consumables,2023-12-15,1550,53,19.0,0.8,No
+PO1617,Ashoka Metals,South,Components,2023-03-24,1235,2883,2.0,4.19,Yes
+PO1054,Bharatparts,North,Components,2024-09-28,764,996,10.0,1.83,Yes
+PO1780,Sunfield Industries,West,Packaging,2024-06-03,1113,2457,5.0,1.81,Yes
+PO1421,Ashoka Metals,East,Packaging,2024-05-21,86,3829,22.0,3.9,Yes
+PO1049,Globalsupply Co,East,Consumables,2024-07-05,1492,2967,3.0,7.39,Yes
+PO1446,Tamilcast,North,Consumables,2024-10-27,341,2539,10.0,4.49,No
+PO1722,Ashoka Metals,West,Components,2024-04-14,1311,409,18.0,3.48,Yes
+PO1941,Globalsupply Co,North,Components,2025-07-22,1308,3910,10.0,2.7,Yes
+PO1385,Sunfield Industries,East,Consumables,2024-05-20,1925,3414,19.0,4.03,No
+PO1851,Tamilcast,West,Components,2024-09-21,823,1936,14.0,5.66,Yes
+PO1871,Novapack,East,Components,2025-10-19,426,80,19.0,7.4,No
+PO1074,Globalsupply Co,East,Raw Material,2024-05-22,691,667,22.0,7.4,No
+PO1308,Ashoka Metals,East,Raw Material,2023-04-14,1066,636,22.0,1.74,Yes
+PO1313,Zenith Traders,North,Raw Material,2024-07-21,770,517,3.0,7.34,Yes
+PO1272,Novapack,South,Packaging,2024-06-27,1366,352,11.0,5.24,Yes
+PO1577,Zenith Traders,South,Packaging,2023-01-06,1261,3437,2.0,7.51,Yes
+PO1541,Tamilcast,East,Components,2025-01-02,849,1766,16.0,4.12,Yes
+PO1008,Sunfield Industries,East,Packaging,2023-01-27,329,2976,4.0,3.46,Yes
+PO1949,Zenith Traders,North,Consumables,2023-02-11,1101,3877,14.0,1.44,No
+PO1469,Globalsupply Co,South,Packaging,2025-04-19,485,3949,7.0,4.12,Yes
+PO1326,Sunfield Industries,North,Components,2025-05-22,1435,1808,6.0,7.84,Yes
+PO1917,Bharatparts,South,Components,2023-07-05,658,3700,3.0,0.77,Yes
+PO1589,Ashoka Metals,South,Components,2025-02-09,1552,2472,12.0,5.32,Yes
+PO1139,Tamilcast,South,Raw Material,2024-01-14,369,1788,2.0,7.29,Yes
+PO1679,Zenith Traders,East,Components,2023-08-18,511,1779,14.0,5.46,Yes
+PO1512,Sunfield Industries,West,Raw Material,2023-11-26,479,3728,18.0,4.66,Yes
+PO1806,Novapack,North,Raw Material,2023-06-14,1310,2474,21.0,5.82,No
+PO1279,Sunfield Industries,East,Raw Material,2023-03-15,855,639,24.0,5.79,No
+PO1384,Globalsupply Co,North,Packaging,2023-06-01,791,1433,11.0,4.03,No
+PO1766,Tamilcast,East,Components,2023-05-20,1477,2877,15.0,3.52,No
+PO1324,Ashoka Metals,North,Components,2024-10-16,119,2775,3.0,7.88,Yes
+PO1559,Sunfield Industries,East,Components,2023-02-02,1496,3306,24.0,0.23,No
+PO1775,Ashoka Metals,North,Raw Material,2024-12-26,823,891,21.0,6.28,No
+PO1745,Bharatparts,West,Raw Material,2023-06-20,588,3257,5.0,6.24,Yes
+PO1950,Bharatparts,South,Consumables,2023-09-20,1550,3316,11.0,3.92,No
+PO1831,Bharatparts,West,Consumables,2024-03-23,771,3176,21.0,4.03,No
+PO1479,Ashoka Metals,South,Packaging,2023-01-01,1106,304,16.0,0.84,Yes
+PO1723,Globalsupply Co,North,Components,2023-02-16,288,3605,6.0,4.64,No
+PO1695,Bharatparts,West,Raw Material,2025-08-02,1230,2096,22.0,4.03,No
+PO1923,Sunfield Industries,East,Components,2024-05-21,59,37,24.0,3.19,Yes
+PO1608,Ashoka Metals,East,Components,2023-11-27,923,366,21.0,0.47,No
+PO1112,Tamilcast,West,Raw Material,2025-12-22,1527,3805,6.0,7.29,Yes
+PO1680,Sunfield Industries,West,Components,2024-04-17,662,2851,11.0,4.03,Yes
+PO1659,Globalsupply Co,East,Consumables,2024-06-16,876,1909,9.0,1.82,Yes
+PO1355,Meridian Exports,West,Raw Material,2024-03-01,1048,3729,23.0,0.48,No
+PO1113,Zenith Traders,South,Consumables,2025-05-19,623,919,17.0,4.07,Yes
+PO1636,Globalsupply Co,North,Raw Material,2025-11-25,195,1026,25.0,2.51,No
+PO1759,Zenith Traders,North,Packaging,2024-04-26,673,1286,2.0,6.32,Yes
+PO1417,Sunfield Industries,West,Packaging,2024-07-22,1828,519,5.0,4.8,Yes
+PO1725,Tamilcast,East,Components,2024-06-21,365,63,8.0,5.31,Yes
+PO1331,Globalsupply Co,South,Consumables,2023-11-26,1136,435,7.0,0.03,Yes
+PO1697,Meridian Exports,West,Raw Material,2023-06-13,1081,1224,15.0,2.02,No
+PO1569,Zenith Traders,South,Packaging,2025-03-24,1002,230,11.0,4.03,No
+PO1669,Sunfield Industries,East,Packaging,2025-10-23,1382,3137,10.0,7.23,Yes
+PO1250,Zenith Traders,South,Components,2025-04-04,97,2858,3.0,4.03,Yes
+PO1721,Tamilcast,East,Consumables,2024-01-17,1493,1994,9.0,6.06,Yes
+PO1223,Bharatparts,North,Consumables,2023-08-28,762,268,19.0,7.42,Yes
+PO1277,Sunfield Industries,West,Consumables,2024-07-09,1972,2352,12.0,2.48,No
+PO1812,Tamilcast,North,Packaging,2024-07-06,666,3226,11.0,3.86,Yes
+PO1523,Bharatparts,West,Raw Material,2025-08-18,924,937,12.0,1.92,Yes
+PO1119,Tamilcast,West,Packaging,2024-05-05,1971,1648,12.0,5.01,No
+PO1230,Bharatparts,West,Raw Material,2024-04-19,1462,2994,16.0,7.99,No
+PO1740,Globalsupply Co,East,Components,2024-03-19,859,697,22.0,6.09,No
+PO1838,Sunfield Industries,South,Consumables,2025-05-12,265,1931,2.0,0.8,Yes
+PO1344,Zenith Traders,South,Raw Material,2024-05-20,160,2472,22.0,5.74,No
+PO1622,Sunfield Industries,West,Packaging,2025-06-10,486,1171,14.0,1.1,No
+PO1375,Bharatparts,South,Packaging,2023-09-13,900,3760,5.0,4.48,Yes
+PO1440,Novapack,East,Components,2025-01-09,1201,3881,3.0,5.33,Yes
+PO1643,Bharatparts,East,Raw Material,2024-06-27,476,824,4.0,1.97,Yes
+PO1441,Novapack,West,Raw Material,2025-03-27,264,2947,4.0,5.85,Yes
+PO1730,Globalsupply Co,West,Packaging,2024-12-23,75,2970,3.0,6.89,Yes
+PO1127,Meridian Exports,North,Raw Material,2024-09-17,1957,3010,25.0,0.29,No
+PO1423,Tamilcast,North,Components,2023-04-18,453,3643,17.0,4.4,Yes
+PO1818,Bharatparts,South,Consumables,2023-03-01,1926,2291,12.0,3.22,No
+PO1987,Tamilcast,North,Components,2025-01-08,1599,3184,24.0,3.29,No
+PO1734,Ashoka Metals,South,Consumables,2024-05-16,310,1506,24.0,5.24,Yes
+PO1291,Tamilcast,South,Components,2024-01-25,85,1757,22.0,2.74,No
+PO1733,Globalsupply Co,West,Raw Material,2024-08-20,1749,2924,3.0,7.67,Yes
+PO1762,Ashoka Metals,East,Raw Material,2024-10-11,1671,619,5.0,6.01,Yes
+PO1758,Ashoka Metals,North,Components,2025-05-26,1492,1209,23.0,6.3,No
+PO1115,Tamilcast,South,Packaging,2025-03-27,1651,3521,5.0,7.32,Yes
+PO1852,Novapack,North,Raw Material,2025-03-21,905,3543,21.0,6.49,No
+PO1584,Zenith Traders,North,Raw Material,2024-09-13,1569,2734,9.0,1.52,Yes
+PO1802,Zenith Traders,West,Raw Material,2024-07-14,1624,1444,24.0,5.5,Yes
+PO1222,Bharatparts,West,Consumables,2023-04-15,1070,2533,2.0,4.03,Yes
+PO1248,Meridian Exports,East,Components,2024-05-25,1509,3744,21.0,3.99,Yes
+PO1651,Meridian Exports,North,Raw Material,2024-08-16,1357,85,7.0,2.67,Yes
+PO1276,Sunfield Industries,West,Raw Material,2025-07-11,785,1402,17.0,6.37,Yes
+PO1310,Novapack,East,Consumables,2025-12-10,680,3160,12.0,1.84,Yes
+PO1028,Sunfield Industries,East,Packaging,2024-01-10,1139,2278,20.0,4.81,No
+PO1979,Meridian Exports,South,Raw Material,2025-06-19,1028,2643,10.0,2.94,Yes
+PO1724,Zenith Traders,North,Raw Material,2023-09-02,311,2607,19.0,1.11,No
+PO1160,Bharatparts,South,Packaging,2024-05-25,1543,3007,19.0,7.48,No
+PO1580,Globalsupply Co,West,Consumables,2024-03-07,1563,3377,5.0,0.16,No
+PO1262,Sunfield Industries,South,Raw Material,2025-12-16,1017,1326,13.0,2.9,Yes
+PO1330,Meridian Exports,North,Raw Material,2023-06-18,1490,2652,24.0,1.22,No
+PO1229,Bharatparts,West,Packaging,2024-02-06,232,2210,13.0,7.67,Yes
+PO1443,Globalsupply Co,South,Raw Material,2024-09-23,472,3628,10.0,5.57,Yes
+PO1097,Zenith Traders,South,Packaging,2024-05-08,909,1078,6.0,4.36,No
+PO1449,Globalsupply Co,South,Consumables,2024-03-12,226,1944,20.0,6.72,No
+PO1597,Zenith Traders,South,Components,2024-10-17,1533,781,12.0,0.03,No
+PO1782,Sunfield Industries,North,Consumables,2024-12-11,1862,709,21.0,7.97,No
+PO1270,Novapack,West,Components,2024-07-12,477,2450,16.0,0.23,No
+PO1953,Bharatparts,West,Consumables,2024-06-21,128,394,6.0,6.03,Yes
+PO1081,Tamilcast,North,Components,2025-07-17,1516,3542,3.0,5.26,No
+PO1275,Globalsupply Co,East,Raw Material,2023-11-28,1453,140,26.0,1.59,No
+PO1318,Bharatparts,West,Components,2024-08-10,817,2792,16.0,0.51,Yes
+PO1227,Globalsupply Co,East,Raw Material,2023-10-13,1716,724,25.0,4.79,No
+PO1493,Zenith Traders,South,Packaging,2025-03-06,999,3767,11.0,7.42,Yes
+PO1218,Bharatparts,West,Raw Material,2023-02-18,1434,3203,22.0,1.76,Yes
+PO1186,Sunfield Industries,North,Components,2025-01-05,1615,1009,11.0,7.03,Yes
+PO1676,Zenith Traders,North,Raw Material,2024-02-27,820,1094,4.0,7.12,Yes
+PO1165,Globalsupply Co,North,Consumables,2024-07-12,482,2186,9.0,0.99,Yes
+PO1402,Ashoka Metals,South,Packaging,2024-12-26,755,3145,24.0,4.03,No
+PO1783,Globalsupply Co,South,Packaging,2023-07-18,243,2844,25.0,1.45,No
+PO1529,Sunfield Industries,South,Packaging,2024-04-23,1266,3500,3.0,3.84,Yes
+PO1177,Globalsupply Co,West,Consumables,2025-07-12,417,1069,21.0,5.96,Yes
+PO1007,Meridian Exports,East,Components,2024-07-04,739,3865,18.0,3.65,Yes
+PO1505,Novapack,South,Raw Material,2025-06-12,821,1135,25.0,1.07,No
+PO1962,Meridian Exports,East,Consumables,2024-12-22,629,2054,6.0,4.88,No
+PO1415,Sunfield Industries,South,Components,2023-05-01,1963,815,20.0,7.36,No
+PO1596,Sunfield Industries,East,Raw Material,2025-10-15,347,1351,10.0,4.34,Yes
+PO1768,Zenith Traders,East,Packaging,2024-12-04,1625,3868,21.0,6.83,No
+PO1924,Tamilcast,East,Consumables,2024-08-16,205,125,4.0,3.07,No
+PO1383,Zenith Traders,East,Raw Material,2023-07-26,257,686,4.0,6.71,Yes
+PO1084,Novapack,South,Consumables,2024-04-09,1425,3438,19.0,4.06,Yes
+PO1973,Zenith Traders,East,Components,2025-05-01,1296,2231,9.0,3.04,Yes
+PO1427,Globalsupply Co,North,Raw Material,2025-03-16,517,2229,24.0,2.4,No
+PO1661,Meridian Exports,North,Packaging,2025-12-06,183,2477,18.0,0.04,No
+PO1306,Tamilcast,South,Components,2024-12-02,324,2128,6.0,4.03,Yes
+PO1458,Tamilcast,West,Packaging,2024-07-22,822,1163,20.0,7.84,Yes
+PO1631,Globalsupply Co,North,Consumables,2025-04-22,585,2091,14.0,2.95,No
+PO1132,Ashoka Metals,North,Raw Material,2023-07-20,807,2328,13.0,5.95,No
+PO1167,Novapack,West,Packaging,2024-04-27,1220,3714,13.0,5.41,No
+PO1656,Sunfield Industries,West,Consumables,2025-02-21,499,35,9.0,0.56,Yes
+PO1047,Ashoka Metals,South,Raw Material,2024-05-15,870,3477,5.0,2.84,Yes
+PO1015,Meridian Exports,North,Raw Material,2025-05-10,1099,1054,22.0,4.11,No
+PO1582,Bharatparts,East,Consumables,2024-09-19,1094,3930,21.0,4.05,Yes
+PO1029,Meridian Exports,North,Components,2025-09-12,1131,2597,22.0,4.03,Yes
+PO1692,Globalsupply Co,North,Consumables,2025-10-01,187,912,4.0,4.79,Yes
+PO1579,Tamilcast,East,Raw Material,2025-05-21,674,1442,12.0,4.03,Yes
+PO1974,Bharatparts,East,Raw Material,2023-04-16,824,656,23.0,4.39,No
+PO1239,Globalsupply Co,South,Consumables,2024-09-17,297,642,21.0,6.68,No
+PO1912,Globalsupply Co,East,Consumables,2024-01-07,1733,3006,21.0,5.79,No
+PO1368,Ashoka Metals,West,Components,2024-07-28,1474,51,25.0,6.33,No
+PO1701,Zenith Traders,South,Raw Material,2024-09-03,761,3795,14.0,4.95,Yes
+PO1960,Globalsupply Co,South,Raw Material,2024-05-24,568,954,17.0,4.03,Yes
+PO1858,Zenith Traders,East,Components,2025-12-02,99,3193,19.0,7.26,No
+PO1786,Meridian Exports,West,Components,2023-12-06,1733,3705,6.0,0.76,Yes
+PO1193,Zenith Traders,North,Consumables,2024-01-26,1854,3853,15.0,6.08,Yes
+PO1280,Bharatparts,South,Components,2024-01-16,515,891,21.0,0.51,No
+PO1840,Ashoka Metals,East,Raw Material,2025-01-28,123,2587,18.0,4.94,Yes
+PO1909,Bharatparts,East,Packaging,2024-05-26,1407,1074,4.0,2.65,Yes
+PO1611,Novapack,North,Packaging,2025-12-02,1139,1171,23.0,6.99,Yes
+PO1447,Globalsupply Co,North,Raw Material,2023-03-22,1522,872,26.0,3.07,No
+PO1266,Tamilcast,West,Components,2024-05-17,1903,3079,19.0,4.14,No
+PO1246,Globalsupply Co,South,Packaging,2024-03-24,251,375,25.0,2.75,No
+PO1217,Meridian Exports,South,Packaging,2025-05-02,1716,3073,8.0,2.31,Yes
+PO1062,Bharatparts,North,Consumables,2025-06-20,1382,2321,19.0,4.64,Yes
+PO1811,Zenith Traders,South,Raw Material,2025-04-13,162,219,9.0,6.66,Yes
+PO1365,Bharatparts,East,Consumables,2025-03-03,555,3023,12.0,3.53,No
+PO1031,Globalsupply Co,South,Consumables,2025-11-19,101,2989,19.0,0.01,Yes
+PO1129,Sunfield Industries,East,Consumables,2024-07-02,1275,3915,4.0,1.1,Yes
+PO1867,Meridian Exports,East,Packaging,2023-03-17,317,232,12.0,4.89,Yes
+PO1147,Globalsupply Co,North,Consumables,2023-04-09,840,1905,24.0,0.29,No
+PO1915,Sunfield Industries,West,Components,2024-07-02,1011,2922,22.0,6.57,No
+PO1448,Sunfield Industries,West,Consumables,2025-05-18,197,3436,26.0,4.29,No
+PO1155,Sunfield Industries,West,Consumables,2024-08-27,220,1008,23.0,4.2,No
+PO1761,Zenith Traders,South,Components,2023-06-27,347,541,18.0,6.34,Yes
+PO1988,Ashoka Metals,West,Raw Material,2023-09-11,1180,3768,8.0,1.34,Yes
+PO1287,Zenith Traders,North,Raw Material,2025-10-10,548,2936,14.0,5.09,Yes
+PO1299,Ashoka Metals,North,Components,2024-04-18,129,3528,24.0,7.54,No
+PO1067,Globalsupply Co,North,Raw Material,2023-10-18,78,1414,6.0,3.47,Yes
+PO1544,Meridian Exports,North,Packaging,2024-11-27,61,411,5.0,5.26,Yes
+PO1347,Novapack,North,Consumables,2024-11-11,1516,228,4.0,3.27,Yes
+PO1091,Meridian Exports,West,Components,2024-08-06,1671,198,17.0,3.27,Yes
+PO1720,Tamilcast,South,Raw Material,2024-10-21,170,77,6.0,1.22,No
+PO1964,Bharatparts,South,Components,2024-09-02,111,2563,7.0,1.61,Yes
+PO1144,Globalsupply Co,East,Consumables,2025-05-20,1129,3077,9.0,2.09,Yes
+PO1050,Zenith Traders,South,Raw Material,2025-04-18,451,1356,18.0,4.64,No
+PO1437,Zenith Traders,South,Raw Material,2023-06-03,689,3195,25.0,6.88,No
+PO1070,Sunfield Industries,West,Packaging,2023-01-04,678,3179,14.0,1.06,Yes
+PO1438,Globalsupply Co,North,Components,2023-05-04,220,1646,22.0,1.77,No
+PO1283,Zenith Traders,East,Consumables,2024-12-24,85,2428,13.0,4.26,Yes
+PO1922,Meridian Exports,South,Packaging,2024-03-12,1483,3736,11.0,3.65,No
+PO1938,Bharatparts,West,Consumables,2023-07-14,1313,37,15.0,5.16,Yes
+PO1315,Meridian Exports,South,Components,2023-05-22,1820,2302,21.0,6.23,No
+PO1311,Ashoka Metals,South,Components,2024-08-08,454,1204,23.0,6.88,No
+PO1045,Sunfield Industries,South,Components,2025-01-05,1573,2298,26.0,2.84,No
+PO1820,Sunfield Industries,West,Raw Material,2024-05-05,822,896,19.0,0.65,No
+PO1729,Sunfield Industries,West,Components,2025-01-28,827,3281,14.0,2.83,Yes
+PO1174,Zenith Traders,North,Packaging,2024-10-10,1466,736,4.0,4.03,Yes
+PO1660,Meridian Exports,North,Raw Material,2025-10-17,1580,688,15.0,1.75,No
+PO1429,Meridian Exports,South,Packaging,2025-04-21,474,3179,5.0,2.04,Yes
+PO1805,Zenith Traders,East,Consumables,2023-05-25,1008,3839,6.0,1.2,Yes
+PO1793,Tamilcast,West,Raw Material,2024-05-06,328,879,22.0,2.98,Yes
+PO1839,Zenith Traders,North,Components,2025-02-25,675,1537,20.0,7.78,No
+PO1143,Ashoka Metals,West,Packaging,2023-11-09,350,3886,5.0,6.19,No
+PO1260,Tamilcast,South,Consumables,2024-12-05,758,926,15.0,7.17,Yes
+PO1086,Bharatparts,East,Raw Material,2023-03-23,797,1193,13.0,2.61,Yes
+PO1254,Tamilcast,West,Raw Material,2023-05-01,943,1797,8.0,6.37,Yes
+PO1021,Tamilcast,East,Consumables,2024-01-26,177,1561,19.0,3.95,Yes
+PO1592,Bharatparts,West,Components,2025-04-24,1134,1854,11.0,6.49,No
+PO1075,Ashoka Metals,West,Raw Material,2024-09-16,1466,1578,5.0,2.25,Yes
+PO1575,Tamilcast,South,Components,2024-06-15,1080,1593,18.0,2.14,No
+PO1574,Zenith Traders,West,Raw Material,2023-06-24,1423,2163,8.0,1.13,Yes
+PO1702,Ashoka Metals,North,Components,2023-03-24,1328,2027,3.0,1.72,Yes
+PO1490,Tamilcast,South,Consumables,2023-05-03,970,3744,22.0,5.35,No
+PO1878,Sunfield Industries,East,Packaging,2025-04-18,1519,880,6.0,7.91,Yes
+PO1087,Globalsupply Co,South,Consumables,2025-07-11,704,1932,21.0,5.76,No
+PO1373,Bharatparts,South,Packaging,2024-02-18,484,622,15.0,4.81,No
+PO1201,Ashoka Metals,North,Consumables,2024-02-27,176,1282,25.0,2.96,No
+PO1268,Sunfield Industries,East,Consumables,2024-07-14,1101,2700,15.0,4.81,No
+PO1677,Ashoka Metals,West,Components,2025-03-19,1767,473,21.0,1.37,No
+PO1419,Globalsupply Co,West,Raw Material,2023-07-15,301,1965,18.0,5.25,No
+PO1933,Zenith Traders,North,Components,2024-03-13,460,1727,2.0,0.68,Yes
+PO1671,Zenith Traders,East,Components,2023-04-03,471,1368,10.0,4.03,Yes
+PO1394,Globalsupply Co,North,Raw Material,2023-04-10,82,1570,26.0,0.22,No
+PO1790,Globalsupply Co,South,Raw Material,2024-07-08,119,1910,20.0,5.44,No
+PO1017,Meridian Exports,North,Consumables,2024-02-09,604,3136,14.0,1.84,Yes
+PO1989,Tamilcast,East,Raw Material,2024-10-13,107,2445,6.0,3.61,Yes
+PO1117,Zenith Traders,North,Components,2023-05-23,1033,1312,14.0,0.23,Yes
+PO1664,Zenith Traders,East,Raw Material,2024-10-07,95,685,15.0,6.96,No
+PO1305,Tamilcast,North,Components,2024-06-21,1870,478,16.0,0.94,Yes
+PO1813,Bharatparts,North,Consumables,2025-02-19,846,460,14.0,7.04,Yes
+PO1389,Bharatparts,North,Packaging,2025-01-15,554,633,23.0,7.14,No
+PO1073,Zenith Traders,North,Components,2024-01-10,418,3913,12.0,3.56,Yes
+PO1870,Ashoka Metals,West,Raw Material,2023-03-24,1524,3372,21.0,2.29,Yes
+PO1882,Zenith Traders,South,Raw Material,2024-11-06,1293,1141,10.0,0.64,Yes
+PO1403,Ashoka Metals,West,Packaging,2025-03-28,1321,908,13.0,0.05,No
+PO1748,Novapack,South,Raw Material,2025-02-05,820,2033,5.0,5.32,Yes
+PO1562,Globalsupply Co,South,Components,2025-04-21,970,3499,10.0,5.05,Yes
+PO1796,Bharatparts,East,Packaging,2023-04-07,694,2366,8.0,4.29,Yes
+PO1551,Ashoka Metals,North,Raw Material,2023-06-05,1345,3217,12.0,3.57,No
+PO1706,Tamilcast,North,Raw Material,2024-04-18,921,1973,2.0,2.28,Yes
+PO1773,Ashoka Metals,West,Raw Material,2024-01-21,1081,3784,25.0,0.7,No
+PO1146,Tamilcast,South,Components,2023-11-06,1468,1755,18.0,2.61,Yes
+PO1420,Bharatparts,North,Raw Material,2024-03-01,497,1759,23.0,7.62,Yes
+PO1884,Globalsupply Co,North,Packaging,2023-11-21,324,455,25.0,4.78,Yes
+PO1646,Zenith Traders,North,Packaging,2025-02-12,457,3328,13.0,3.29,Yes
+PO1588,Bharatparts,East,Packaging,2024-01-05,524,546,13.0,4.03,Yes
+PO1517,Tamilcast,West,Raw Material,2024-05-18,1421,3163,10.0,1.27,Yes
+PO1231,Ashoka Metals,North,Consumables,2024-07-07,925,1444,14.0,1.18,No
+PO1219,Meridian Exports,South,Consumables,2023-08-27,1043,2303,5.0,4.84,Yes
+PO1873,Ashoka Metals,North,Raw Material,2025-05-16,1317,2015,25.0,6.77,Yes
+PO1570,Tamilcast,South,Consumables,2025-08-08,1293,1544,10.0,2.77,Yes
+PO1190,Globalsupply Co,East,Components,2025-03-08,1537,3821,6.0,6.4,Yes
+PO1066,Ashoka Metals,North,Packaging,2024-09-12,1248,1941,15.0,1.91,No
+PO1508,Tamilcast,South,Packaging,2024-02-15,68,3666,3.0,1.34,Yes
+PO1256,Tamilcast,South,Components,2025-04-07,283,2637,5.0,5.28,No
+PO1583,Novapack,East,Components,2025-10-24,1412,3807,25.0,2.34,Yes
+PO1176,Sunfield Industries,West,Raw Material,2024-03-23,1970,2998,18.0,5.88,Yes
+PO1552,Ashoka Metals,West,Components,2025-08-01,1644,3594,12.0,4.03,Yes
+PO1215,Meridian Exports,East,Consumables,2025-09-14,1292,1684,7.0,0.78,No
+PO1335,Novapack,West,Components,2023-11-28,1580,1278,21.0,1.44,No
+PO1178,Globalsupply Co,East,Components,2025-04-27,803,3170,5.0,0.98,Yes
+PO1082,Tamilcast,North,Consumables,2024-08-11,1474,1434,4.0,3.45,Yes
+PO1842,Novapack,West,Raw Material,2024-01-02,994,2418,14.0,4.63,Yes
+PO1374,Bharatparts,West,Components,2024-11-14,773,96,18.0,6.8,No
+PO1778,Bharatparts,North,Packaging,2025-07-05,274,1771,19.0,3.77,No
+PO1253,Ashoka Metals,South,Raw Material,2024-04-06,1080,2356,24.0,0.16,No
+PO1587,Novapack,North,Components,2024-11-06,1257,558,9.0,3.3,Yes
+PO1862,Sunfield Industries,North,Consumables,2024-12-04,874,1630,16.0,4.3,No
+PO1900,Meridian Exports,North,Packaging,2024-01-19,462,1653,9.0,7.4,Yes
+PO1485,Bharatparts,West,Packaging,2024-04-01,441,3264,9.0,0.44,Yes
+PO1236,Ashoka Metals,South,Raw Material,2024-02-18,771,2874,3.0,2.77,Yes
+PO1976,Meridian Exports,North,Raw Material,2024-06-16,1593,843,7.0,5.26,No
+PO1172,Tamilcast,North,Packaging,2025-04-10,1257,3360,21.0,3.57,No
+PO1020,Tamilcast,East,Consumables,2024-08-13,723,1286,13.0,6.94,Yes
+PO1769,Zenith Traders,South,Consumables,2024-12-22,317,2929,11.0,2.01,Yes
+PO1501,Bharatparts,North,Consumables,2024-11-16,1912,3910,21.0,4.03,No
+PO1203,Globalsupply Co,South,Raw Material,2023-10-20,599,3184,25.0,3.3,No
+PO1465,Globalsupply Co,South,Packaging,2023-03-26,1784,595,8.0,4.11,Yes
+PO1618,Meridian Exports,South,Components,2024-12-17,1308,484,7.0,1.18,Yes
+PO1889,Tamilcast,North,Packaging,2024-06-11,1497,3804,6.0,1.01,Yes
+PO1442,Globalsupply Co,West,Components,2025-02-28,960,3286,10.0,7.46,Yes
+PO1746,Tamilcast,North,Consumables,2023-04-20,270,2953,3.0,6.16,Yes
+PO1942,Globalsupply Co,South,Packaging,2024-11-18,1532,620,3.0,1.53,Yes
+PO1626,Tamilcast,East,Packaging,2025-09-18,1407,3533,20.0,2.11,No
+PO1708,Meridian Exports,West,Components,2024-02-24,906,3692,15.0,4.83,Yes
+PO1055,Novapack,West,Components,2023-01-14,959,854,25.0,0.73,No
+PO1502,Bharatparts,East,Components,2024-02-23,1692,2480,11.0,0.58,No
+PO1338,Ashoka Metals,West,Components,2024-06-26,1369,1786,7.0,3.65,Yes
+PO1245,Novapack,South,Packaging,2024-05-14,1166,351,21.0,6.15,No
+PO1378,Ashoka Metals,South,Consumables,2023-04-25,931,1106,17.0,3.23,No
+PO1982,Bharatparts,East,Components,2025-10-02,360,836,8.0,4.03,Yes
+PO1036,Globalsupply Co,South,Consumables,2024-07-18,1806,1441,24.0,0.22,Yes
+PO1682,Sunfield Industries,East,Raw Material,2024-09-16,1011,1908,4.0,2.72,Yes
+PO1536,Tamilcast,South,Consumables,2024-12-04,1664,3299,4.0,5.94,Yes
+PO1491,Meridian Exports,East,Packaging,2024-08-24,1019,1152,23.0,4.69,Yes
+PO1464,Tamilcast,West,Consumables,2024-01-16,1368,484,21.0,4.89,Yes
+PO1412,Bharatparts,North,Packaging,2025-09-15,410,776,6.0,0.76,Yes
+PO1519,Zenith Traders,West,Consumables,2024-01-15,1975,676,11.0,2.68,Yes
+PO1294,Zenith Traders,East,Components,2024-12-08,161,1292,6.0,3.19,Yes
+PO1894,Tamilcast,South,Packaging,2023-01-11,1274,3946,8.0,1.08,Yes
+PO1085,Novapack,South,Components,2024-09-13,450,3185,22.0,5.0,No
+PO1507,Novapack,South,Components,2024-07-16,622,754,11.0,0.49,Yes
+PO1690,Meridian Exports,West,Components,2024-03-03,415,943,24.0,7.84,No
+PO1284,Meridian Exports,South,Packaging,2023-10-28,769,3862,15.0,7.65,No
+PO1810,Ashoka Metals,East,Components,2025-03-08,297,129,20.0,2.92,Yes
+PO1807,Sunfield Industries,West,Raw Material,2024-03-03,1714,720,16.0,2.08,No
+PO1101,Globalsupply Co,South,Consumables,2024-05-08,301,2306,11.0,4.18,Yes
+PO1736,Novapack,North,Raw Material,2023-11-19,203,651,19.0,3.43,No
+PO1322,Novapack,West,Raw Material,2023-04-11,275,267,8.0,7.66,Yes
+PO1432,Meridian Exports,West,Components,2025-06-28,1325,3045,11.0,5.66,Yes
+PO1468,Sunfield Industries,West,Packaging,2024-08-04,969,3378,22.0,2.58,No
+PO1340,Novapack,East,Consumables,2024-06-07,1798,3791,22.0,4.03,No
+PO1051,Meridian Exports,East,Components,2024-05-14,1568,407,17.0,4.39,Yes
+PO1210,Globalsupply Co,West,Consumables,2023-12-28,452,675,10.0,4.03,Yes
+PO1913,Bharatparts,East,Components,2025-08-26,1242,3757,20.0,0.65,No
+PO1251,Sunfield Industries,North,Consumables,2024-10-22,627,1045,5.0,7.07,Yes
+PO1168,Globalsupply Co,West,Packaging,2023-04-09,1902,1675,10.0,2.99,No
+PO1898,Ashoka Metals,North,Consumables,2025-09-23,471,2032,14.0,5.3,No
+PO1393,Tamilcast,South,Raw Material,2024-12-24,766,3554,12.0,0.21,No
+PO1134,Tamilcast,West,Consumables,2024-03-26,644,3918,15.0,4.03,No
+PO1817,Zenith Traders,South,Consumables,2024-04-05,410,2595,24.0,2.39,Yes
+PO1843,Bharatparts,North,Raw Material,2025-02-22,1125,2535,11.0,4.29,No
+PO1609,Ashoka Metals,East,Packaging,2024-03-03,1182,3940,12.0,6.45,No
+PO1710,Meridian Exports,South,Components,2023-02-10,141,919,5.0,2.39,Yes
+PO1002,Novapack,East,Components,2025-03-26,972,377,21.0,2.61,No
+PO1789,Novapack,North,Consumables,2023-07-10,334,222,23.0,3.61,No
+PO1006,Tamilcast,East,Raw Material,2024-10-16,1810,259,20.0,3.62,No
+PO1111,Sunfield Industries,South,Consumables,2024-01-27,794,2316,13.0,5.19,No
+PO1742,Bharatparts,West,Packaging,2024-06-23,263,1565,8.0,6.9,Yes
+PO1199,Bharatparts,West,Consumables,2024-01-20,1429,539,14.0,6.06,Yes
+PO1681,Meridian Exports,South,Consumables,2025-01-28,444,2145,15.0,1.33,No
+PO1414,Zenith Traders,West,Raw Material,2023-11-24,1799,3836,12.0,4.56,Yes
+PO1665,Novapack,East,Raw Material,2025-08-26,1801,442,12.0,0.3,Yes
+PO1977,Zenith Traders,North,Components,2023-12-27,1959,1681,3.0,7.69,Yes
+PO1079,Ashoka Metals,East,Components,2023-03-18,1579,1253,18.0,2.06,Yes
+PO1175,Globalsupply Co,East,Packaging,2024-09-02,1541,2387,6.0,1.94,Yes
+PO1841,Novapack,North,Packaging,2025-02-04,1061,1897,20.0,0.59,No
+PO1663,Novapack,East,Raw Material,2023-02-10,1835,3713,4.0,2.74,Yes
+PO1048,Meridian Exports,South,Components,2025-11-06,1501,2172,22.0,6.14,No
+PO1392,Zenith Traders,North,Components,2024-09-05,1337,2307,5.0,7.64,No
+PO1035,Sunfield Industries,North,Raw Material,2023-08-04,1863,627,25.0,1.94,Yes
+PO1573,Ashoka Metals,East,Raw Material,2025-11-28,377,274,13.0,3.15,Yes
+PO1565,Globalsupply Co,East,Raw Material,2023-07-07,1491,3383,9.0,0.49,Yes
+PO1826,Zenith Traders,East,Consumables,2024-08-22,1850,3127,20.0,0.75,No
+PO1700,Novapack,North,Components,2024-11-07,1028,3889,23.0,6.88,No
+PO1024,Ashoka Metals,West,Consumables,2025-10-13,885,3750,21.0,3.85,Yes
+PO1895,Sunfield Industries,East,Consumables,2025-06-08,595,2611,9.0,5.42,Yes
+PO1694,Meridian Exports,North,Packaging,2024-08-26,165,1414,25.0,4.99,No
+PO1263,Zenith Traders,East,Components,2024-10-05,1317,2404,16.0,1.69,Yes
+PO1022,Zenith Traders,South,Components,2023-01-18,964,3232,7.0,4.12,Yes
+PO1615,Tamilcast,North,Consumables,2024-02-21,742,3012,26.0,0.89,No
+PO1672,Bharatparts,South,Packaging,2025-07-16,1307,2991,5.0,6.14,Yes
+PO1181,Zenith Traders,East,Consumables,2023-11-15,190,977,18.0,4.03,Yes
+PO1068,Meridian Exports,West,Raw Material,2025-02-21,1734,41,21.0,6.5,No
+PO1764,Zenith Traders,East,Raw Material,2023-05-07,1733,2520,18.0,2.53,Yes
+PO1737,Sunfield Industries,East,Components,2024-03-02,1686,400,4.0,7.25,Yes
+PO1798,Novapack,West,Components,2024-07-25,1637,1376,60.0,7.95,No
+PO1187,Zenith Traders,West,Consumables,2024-09-26,987,3412,6.0,3.56,Yes
+PO1140,Zenith Traders,West,Consumables,2024-07-27,656,664,25.0,6.06,No
+PO1339,Meridian Exports,South,Packaging,2024-01-06,191,3833,22.0,3.88,Yes
+PO1772,Globalsupply Co,North,Components,2024-11-28,682,3375,15.0,4.03,Yes
+PO1030,Sunfield Industries,West,Consumables,2025-10-25,952,1258,21.0,1.71,No
+PO1398,Ashoka Metals,West,Raw Material,2024-05-18,995,997,5.0,4.03,Yes
+PO1221,Globalsupply Co,West,Components,2023-11-23,1478,39,9.0,1.09,No
+PO1426,Novapack,South,Raw Material,2023-10-19,1367,1338,4.0,1.58,Yes
+PO1454,Ashoka Metals,East,Raw Material,2025-02-15,307,2982,10.0,4.67,Yes
+PO1418,Meridian Exports,West,Consumables,2023-02-19,1656,3108,7.0,6.98,Yes
+PO1937,Novapack,South,Packaging,2025-02-07,183,1839,7.0,7.82,Yes
+PO1059,Ashoka Metals,North,Packaging,2024-01-10,1773,829,2.0,4.15,Yes
+PO1039,Sunfield Industries,East,Consumables,2025-12-14,1014,1753,24.0,6.56,Yes
+PO1504,Zenith Traders,East,Components,2024-08-15,1338,2813,16.0,7.19,Yes
+PO1354,Novapack,West,Consumables,2025-01-20,957,2820,9.0,0.07,Yes
+PO1738,Tamilcast,South,Raw Material,2023-12-20,401,855,3.0,6.12,Yes
+PO1804,Zenith Traders,West,Consumables,2024-10-14,1467,120,5.0,4.28,Yes
+PO1424,Tamilcast,North,Components,2024-05-20,1146,2402,14.0,5.42,Yes
+PO1951,Globalsupply Co,East,Components,2024-12-11,1801,2851,25.0,0.97,No
+PO1390,Novapack,South,Consumables,2024-08-28,1089,172,9.0,4.49,No
+PO1854,Zenith Traders,North,Components,2024-07-03,1742,931,8.0,3.81,Yes
+PO1704,Novapack,East,Consumables,2024-04-11,131,1733,14.0,2.6,Yes
+PO1877,Zenith Traders,East,Packaging,2024-12-23,103,1115,16.0,1.83,Yes
+PO1896,Tamilcast,North,Components,2023-10-20,244,2535,21.0,4.76,No
+PO1965,Ashoka Metals,South,Packaging,2023-07-21,1004,2077,11.0,4.03,No
+PO1298,Sunfield Industries,North,Consumables,2023-06-04,1281,1947,15.0,5.17,No
+PO1100,Zenith Traders,North,Raw Material,2024-02-23,700,657,23.0,2.14,Yes
+PO1547,Novapack,East,Packaging,2024-05-15,1015,559,11.0,3.38,No
+PO1846,Globalsupply Co,East,Consumables,2024-05-22,561,2183,6.0,6.1,Yes
+PO1707,Sunfield Industries,South,Components,2023-02-19,596,3840,14.0,3.24,No
+PO1025,Bharatparts,East,Packaging,2024-06-21,653,3308,14.0,1.22,Yes
+PO1890,Meridian Exports,South,Consumables,2024-06-01,1219,3591,18.0,0.66,Yes
+PO1192,Novapack,North,Packaging,2025-07-24,1647,241,13.0,4.31,Yes
+PO1255,Meridian Exports,South,Packaging,2023-08-20,1172,1661,6.0,0.33,Yes
+PO1286,Sunfield Industries,West,Consumables,2023-02-27,1755,387,17.0,1.84,Yes
+PO1905,Sunfield Industries,South,Consumables,2024-07-01,585,3877,22.0,4.99,Yes
+PO1916,Bharatparts,East,Packaging,2025-05-16,1478,496,23.0,5.97,Yes
+PO1171,Globalsupply Co,West,Components,2023-09-27,1897,3670,22.0,4.15,Yes
+PO1295,Tamilcast,North,Components,2023-12-10,1923,970,14.0,4.03,Yes
+PO1599,Novapack,South,Raw Material,2024-08-21,1437,63,23.0,6.36,Yes
+PO1237,Bharatparts,North,Raw Material,2024-12-16,757,2129,20.0,3.86,No
+PO1971,Bharatparts,West,Consumables,2024-02-08,1349,1891,25.0,6.17,Yes
+PO1065,Meridian Exports,East,Components,2025-05-07,426,3615,16.0,4.23,No
+PO1259,Tamilcast,North,Components,2025-11-02,1938,1677,15.0,3.26,Yes
+PO1348,Meridian Exports,North,Raw Material,2023-06-08,1297,1714,14.0,3.73,No
+PO1321,Meridian Exports,South,Packaging,2025-09-11,1591,2586,7.0,2.06,Yes
+PO1755,Bharatparts,South,Components,2023-07-10,196,913,17.0,5.5,Yes
+PO1095,Tamilcast,South,Raw Material,2023-09-04,335,1195,14.0,2.39,No
+PO1824,Zenith Traders,North,Packaging,2024-06-01,1089,1163,21.0,7.1,No
+PO1527,Meridian Exports,West,Packaging,2024-03-26,1798,3137,4.0,2.33,Yes
+PO1560,Sunfield Industries,East,Packaging,2025-08-12,1462,2427,24.0,2.46,No
+PO1269,Sunfield Industries,South,Consumables,2023-03-07,402,2217,8.0,2.71,Yes
+PO1963,Zenith Traders,North,Components,2024-08-26,1090,3152,16.0,3.34,Yes
+PO1480,Novapack,East,Components,2023-10-28,218,1113,15.0,3.41,No
+PO1739,Sunfield Industries,West,Components,2024-03-07,991,2750,21.0,4.03,No
+PO1925,Zenith Traders,South,Components,2024-08-19,1690,3878,8.0,5.71,Yes
+PO1273,Novapack,South,Raw Material,2025-07-18,1494,800,24.0,1.69,No
+PO1886,Zenith Traders,East,Raw Material,2024-11-15,1942,3855,21.0,4.38,No
+PO1794,Zenith Traders,South,Raw Material,2024-05-27,1101,2364,22.0,0.69,No
+PO1538,Novapack,West,Consumables,2023-06-20,1767,1946,16.0,1.0,No
+PO1371,Zenith Traders,South,Components,2023-11-19,186,1652,6.0,1.18,Yes
+PO1450,Meridian Exports,North,Components,2024-11-03,1588,428,15.0,2.11,Yes
+PO1109,Globalsupply Co,East,Components,2024-11-11,1747,3520,9.0,0.45,Yes
+PO1642,Tamilcast,South,Raw Material,2025-05-10,1725,1112,7.0,6.26,No
+PO1678,Tamilcast,South,Consumables,2025-02-12,112,975,6.0,5.86,No
+PO1686,Tamilcast,East,Components,2024-07-27,1820,2412,6.0,4.47,Yes
+PO1185,Meridian Exports,South,Raw Material,2024-05-13,1716,3409,4.0,4.03,No
+PO1090,Meridian Exports,East,Consumables,2024-12-04,1945,2894,9.0,3.03,Yes
+PO1105,Zenith Traders,East,Raw Material,2024-07-27,347,2529,3.0,5.95,Yes
+PO1370,Ashoka Metals,North,Packaging,2024-07-08,1288,3338,10.0,1.4,Yes
+PO1657,Globalsupply Co,East,Packaging,2025-05-03,1006,118,6.0,2.64,Yes
+PO1247,Sunfield Industries,North,Components,2024-04-25,520,1159,6.0,7.01,Yes
+PO1673,Globalsupply Co,West,Components,2023-09-06,876,3521,19.0,0.33,No
+PO1601,Tamilcast,North,Raw Material,2023-05-09,1137,552,4.0,7.76,Yes
+PO1727,Ashoka Metals,West,Components,2024-11-11,246,954,21.0,0.93,No
+PO1098,Tamilcast,East,Consumables,2025-04-18,152,1702,26.0,1.54,No
+PO1019,Novapack,West,Components,2025-02-23,192,3258,3.0,0.08,Yes
+PO1828,Tamilcast,West,Raw Material,2025-09-06,1829,750,18.0,3.8,Yes
+PO1703,Ashoka Metals,North,Consumables,2024-12-09,123,2874,16.0,4.03,Yes
+PO1103,Novapack,East,Raw Material,2025-11-21,294,1690,26.0,1.35,No
+PO1457,Novapack,South,Consumables,2024-06-24,243,3905,5.0,3.42,Yes
+PO1542,Ashoka Metals,North,Raw Material,2023-09-08,1473,2739,12.0,4.73,Yes
+PO1921,Bharatparts,East,Raw Material,2024-08-16,630,2024,22.0,3.47,Yes
+PO1271,Bharatparts,South,Packaging,2024-09-08,739,3494,3.0,0.09,Yes
+PO1771,Ashoka Metals,North,Components,2025-02-11,120,1428,18.0,6.96,Yes
+PO1750,Zenith Traders,West,Packaging,2024-01-20,435,2596,6.0,2.35,No
+PO1548,Bharatparts,North,Raw Material,2024-12-03,520,3528,10.0,1.82,Yes
+PO1484,Tamilcast,East,Consumables,2024-09-18,1329,2536,12.0,3.44,Yes
+PO1145,Tamilcast,East,Components,2025-12-25,1503,1961,25.0,6.23,No
+PO1416,Bharatparts,South,Raw Material,2024-02-10,623,1256,7.0,7.51,No
+PO1046,Sunfield Industries,West,Raw Material,2024-05-04,773,1391,13.0,6.86,No
+PO1600,Bharatparts,South,Raw Material,2023-08-14,1116,1724,25.0,6.42,No
+PO1381,Tamilcast,South,Packaging,2025-04-01,1711,3009,20.0,1.03,Yes
+PO1792,Novapack,South,Packaging,2023-07-12,954,2778,11.0,6.83,No
+PO1353,Novapack,West,Components,2024-04-09,877,2758,9.0,2.6,Yes
+PO1855,Novapack,West,Packaging,2024-07-05,1816,2253,15.0,3.34,No
+PO1612,Meridian Exports,West,Consumables,2024-04-10,1594,3229,21.0,7.27,No
+PO1954,Meridian Exports,West,Consumables,2024-01-18,898,2341,16.0,4.54,Yes
+PO1774,Zenith Traders,East,Raw Material,2024-12-07,136,1814,14.0,2.67,Yes
+PO1356,Globalsupply Co,North,Raw Material,2024-11-04,229,1283,19.0,0.24,No
+PO1296,Globalsupply Co,East,Consumables,2025-10-02,1316,2855,13.0,3.77,Yes
+PO1452,Bharatparts,North,Components,2025-06-13,534,2884,9.0,7.41,Yes
+PO1492,Novapack,East,Packaging,2024-10-27,1836,3537,4.0,4.2,Yes
+PO1456,Zenith Traders,South,Consumables,2023-08-07,326,1121,14.0,1.68,Yes
+PO1328,Tamilcast,North,Components,2025-08-05,1454,2378,17.0,7.91,Yes
+PO1564,Novapack,West,Components,2024-06-26,1352,3003,4.0,1.8,Yes
+PO1899,Novapack,East,Packaging,2024-02-13,1733,117,6.0,4.03,Yes
+PO1475,Sunfield Industries,North,Raw Material,2024-03-04,1310,1622,14.0,7.38,Yes
+PO1966,Tamilcast,South,Packaging,2023-10-28,1267,991,11.0,0.78,No
+PO1290,Tamilcast,South,Consumables,2025-06-15,1596,2658,21.0,7.83,No
+PO1639,Meridian Exports,North,Consumables,2025-02-12,1135,2169,11.0,3.61,Yes
+PO1620,Novapack,North,Raw Material,2024-09-25,1782,3239,60.0,7.55,No
+PO1550,Novapack,East,Components,2024-02-26,50,1573,25.0,0.16,No
+PO1732,Globalsupply Co,North,Packaging,2024-06-28,1731,138,19.0,0.96,No
+PO1808,Globalsupply Co,West,Components,2023-07-22,1187,2707,7.0,4.03,Yes
+PO1689,Ashoka Metals,West,Packaging,2024-12-01,584,659,14.0,1.58,Yes
+PO1407,Zenith Traders,North,Consumables,2024-09-23,673,178,23.0,4.59,No
+PO1152,Sunfield Industries,East,Raw Material,2023-01-19,625,787,18.0,1.52,Yes
+PO1751,Sunfield Industries,West,Consumables,2024-10-02,1829,2306,21.0,1.7,No
+PO1314,Globalsupply Co,North,Consumables,2025-05-12,1517,634,19.0,6.67,Yes
+PO1848,Sunfield Industries,West,Components,2024-10-28,1438,2738,24.0,2.17,No
+PO1121,Sunfield Industries,West,Packaging,2024-05-23,97,637,11.0,0.57,No
+PO1685,Zenith Traders,East,Raw Material,2023-11-27,1621,3937,11.0,3.32,No
+PO1302,Zenith Traders,East,Packaging,2025-01-22,416,1668,8.0,5.7,Yes
+PO1077,Globalsupply Co,North,Packaging,2024-02-22,169,3707,18.0,3.68,Yes
+PO1946,Globalsupply Co,North,Packaging,2024-02-07,278,612,25.0,5.53,Yes
+PO1633,Meridian Exports,East,Consumables,2024-08-25,1057,3118,15.0,1.11,No
+PO1040,Sunfield Industries,North,Packaging,2024-12-09,143,1064,14.0,2.43,Yes
+PO1911,Meridian Exports,South,Raw Material,2024-05-10,1941,1019,10.0,2.16,Yes
+PO1425,Meridian Exports,South,Packaging,2024-01-25,1932,328,10.0,5.82,Yes
+PO1741,Novapack,North,Components,2024-12-18,555,3074,16.0,1.73,Yes
+PO1470,Sunfield Industries,West,Components,2023-01-23,890,2025,20.0,4.03,Yes
+PO1520,Zenith Traders,South,Consumables,2023-02-17,1691,3386,16.0,4.83,Yes
+PO1604,Ashoka Metals,South,Packaging,2024-08-22,390,3942,17.0,4.12,Yes
+PO1658,Zenith Traders,South,Components,2025-09-16,1038,3169,16.0,5.75,Yes
+PO1770,Globalsupply Co,North,Packaging,2025-08-17,1149,2516,20.0,4.56,Yes
+PO1173,Globalsupply Co,North,Raw Material,2025-11-23,1977,3430,5.0,0.3,Yes
+PO1576,Sunfield Industries,South,Consumables,2025-09-20,1415,1185,15.0,1.7,No
+PO1214,Ashoka Metals,West,Components,2023-05-15,443,388,18.0,7.99,No
+PO1605,Meridian Exports,East,Packaging,2025-02-09,562,3340,24.0,6.85,No
+PO1815,Ashoka Metals,East,Components,2025-01-06,707,1053,15.0,7.55,No
+PO1495,Tamilcast,North,Consumables,2024-03-10,1141,3361,7.0,4.08,No
+PO1568,Zenith Traders,West,Components,2025-07-27,284,304,13.0,5.9,Yes
+PO1956,Globalsupply Co,North,Raw Material,2023-03-26,333,1176,12.0,5.64,Yes
+PO1476,Sunfield Industries,South,Packaging,2024-04-26,158,1710,7.0,5.77,Yes
+PO1803,Zenith Traders,South,Packaging,2025-10-02,1662,757,24.0,0.18,Yes
+PO1624,Novapack,West,Components,2023-05-26,721,3815,6.0,0.38,Yes
+PO1952,Zenith Traders,North,Consumables,2024-02-25,769,1676,6.0,6.33,Yes
+PO1711,Globalsupply Co,East,Raw Material,2025-10-13,606,2456,5.0,6.08,Yes
+PO1634,Zenith Traders,North,Components,2024-07-21,1676,47,22.0,0.9,Yes
+PO1880,Sunfield Industries,West,Raw Material,2024-08-04,1315,2966,16.0,0.46,No
+PO1467,Ashoka Metals,North,Packaging,2024-06-05,237,1804,8.0,5.16,No
+PO1359,Novapack,North,Packaging,2025-02-23,505,2446,25.0,7.08,Yes
+PO1405,Meridian Exports,North,Components,2023-04-09,508,3583,20.0,4.75,No
+PO1699,Sunfield Industries,North,Components,2023-10-20,1725,1099,8.0,7.25,Yes
+PO1763,Sunfield Industries,East,Packaging,2023-05-07,851,1618,23.0,0.09,No
+PO1459,Globalsupply Co,North,Components,2023-02-18,1300,3154,60.0,0.74,No
+PO1207,Novapack,North,Components,2024-02-10,126,3154,20.0,5.07,No
+PO1061,Meridian Exports,East,Packaging,2024-11-21,1020,849,4.0,1.24,No
+PO1234,Ashoka Metals,West,Raw Material,2023-02-15,990,2171,4.0,3.2,Yes
+PO1037,Bharatparts,West,Raw Material,2024-09-26,1657,3038,4.0,3.56,Yes
+PO1674,Novapack,South,Raw Material,2025-05-01,789,3095,5.0,3.06,Yes
+PO1004,Tamilcast,North,Components,2024-12-11,476,2835,22.0,4.71,No
+PO1791,Bharatparts,East,Raw Material,2025-05-26,1762,351,12.0,1.47,No
+PO1655,Ashoka Metals,East,Raw Material,2024-11-07,999,257,6.0,3.35,Yes
+PO1158,Tamilcast,East,Raw Material,2023-02-23,615,1308,19.0,6.33,No
+PO1581,Bharatparts,South,Packaging,2024-11-14,250,1352,10.0,6.04,Yes
+PO1747,Sunfield Industries,West,Components,2024-03-05,399,135,13.0,4.6,Yes
+PO1461,Meridian Exports,North,Raw Material,2023-11-15,1637,868,16.0,7.73,No
+PO1150,Novapack,East,Packaging,2024-02-10,1083,2668,60.0,5.82,Yes
+PO1666,Ashoka Metals,East,Consumables,2025-09-03,1220,2317,3.0,3.33,No
+PO1961,Meridian Exports,South,Components,2024-09-09,1377,3234,15.0,4.87,Yes
+PO1832,Bharatparts,West,Consumables,2024-11-06,1473,2395,6.0,5.35,No
+PO1194,Meridian Exports,North,Raw Material,2024-06-12,1226,3276,20.0,4.03,No
+PO1586,Zenith Traders,South,Consumables,2025-05-22,1417,2659,16.0,6.17,Yes
+PO1078,Bharatparts,East,Consumables,2024-06-03,1514,3009,20.0,0.62,Yes
+PO1553,Bharatparts,South,Raw Material,2023-05-16,377,2854,9.0,7.58,Yes
+PO1555,Bharatparts,North,Raw Material,2024-09-02,1222,3073,6.0,7.37,Yes
+PO1102,Globalsupply Co,North,Raw Material,2024-12-08,1727,1002,24.0,1.34,Yes
+PO1125,Zenith Traders,West,Raw Material,2023-03-08,632,3141,5.0,3.14,Yes
+PO1010,Globalsupply Co,North,Consumables,2025-02-28,1731,176,22.0,2.19,No
+PO1939,Tamilcast,South,Components,2024-01-12,473,411,5.0,1.28,Yes
+PO1071,Novapack,East,Packaging,2023-12-13,1665,3024,17.0,0.35,No
+PO1252,Globalsupply Co,North,Components,2023-08-12,205,2392,18.0,4.57,Yes
+PO1918,Globalsupply Co,North,Raw Material,2023-01-11,1716,2049,9.0,1.24,Yes
+PO1126,Bharatparts,North,Packaging,2025-06-10,158,2271,8.0,2.81,No
+PO1304,Zenith Traders,West,Packaging,2023-04-12,1861,1084,4.0,6.16,Yes
+PO1970,Meridian Exports,North,Packaging,2025-10-09,407,787,19.0,1.92,No
+PO1784,Ashoka Metals,West,Packaging,2023-06-06,290,989,5.0,3.64,Yes
+PO1069,Ashoka Metals,North,Components,2025-08-17,175,2537,17.0,4.53,Yes
+PO1883,Novapack,East,Consumables,2024-04-12,759,2236,6.0,1.71,Yes
+PO1546,Ashoka Metals,North,Raw Material,2025-08-01,538,918,10.0,7.59,Yes
+PO1549,Meridian Exports,North,Components,2025-01-07,246,3172,23.0,3.24,No
+PO1904,Globalsupply Co,West,Components,2023-05-22,1147,1860,12.0,1.95,No
+PO1043,Zenith Traders,East,Consumables,2025-03-13,976,2062,12.0,4.52,Yes
+PO1537,Globalsupply Co,South,Consumables,2025-11-25,1954,2752,16.0,1.02,No
+PO1874,Sunfield Industries,South,Components,2024-05-27,1232,343,7.0,6.62,Yes
+PO1124,Globalsupply Co,East,Packaging,2025-07-02,572,2982,25.0,2.04,Yes
+PO1554,Ashoka Metals,East,Consumables,2023-04-15,1584,2390,19.0,2.15,Yes
+PO1919,Globalsupply Co,North,Consumables,2024-11-22,617,2332,9.0,7.4,Yes
+PO1932,Meridian Exports,West,Packaging,2024-08-13,1830,1351,9.0,6.51,Yes
+PO1083,Zenith Traders,North,Consumables,2025-11-22,551,3075,24.0,2.64,Yes
+PO1130,Meridian Exports,West,Consumables,2024-11-21,485,2147,13.0,7.04,Yes
+PO1908,Globalsupply Co,West,Packaging,2025-02-15,1835,3694,11.0,5.53,Yes
+PO1342,Bharatparts,North,Consumables,2023-04-05,343,2448,20.0,1.77,No
+PO1836,Tamilcast,West,Components,2023-12-01,335,3485,23.0,0.75,Yes
+PO1779,Ashoka Metals,South,Packaging,2024-02-05,982,2376,14.0,0.0,Yes
+PO1064,Sunfield Industries,South,Components,2025-11-22,1240,713,25.0,4.29,Yes
+PO1731,Zenith Traders,South,Raw Material,2024-05-21,513,2991,17.0,1.43,Yes
+PO1235,Meridian Exports,North,Components,2024-10-18,1872,2192,21.0,1.41,Yes
+PO1327,Ashoka Metals,East,Components,2023-06-21,668,1966,60.0,2.58,No
+PO1809,Ashoka Metals,East,Raw Material,2024-04-03,410,526,26.0,1.83,No
+PO1120,Tamilcast,South,Consumables,2024-12-21,109,3850,10.0,1.31,Yes
+PO1847,Meridian Exports,West,Consumables,2024-02-11,722,3321,16.0,4.16,Yes
+PO1539,Novapack,North,Consumables,2025-03-15,1807,3117,10.0,5.52,Yes
+PO1307,Tamilcast,West,Raw Material,2025-04-04,648,1999,25.0,7.36,No
+PO1978,Novapack,East,Consumables,2024-07-07,1031,1520,13.0,3.23,No
+PO1058,Tamilcast,South,Consumables,2025-04-27,1967,2237,24.0,1.91,No
+PO1556,Globalsupply Co,South,Components,2024-02-13,556,2297,3.0,7.37,Yes
+PO1285,Bharatparts,North,Raw Material,2025-09-12,1850,2694,24.0,0.94,No
+PO1637,Meridian Exports,East,Components,2024-07-06,770,3280,4.0,4.03,Yes
+PO1598,Sunfield Industries,East,Components,2025-04-10,745,3303,12.0,6.73,No
+PO1148,Novapack,West,Packaging,2023-02-16,1755,551,5.0,2.51,Yes
+PO1320,Novapack,West,Packaging,2024-06-09,959,451,10.0,3.54,Yes
+PO1323,Zenith Traders,West,Components,2025-05-17,333,2643,19.0,3.65,Yes
+PO1128,Ashoka Metals,South,Raw Material,2023-01-05,1362,559,25.0,5.16,No
+PO1195,Bharatparts,North,Consumables,2024-03-22,1639,2551,4.0,1.77,Yes
+PO1593,Bharatparts,East,Consumables,2024-02-01,1971,1101,23.0,6.18,No
+PO1063,Tamilcast,West,Packaging,2023-04-13,1588,3186,5.0,0.77,Yes
+PO1969,Globalsupply Co,North,Raw Material,2025-04-22,1160,736,17.0,3.77,No
+PO1645,Ashoka Metals,West,Packaging,2023-07-10,1471,3798,24.0,3.46,No
+PO1434,Sunfield Industries,South,Raw Material,2023-03-04,620,149,14.0,3.79,Yes
+PO1486,Sunfield Industries,West,Raw Material,2024-10-23,621,628,12.0,7.57,No
+PO1940,Zenith Traders,East,Packaging,2024-08-01,1532,1473,22.0,6.34,Yes
+PO1627,Zenith Traders,South,Raw Material,2025-03-26,739,3949,15.0,7.22,Yes
+PO1343,Sunfield Industries,South,Packaging,2023-10-12,531,1865,3.0,4.28,Yes
+PO1474,Ashoka Metals,South,Consumables,2024-02-06,1336,2493,24.0,4.22,Yes
+PO1528,Sunfield Industries,East,Packaging,2024-01-10,251,1598,16.0,7.05,No
+PO1411,Meridian Exports,West,Raw Material,2024-10-28,648,3894,10.0,4.79,Yes
+PO1638,Globalsupply Co,East,Consumables,2023-03-13,601,1157,6.0,2.3,Yes
+PO1902,Ashoka Metals,East,Consumables,2024-02-14,167,915,11.0,2.28,Yes
+PO1451,Meridian Exports,South,Components,2023-05-09,1533,2592,9.0,6.71,Yes
+PO1032,Tamilcast,South,Components,2024-06-05,543,2420,23.0,2.07,No
+PO1205,Ashoka Metals,North,Packaging,2023-12-18,867,1512,17.0,1.62,Yes
+PO1131,Tamilcast,North,Components,2024-10-06,1024,2696,9.0,6.2,Yes
+PO1265,Globalsupply Co,West,Components,2023-07-03,1442,1585,20.0,5.0,Yes
+PO1930,Tamilcast,West,Raw Material,2024-02-03,1569,3423,4.0,1.96,Yes
+PO1325,Tamilcast,West,Components,2025-10-27,1191,864,16.0,2.89,Yes
+PO1623,Meridian Exports,North,Raw Material,2023-01-07,306,885,22.0,0.36,No
+PO1749,Tamilcast,West,Raw Material,2025-04-14,1231,1604,12.0,4.24,Yes
+PO1162,Ashoka Metals,South,Components,2023-02-23,502,2509,13.0,3.74,No
+PO1496,Meridian Exports,North,Consumables,2024-04-15,958,3523,21.0,3.54,No
+PO1027,Zenith Traders,North,Packaging,2025-04-23,1803,3899,10.0,1.2,Yes
+PO1698,Ashoka Metals,East,Raw Material,2025-10-19,1610,932,9.0,4.09,Yes
+PO1334,Novapack,South,Components,2024-10-02,646,365,17.0,3.54,Yes
+PO1076,Bharatparts,West,Raw Material,2024-06-20,1463,2721,60.0,2.03,No
+PO1514,Sunfield Industries,West,Consumables,2024-07-11,1670,547,4.0,1.81,Yes
+PO1282,Tamilcast,West,Consumables,2023-08-10,363,3626,12.0,7.11,Yes
+PO1319,Zenith Traders,North,Consumables,2024-12-14,719,2044,20.0,4.03,No
+PO1849,Sunfield Industries,East,Raw Material,2025-02-12,1449,1719,4.0,4.24,Yes
+PO1363,Novapack,North,Packaging,2023-01-20,1810,73,12.0,3.15,Yes
+PO1336,Sunfield Industries,North,Raw Material,2023-06-04,894,1565,2.0,0.48,No
+PO1366,Sunfield Industries,North,Components,2023-07-24,621,1648,12.0,2.4,Yes
+PO1619,Tamilcast,North,Raw Material,2024-03-08,1605,2879,12.0,5.12,No
+PO1981,Globalsupply Co,West,Consumables,2025-04-20,281,3744,19.0,6.39,No
+PO1228,Ashoka Metals,South,Packaging,2024-12-08,1644,482,19.0,4.42,Yes
+PO1714,Ashoka Metals,South,Consumables,2023-09-19,1608,1663,7.0,4.03,Yes
+PO1907,Bharatparts,East,Consumables,2024-05-21,1494,1403,6.0,4.33,Yes
